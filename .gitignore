@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Game ROMs and disc data - NEVER distribute proprietary copyrighted ROMs
-*.md
 *.bin
 *.gen
 *.srm
@@ -14,6 +13,12 @@ __pycache__/
 *.zip
 rom/
 build/
+*Comix Zone*.md
+*comix_zone*.md
+
+# Keep documentation markdown files
+!README.md
+!docs/*.md
 
 # OS and Editor files
 .DS_Store
