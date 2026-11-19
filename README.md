@@ -6,11 +6,15 @@ Comprehensive Arabic fan translation, custom Rooyin pixel font pipeline, SRAM au
 
 ---
 
-## 📸 معاينة التعريب / Visual Previews
+## 📸 معاينات حية من داخل اللعبة / Live In-Game Screenshots
 
-| فقاعات الحوار (Dialogue Bubble) | الصناديق السردية الصفراء (Narrative Box) | المشاهد السينمائية (Cutscenes) |
-|:---:|:---:|:---:|
-| ![Bubble Preview](previews/preview_bubble_4x.png) | ![Box Preview](previews/preview_yellow_box_4x.png) | ![Cutscene Preview](previews/preview_cutscene_4x.png) |
+| فقاعات الحوار (Dialogue Bubble) | المشاهد السينمائية السردية (Story Cutscenes) |
+|:---:|:---:|
+| <img src="previews/preview_dialogue_bubble.png" width="450" alt="فقاعة الحوار داخل اللعبة" /><br><sub>**حوار داخل اللعبة:** سكيتش تيرنر يتحدث مع رودكيل داخل القفص ("رودكيل، يا صاحبي!!!")</sub> | <img src="previews/preview_cutscene_story.png" width="450" alt="المشهد السينمائي" /><br><sub>**المشهد الافتتاحي:** مورتس يرسم في مرسمه ("في هذا الجسد من لحم وعظم...")</sub> |
+
+| الصناديق السردية الصفراء (Narrative Box) | بطاقة بداية الحلقة (Episode Title Card) |
+|:---:|:---:|
+| <img src="previews/preview_narrative_box.png" width="450" alt="الصناديق السردية" /><br><sub>**الصناديق السردية:** أليسا وسكيتش في غرفة القيادة بتنسيق الكوميكس الأصفر</sub> | <img src="previews/preview_episode_title.png" width="450" alt="بطاقة الحلقة الأولى" /><br><sub>**شاشة البداية:** الحلقة الأولى ("ليلة المتحولين") بالخط العربي</sub> |
 
 ---
 
