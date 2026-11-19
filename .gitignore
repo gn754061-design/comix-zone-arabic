@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game ROMs and disc data - NEVER distribute proprietary copyrighted ROMs
+*.md
+*.bin
+*.gen
+*.srm
+*.sav
+*.iso
+*.7z
+*.zip
+rom/
+build/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env

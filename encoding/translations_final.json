@@ -1,0 +1,5258 @@
+[
+  {
+    "address": "0x1C831C",
+    "original": "WATCH OUT",
+    "translation": "انتبه",
+    "shaped": "ﻪﺒﺘﻧﺍ"
+  },
+  {
+    "address": "0x1C8326",
+    "original": "SKETCH!",
+    "translation": "يا سكيتش!",
+    "shaped": "!ﺶﺘﻴﻜﺳ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8330",
+    "original": "LET'S GET",
+    "translation": "هيا بنا",
+    "shaped": "ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1C833A",
+    "original": "GOING...",
+    "translation": "نتحرك",
+    "shaped": "ﻙﺮﺤﺘﻧ"
+  },
+  {
+    "address": "0x1C8344",
+    "original": "WHAT ARE YOU",
+    "translation": "ما الذي تدبرونه",
+    "shaped": "ﻪﻧﻭﺮﺑﺪﺗ ﻱﺬﻟﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1C8351",
+    "original": "WAITING FOR?",
+    "translation": "تنتظره؟",
+    "shaped": "؟ﻩﺮﻈﺘﻨﺗ"
+  },
+  {
+    "address": "0x1C8360",
+    "original": "WHAT'S THAT",
+    "translation": "ما هذا",
+    "shaped": "ﺍﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1C836C",
+    "original": "NOISE?",
+    "translation": "الصوت؟",
+    "shaped": "؟ﺕﻮﺼﻟﺍ"
+  },
+  {
+    "address": "0x1C8374",
+    "original": "GET ME OUT",
+    "translation": "أخرجني",
+    "shaped": "ﻲﻨﺟﺮﺧﺃ"
+  },
+  {
+    "address": "0x1C837F",
+    "original": "OF HERE!",
+    "translation": "من هنا!",
+    "shaped": "!ﺎﻨﻫ ﻦﻣ"
+  },
+  {
+    "address": "0x1C838A",
+    "original": "OH YEAH!",
+    "translation": "أجل!",
+    "shaped": "!ﻞﺟﺃ"
+  },
+  {
+    "address": "0x1C8394",
+    "original": "GAME OVER, MAN,",
+    "translation": "انتهت اللعبة",
+    "shaped": "ﺔﺒﻌﻠﻟﺍ ﺖﻬﺘﻧﺍ"
+  },
+  {
+    "address": "0x1C83A4",
+    "original": "THE END",
+    "translation": "النهاية",
+    "shaped": "ﺔﻳﺎﻬﻨﻟﺍ"
+  },
+  {
+    "address": "0x1C83AE",
+    "original": "IS THIS THE END",
+    "translation": "هل هذه نهاية",
+    "shaped": "ﺔﻳﺎﻬﻧ ﻩﺬﻫ ﻞﻫ"
+  },
+  {
+    "address": "0x1C83BE",
+    "original": "OF THE STORY?",
+    "translation": "القصة؟",
+    "shaped": "؟ﺔﺼﻘﻟﺍ"
+  },
+  {
+    "address": "0x1C83CD",
+    "original": "NEW YORK CITY, PRESENT DAY",
+    "translation": "مدينة نيويورك، الحاضر",
+    "shaped": "ﺮﺿﺎﺤﻟﺍ ،ﻙﺭﻮﻳﻮﻴﻧ ﺔﻨﻳﺪﻣ"
+  },
+  {
+    "address": "0x1C83E8",
+    "original": "LOOK AT ME, SKETCH -- I'M JUST A DRAWING!",
+    "translation": "انظر إلي يا سكيتش -- أنا مجرد رسمة!",
+    "shaped": "!ﺔﻤﺳﺭ ﺩﺮﺠﻣ ﺎﻧﺃ -- ﺶﺘﻴﻜﺳ ﺎﻳ ﻲﻟﺇ ﺮﻈﻧﺍ"
+  },
+  {
+    "address": "0x1C8412",
+    "original": "BUT I'LL BE FREE SOON ENOUGH...",
+    "translation": "لكنني سأتحرر قريباً...",
+    "shaped": "...ﺎﺒﻳﺮﻗ ﺭﺮﺤﺗﺄﺳ ﻲﻨﻨﻜﻟ"
+  },
+  {
+    "address": "0x1C8432",
+    "original": "...AS SOON AS YOU'RE DEAD!!!",
+    "translation": "بمجرد أن تموت!",
+    "shaped": "!ﺕﻮﻤﺗ ﻥﺃ ﺩﺮﺠﻤﺑ"
+  },
+  {
+    "address": "0x1C844F",
+    "original": "I CANNOT KILL YOU HERE, BUT...",
+    "translation": "لا أستطيع قتلك هنا، لكن",
+    "shaped": "ﻦﻜﻟ ،ﺎﻨﻫ ﻚﻠﺘﻗ ﻊﻴﻄﺘﺳﺃ ﻻ"
+  },
+  {
+    "address": "0x1C846E",
+    "original": "...I KNOW OF A PERFECT PLACE TO DO IT!",
+    "translation": "أعرف مكاناً مثالياً لذلك!",
+    "shaped": "!ﻚﻟﺬﻟ ﺎﻴﻟﺎﺜﻣ ﺎﻧﺎﻜﻣ ﻑﺮﻋﺃ"
+  },
+  {
+    "address": "0x1C8495",
+    "original": "HAVE A NICE TRIP!!!",
+    "translation": "رحلة موفقة إلى الهلاك!",
+    "shaped": "!ﻙﻼﻬﻟﺍ ﻰﻟﺇ ﺔﻘﻓﻮﻣ ﺔﻠﺣﺭ"
+  },
+  {
+    "address": "0x1C84A9",
+    "original": "NOT SO QUICK, YOU BRAT!",
+    "translation": "ليس بهذه السرعة، يا مشاغب!",
+    "shaped": "!ﺐﻏﺎﺸﻣ ﺎﻳ ،ﺔﻋﺮﺴﻟﺍ ﻩﺬﻬﺑ ﺲﻴﻟ"
+  },
+  {
+    "address": "0x1C84C1",
+    "original": "THE GAME'S NOT OVER YET...",
+    "translation": "اللعبة لم تنته بعد",
+    "shaped": "ﺪﻌﺑ ﻪﺘﻨﺗ ﻢﻟ ﺔﺒﻌﻠﻟﺍ"
+  },
+  {
+    "address": "0x1C84DC",
+    "original": "OH, COME ON -- THAT WAS JUST TOO EASY!",
+    "translation": "هيا، كان ذلك سهلاً جداً!",
+    "shaped": "!ﺍﺪﺟ ﻼﻬﺳ ﻚﻟﺫ ﻥﺎﻛ ،ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1C8503",
+    "original": "I WAS HOPING FOR A CHALLENGE!",
+    "translation": "كنت أتمنى تحديا!",
+    "shaped": "!ﺎﻳﺪﺤﺗ ﻰﻨﻤﺗﺃ ﺖﻨﻛ"
+  },
+  {
+    "address": "0x1C8521",
+    "original": "LET'S PLAY SOME MORE, EH?!?",
+    "translation": "لنلعب المزيد إيه؟",
+    "shaped": "؟ﻪﻳﺇ ﺪﻳﺰﻤﻟﺍ ﺐﻌﻠﻨﻟ"
+  },
+  {
+    "address": "0x1C853D",
+    "original": "AH, FREE AT LAST!",
+    "translation": "آه الحرية أخيرا!",
+    "shaped": "!ﺍﺮﻴﺧﺃ ﺔﻳﺮﺤﻟﺍ ﻩﺁ"
+  },
+  {
+    "address": "0x1C854F",
+    "original": "IN THIS BODY OF FLESH AND BONE...",
+    "translation": "في هذا الجسد من لحم وعظم",
+    "shaped": "ﻢﻈﻋﻭ ﻢﺤﻟ ﻦﻣ ﺪﺴﺠﻟﺍ ﺍﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C8571",
+    "original": "...I'M GOING TO ROCK THIS WORLD!",
+    "translation": "سأقلب هذا العالم رأساً على عقب!",
+    "shaped": "!ﺐﻘﻋ ﻰﻠﻋ ﺎﺳﺃﺭ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﺐﻠﻗﺄﺳ"
+  },
+  {
+    "address": "0x1C8592",
+    "original": "NICE KNOWING YOU, SKETCH TURNER!",
+    "translation": "سعدت بمعرفتك، يا سكيتش تورنر!",
+    "shaped": "!ﺮﻧﺭﻮﺗ ﺶﺘﻴﻜﺳ ﺎﻳ ،ﻚﺘﻓﺮﻌﻤﺑ ﺕﺪﻌﺳ"
+  },
+  {
+    "address": "0x1C85B3",
+    "original": "SKETCH SUCCEEDED, MORTUS IS DEAD...",
+    "translation": "نجح سكيتش، ومات مورتوس",
+    "shaped": "ﺱﻮﺗﺭﻮﻣ ﺕﺎﻣﻭ ،ﺶﺘﻴﻜﺳ ﺢﺠﻧ"
+  },
+  {
+    "address": "0x1C85D7",
+    "original": "...BUT SO IS ALISSA.",
+    "translation": "لكن أليسا كذلك",
+    "shaped": "ﻚﻟﺬﻛ ﺎﺴﻴﻟﺃ ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1C85EC",
+    "original": "HIS COMIC BOOK DESTROYED,",
+    "translation": "دمر كتابه الهزلي",
+    "shaped": "ﻲﻟﺰﻬﻟﺍ ﻪﺑﺎﺘﻛ ﺮﻣﺩ"
+  },
+  {
+    "address": "0x1C8606",
+    "original": "THIS IS HARDLY AN OUTCOME WORTH CELEBRATING.",
+    "translation": "هذه ليست نتيجة تستحق الاحتفال",
+    "shaped": "ﻝﺎﻔﺘﺣﻻﺍ ﻖﺤﺘﺴﺗ ﺔﺠﻴﺘﻧ ﺖﺴﻴﻟ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C8633",
+    "original": "WILL SKETCH UNLEASH THE EVIL ONCE AGAIN...",
+    "translation": "هل سيطلق سكيتش الشر مرة أخرى",
+    "shaped": "ﻯﺮﺧﺃ ﺓﺮﻣ ﺮﺸﻟﺍ ﺶﺘﻴﻜﺳ ﻖﻠﻄﻴﺳ ﻞﻫ"
+  },
+  {
+    "address": "0x1C865E",
+    "original": "...TO RE-LIVE HIS ADVENTURE...",
+    "translation": "ليعيش مغامرته مرة أخرى",
+    "shaped": "ﻯﺮﺧﺃ ﺓﺮﻣ ﻪﺗﺮﻣﺎﻐﻣ ﺶﻴﻌﻴﻟ"
+  },
+  {
+    "address": "0x1C867D",
+    "original": "...IN THE HOPE OF A BETTER ENDING?",
+    "translation": "بالأمل في نهاية أفضل؟",
+    "shaped": "؟ﻞﻀﻓﺃ ﺔﻳﺎﻬﻧ ﻲﻓ ﻞﻣﻷﺎﺑ"
+  },
+  {
+    "address": "0x1C86A0",
+    "original": "HAPPY SKETCHING!",
+    "translation": "رسماً ممتعاً!",
+    "shaped": "!ﺎﻌﺘﻤﻣ ﺎﻤﺳﺭ"
+  },
+  {
+    "address": "0x1C86B1",
+    "original": "SKETCH SUCCEEDED...",
+    "translation": "نجح سكيتش",
+    "shaped": "ﺶﺘﻴﻜﺳ ﺢﺠﻧ"
+  },
+  {
+    "address": "0x1C86C5",
+    "original": "...AND ALISSA, HIS HEROINE,",
+    "translation": "وأليسا بطلته",
+    "shaped": "ﻪﺘﻠﻄﺑ ﺎﺴﻴﻟﺃﻭ"
+  },
+  {
+    "address": "0x1C86E1",
+    "original": "...DECIDED TO JOIN HIM IN OUR WORLD.",
+    "translation": "قررت الانضمام إليه في عالمنا",
+    "shaped": "ﺎﻨﻤﻟﺎﻋ ﻲﻓ ﻪﻴﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﺕﺭﺮﻗ"
+  },
+  {
+    "address": "0x1C8706",
+    "original": "FOR SKETCH, ALISSA, AND R'KILL...",
+    "translation": "من أجل سكيتش، وأليسا، ورودكيل",
+    "shaped": "ﻞﻴﻛﺩﻭﺭﻭ ،ﺎﺴﻴﻟﺃﻭ ،ﺶﺘﻴﻜﺳ ﻞﺟﺃ ﻦﻣ"
+  },
+  {
+    "address": "0x1C8728",
+    "original": "...IT WAS A NEW BEGINNING.",
+    "translation": "كان بداية جديدة",
+    "shaped": "ﺓﺪﻳﺪﺟ ﺔﻳﺍﺪﺑ ﻥﺎﻛ"
+  },
+  {
+    "address": "0x1C8743",
+    "original": "AND, WHAT A BEGINNING IT WAS...",
+    "translation": "ويا لها من بداية رائعة",
+    "shaped": "ﺔﻌﺋﺍﺭ ﺔﻳﺍﺪﺑ ﻦﻣ ﺎﻬﻟ ﺎﻳﻭ"
+  },
+  {
+    "address": "0x1C8763",
+    "original": "  ",
+    "translation": "",
+    "shaped": ""
+  },
+  {
+    "address": "0x1C876C",
+    "original": "!@#!?!!",
+    "translation": "!@#!?!!",
+    "shaped": "!@#!?!!"
+  },
+  {
+    "address": "0x1C8776",
+    "original": "THANKS A LOT!!",
+    "translation": "شكراً جزيلاً!",
+    "shaped": "!ﻼﻳﺰﺟ ﺍﺮﻜﺷ"
+  },
+  {
+    "address": "0x1C8786",
+    "original": "I SHOULD'VE KNOWN!",
+    "translation": "كان يجدر بي معرفة ذلك!",
+    "shaped": "!ﻚﻟﺫ ﺔﻓﺮﻌﻣ ﻲﺑ ﺭﺪﺠﻳ ﻥﺎﻛ"
+  },
+  {
+    "address": "0x1C879A",
+    "original": "WELL DONE",
+    "translation": "أحسنت صنعاً",
+    "shaped": "ﺎﻌﻨﺻ ﺖﻨﺴﺣﺃ"
+  },
+  {
+    "address": "0x1C87A4",
+    "original": "TURNER!",
+    "translation": "يا تيرنر!",
+    "shaped": "!ﺮﻧﺮﻴﺗ ﺎﻳ"
+  },
+  {
+    "address": "0x1C87AE",
+    "original": "MEANWHILE ...",
+    "translation": "في هذه الأثناء",
+    "shaped": "ﺀﺎﻨﺛﻷﺍ ﻩﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C87BE",
+    "original": "SUDDENLY!",
+    "translation": "فجأة!",
+    "shaped": "!ﺓﺄﺠﻓ"
+  },
+  {
+    "address": "0x1C87CA",
+    "original": "LATER ...",
+    "translation": "فيما بعد",
+    "shaped": "ﺪﻌﺑ ﺎﻤﻴﻓ"
+  },
+  {
+    "address": "0x1C87D6",
+    "original": "KEEP GOING!",
+    "translation": "واصل التقدم!",
+    "shaped": "!ﻡﺪﻘﺘﻟﺍ ﻞﺻﺍﻭ"
+  },
+  {
+    "address": "0x1C87E4",
+    "original": "N.W.E. COMMAND CENTER",
+    "translation": "مركز قيادة N.W.E.",
+    "shaped": ".N.W.E ﺓﺩﺎﻴﻗ ﺰﻛﺮﻣ"
+  },
+  {
+    "address": "0x1C87FA",
+    "original": "NEWER YORK CITY",
+    "translation": "نيويورك الحديثة",
+    "shaped": "ﺔﺜﻳﺪﺤﻟﺍ ﻙﺭﻮﻳﻮﻴﻧ"
+  },
+  {
+    "address": "0x1C880C",
+    "original": "DECEASED DISTRICT",
+    "translation": "حي الموتى",
+    "shaped": "ﻰﺗﻮﻤﻟﺍ ﻲﺣ"
+  },
+  {
+    "address": "0x1C8820",
+    "original": "WELL, LET'S SEE",
+    "translation": "حسناً لنرَ",
+    "shaped": "ﺮﻨﻟ ﺎﻨﺴﺣ"
+  },
+  {
+    "address": "0x1C8832",
+    "original": "\"THEY\" HAVE A",
+    "translation": "لديهم مخبأ",
+    "shaped": "ﺄﺒﺨﻣ ﻢﻬﻳﺪﻟ"
+  },
+  {
+    "address": "0x1C8840",
+    "original": "HIDEOUT RIGHT",
+    "translation": "في هذه المدينة",
+    "shaped": "ﺔﻨﻳﺪﻤﻟﺍ ﻩﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C884E",
+    "original": "HERE IN THE CITY",
+    "translation": "اعثر عليه!",
+    "shaped": "!ﻪﻴﻠﻋ ﺮﺜﻋﺍ"
+  },
+  {
+    "address": "0x1C8860",
+    "original": "FIND IT!",
+    "translation": "بسرعة!",
+    "shaped": "!ﺔﻋﺮﺴﺑ"
+  },
+  {
+    "address": "0x1C886A",
+    "original": "WHO ARE YOU?",
+    "translation": "من أنت؟",
+    "shaped": "؟ﺖﻧﺃ ﻦﻣ"
+  },
+  {
+    "address": "0x1C8878",
+    "original": "YOUR MAKER,",
+    "translation": "صانعك",
+    "shaped": "ﻚﻌﻧﺎﺻ"
+  },
+  {
+    "address": "0x1C8884",
+    "original": "GRAVIS...",
+    "translation": "غرافيس...",
+    "shaped": "...ﺲﻴﻓﺍﺮﻏ"
+  },
+  {
+    "address": "0x1C8890",
+    "original": "THIS IS",
+    "translation": "هذا هو",
+    "shaped": "ﻮﻫ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C8898",
+    "original": "\"OUR\" TURF!",
+    "translation": "\"أرضنا\"!",
+    "shaped": "!\"ﺎﻨﺿﺭﺃ\""
+  },
+  {
+    "address": "0x1C88A6",
+    "original": "JUST TAKE IT EASY",
+    "translation": "اهدأ قليلاً",
+    "shaped": "ﻼﻴﻠﻗ ﺃﺪﻫﺍ"
+  },
+  {
+    "address": "0x1C88B8",
+    "original": "BIG BOY!",
+    "translation": "يا ضخم!",
+    "shaped": "!ﻢﺨﺿ ﺎﻳ"
+  },
+  {
+    "address": "0x1C88C2",
+    "original": "MAN, THIS IS",
+    "translation": "يا إلهي، هذا",
+    "shaped": "ﺍﺬﻫ ،ﻲﻬﻟﺇ ﺎﻳ"
+  },
+  {
+    "address": "0x1C88CF",
+    "original": "FOR REAL!!!",
+    "translation": "حقيقي تماماً!",
+    "shaped": "!ﺎﻣﺎﻤﺗ ﻲﻘﻴﻘﺣ"
+  },
+  {
+    "address": "0x1C88DC",
+    "original": "...AND IT'S ONLY",
+    "translation": "وهذه مجرد",
+    "shaped": "ﺩﺮﺠﻣ ﻩﺬﻫﻭ"
+  },
+  {
+    "address": "0x1C88ED",
+    "original": "THE BEGINNING!",
+    "translation": "البداية!",
+    "shaped": "!ﺔﻳﺍﺪﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C88FE",
+    "original": "WOW, I'M PRETTY",
+    "translation": "واو، أنا بارع",
+    "shaped": "ﻉﺭﺎﺑ ﺎﻧﺃ ،ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C890E",
+    "original": "GOOD AT THIS!",
+    "translation": "في هذا حقاً!",
+    "shaped": "!ﺎﻘﺣ ﺍﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C891E",
+    "original": "STOP RIGHT THERE!!!",
+    "translation": "توقف مكانك فوراً!",
+    "shaped": "!ﺍﺭﻮﻓ ﻚﻧﺎﻜﻣ ﻒﻗﻮﺗ"
+  },
+  {
+    "address": "0x1C8934",
+    "original": "WHY SHOULD I?",
+    "translation": "ولماذا أتوقف؟",
+    "shaped": "؟ﻒﻗﻮﺗﺃ ﺍﺫﺎﻤﻟﻭ"
+  },
+  {
+    "address": "0x1C8944",
+    "original": "THERE'S NOTHING",
+    "translation": "لا يوجد شيء",
+    "shaped": "ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ"
+  },
+  {
+    "address": "0x1C8954",
+    "original": "HERE!",
+    "translation": "هنا!",
+    "shaped": "!ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C895C",
+    "original": "OH, I THINK",
+    "translation": "أوه أظن",
+    "shaped": "ﻦﻇﺃ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1C8968",
+    "original": "THERE IS...",
+    "translation": "هناك",
+    "shaped": "ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C8976",
+    "original": "NICE TRY,",
+    "translation": "محاولة بائسة",
+    "shaped": "ﺔﺴﺋﺎﺑ ﺔﻟﻭﺎﺤﻣ"
+  },
+  {
+    "address": "0x1C8980",
+    "original": "BOZO!",
+    "translation": "يا أحمق!",
+    "shaped": "!ﻖﻤﺣﺃ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8988",
+    "original": "THERE'S A SECRET",
+    "translation": "هناك مدخل سري",
+    "shaped": "ﻱﺮﺳ ﻞﺧﺪﻣ ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C8999",
+    "original": "ENTRANCE HERE...",
+    "translation": "في هذا المكان",
+    "shaped": "ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C89AC",
+    "original": "HOW ABOUT",
+    "translation": "ما رأيك في",
+    "shaped": "ﻲﻓ ﻚﻳﺃﺭ ﺎﻣ"
+  },
+  {
+    "address": "0x1C89B6",
+    "original": "THAT MANHOLE!?!",
+    "translation": "تلك الفتحة؟",
+    "shaped": "؟ﺔﺤﺘﻔﻟﺍ ﻚﻠﺗ"
+  },
+  {
+    "address": "0x1C89C8",
+    "original": "ROADKILL,",
+    "translation": "رودكيل",
+    "shaped": "ﻞﻴﻛﺩﻭﺭ"
+  },
+  {
+    "address": "0x1C89D2",
+    "original": "BUDDY!!!",
+    "translation": "يا صاحبي!",
+    "shaped": "!ﻲﺒﺣﺎﺻ ﺎﻳ"
+  },
+  {
+    "address": "0x1C89DC",
+    "original": "HOLD ON, I'LL",
+    "translation": "تماسك،",
+    "shaped": "،ﻚﺳﺎﻤﺗ"
+  },
+  {
+    "address": "0x1C89EA",
+    "original": "GET YOU OUT!",
+    "translation": "سأنقذك الآن!",
+    "shaped": "!ﻥﻵﺍ ﻙﺬﻘﻧﺄﺳ"
+  },
+  {
+    "address": "0x1C89F8",
+    "original": "MAN, AM I HAPPY",
+    "translation": "كم أنا سعيد",
+    "shaped": "ﺪﻴﻌﺳ ﺎﻧﺃ ﻢﻛ"
+  },
+  {
+    "address": "0x1C8A08",
+    "original": "TO SEE YOU!",
+    "translation": "برؤيتك!",
+    "shaped": "!ﻚﺘﻳﺅﺮﺑ"
+  },
+  {
+    "address": "0x1C8A16",
+    "original": "COME HERE",
+    "translation": "تعال هنا",
+    "shaped": "ﺎﻨﻫ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1C8A20",
+    "original": "BRO!",
+    "translation": "يا صاحبي!",
+    "shaped": "!ﻲﺒﺣﺎﺻ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8A26",
+    "original": "WHAT'S GOING",
+    "translation": "ما الذي يحدث",
+    "shaped": "ﺙﺪﺤﻳ ﻱﺬﻟﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1C8A33",
+    "original": "ON?!??",
+    "translation": "ماذا يجري؟",
+    "shaped": "؟ﻱﺮﺠﻳ ﺍﺫﺎﻣ"
+  },
+  {
+    "address": "0x1C8A3C",
+    "original": "WOW, INTENSE!",
+    "translation": "واو هذا حماسي!",
+    "shaped": "!ﻲﺳﺎﻤﺣ ﺍﺬﻫ ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C8A4C",
+    "original": "WHAT'VE WE",
+    "translation": "ماذا لدينا",
+    "shaped": "ﺎﻨﻳﺪﻟ ﺍﺫﺎﻣ"
+  },
+  {
+    "address": "0x1C8A57",
+    "original": "GOT HERE??",
+    "translation": "هنا؟",
+    "shaped": "؟ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C8A64",
+    "original": "A TRAPDOOR",
+    "translation": "باب سري",
+    "shaped": "ﻱﺮﺳ ﺏﺎﺑ"
+  },
+  {
+    "address": "0x1C8A6F",
+    "original": "& A SWITCH",
+    "translation": "ومفتاح تشغيل",
+    "shaped": "ﻞﻴﻐﺸﺗ ﺡﺎﺘﻔﻣﻭ"
+  },
+  {
+    "address": "0x1C8A7C",
+    "original": "THAT'S A",
+    "translation": "الأمر بديهي",
+    "shaped": "ﻲﻬﻳﺪﺑ ﺮﻣﻷﺍ"
+  },
+  {
+    "address": "0x1C8A85",
+    "original": "BRAINER, MAN!",
+    "translation": "للغاية!",
+    "shaped": "!ﺔﻳﺎﻐﻠﻟ"
+  },
+  {
+    "address": "0x1C8A94",
+    "original": "BRUTE FORCE",
+    "translation": "القوة الغاشمة",
+    "shaped": "ﺔﻤﺷﺎﻐﻟﺍ ﺓﻮﻘﻟﺍ"
+  },
+  {
+    "address": "0x1C8AA2",
+    "original": "THAT'S THE WAY",
+    "translation": "هكذا هو الأمر",
+    "shaped": "ﺮﻣﻷﺍ ﻮﻫ ﺍﺬﻜﻫ"
+  },
+  {
+    "address": "0x1C8AB1",
+    "original": "I LIKE IT!",
+    "translation": "هذا يعجبني!",
+    "shaped": "!ﻲﻨﺒﺠﻌﻳ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C8ABE",
+    "original": "GETS THE",
+    "translation": "أنجزنا",
+    "shaped": "ﺎﻧﺰﺠﻧﺃ"
+  },
+  {
+    "address": "0x1C8AC7",
+    "original": "JOB DONE...",
+    "translation": "المهمة",
+    "shaped": "ﺔﻤﻬﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C8AD4",
+    "original": "COOL! COST ME",
+    "translation": "رائع! كلفني",
+    "shaped": "ﻲﻨﻔﻠﻛ !ﻊﺋﺍﺭ"
+  },
+  {
+    "address": "0x1C8AE2",
+    "original": "NO SWEAT!",
+    "translation": "بلا عناء!",
+    "shaped": "!ﺀﺎﻨﻋ ﻼﺑ"
+  },
+  {
+    "address": "0x1C8AEE",
+    "original": "DRUMS, MORTUS??",
+    "translation": "طبول يا مورتوس؟",
+    "shaped": "؟ﺱﻮﺗﺭﻮﻣ ﺎﻳ ﻝﻮﺒﻃ"
+  },
+  {
+    "address": "0x1C8B00",
+    "original": "HOW ABOUT SOME",
+    "translation": "كيف ببعض",
+    "shaped": "ﺾﻌﺒﺑ ﻒﻴﻛ"
+  },
+  {
+    "address": "0x1C8B0F",
+    "original": "IMAGINATION!",
+    "translation": "الخيال!",
+    "shaped": "!ﻝﺎﻴﺨﻟﺍ"
+  },
+  {
+    "address": "0x1C8B1E",
+    "original": "WHOA! SCARED THE",
+    "translation": "يا ساتر،",
+    "shaped": "،ﺮﺗﺎﺳ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8B2F",
+    "original": "HECK OUTTA ME!!",
+    "translation": "أفزعتني حقاً!",
+    "shaped": "!ﺎﻘﺣ ﻲﻨﺘﻋﺰﻓﺃ"
+  },
+  {
+    "address": "0x1C8B40",
+    "original": "AH, HELLO",
+    "translation": "أهلاً بك،",
+    "shaped": "،ﻚﺑ ﻼﻫﺃ"
+  },
+  {
+    "address": "0x1C8B4A",
+    "original": "STRIGIL!",
+    "translation": "ستريجيل!",
+    "shaped": "!ﻞﻴﺠﻳﺮﺘﺳ"
+  },
+  {
+    "address": "0x1C8B54",
+    "original": "DIE, INTRUDER!",
+    "translation": "مت يا دخيل!",
+    "shaped": "!ﻞﻴﺧﺩ ﺎﻳ ﺖﻣ"
+  },
+  {
+    "address": "0x1C8B64",
+    "original": "IS THIS HOW",
+    "translation": "أهكذا تعامل",
+    "shaped": "ﻞﻣﺎﻌﺗ ﺍﺬﻜﻫﺃ"
+  },
+  {
+    "address": "0x1C8B70",
+    "original": "YOU TREAT",
+    "translation": "رسامك",
+    "shaped": "ﻚﻣﺎﺳﺭ"
+  },
+  {
+    "address": "0x1C8B7A",
+    "original": "YOUR CREATOR??",
+    "translation": "وصانعك؟",
+    "shaped": "؟ﻚﻌﻧﺎﺻﻭ"
+  },
+  {
+    "address": "0x1C8B8A",
+    "original": "YOU'RE NOT OF",
+    "translation": "أنت لست من",
+    "shaped": "ﻦﻣ ﺖﺴﻟ ﺖﻧﺃ"
+  },
+  {
+    "address": "0x1C8B98",
+    "original": "OUR BREED!",
+    "translation": "جنسنا!",
+    "shaped": "!ﺎﻨﺴﻨﺟ"
+  },
+  {
+    "address": "0x1C8BA4",
+    "original": "DEJA VU?",
+    "translation": "ألم نلتقِ من قبل؟",
+    "shaped": "؟ﻞﺒﻗ ﻦﻣ ﻖﺘﻠﻧ ﻢﻟﺃ"
+  },
+  {
+    "address": "0x1C8BAE",
+    "original": "THE SWITCH IS",
+    "translation": "المفتاح مرتفع",
+    "shaped": "ﻊﻔﺗﺮﻣ ﺡﺎﺘﻔﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C8BBC",
+    "original": "TOO HIGH...",
+    "translation": "للغاية",
+    "shaped": "ﺔﻳﺎﻐﻠﻟ"
+  },
+  {
+    "address": "0x1C8BCA",
+    "original": "I DON'T LIKE",
+    "translation": "لا يعجبني هذا",
+    "shaped": "ﺍﺬﻫ ﻲﻨﺒﺠﻌﻳ ﻻ"
+  },
+  {
+    "address": "0x1C8BD7",
+    "original": "THIS CRATE--",
+    "translation": "هذا الصندوق مريب...",
+    "shaped": "...ﺐﻳﺮﻣ ﻕﻭﺪﻨﺼﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C8BE4",
+    "original": "WATCH OUT!",
+    "translation": "احذر!",
+    "shaped": "!ﺭﺬﺣﺍ"
+  },
+  {
+    "address": "0x1C8BF0",
+    "original": "THEY SAY, CURIOSITY",
+    "translation": "يقولون الفضول",
+    "shaped": "ﻝﻮﻀﻔﻟﺍ ﻥﻮﻟﻮﻘﻳ"
+  },
+  {
+    "address": "0x1C8C04",
+    "original": "KILLED THE CAT.",
+    "translation": "قتل القطة",
+    "shaped": "ﺔﻄﻘﻟﺍ ﻞﺘﻗ"
+  },
+  {
+    "address": "0x1C8C16",
+    "original": "JUST TAKE OUT",
+    "translation": "فقط أخرج",
+    "shaped": "ﺝﺮﺧﺃ ﻂﻘﻓ"
+  },
+  {
+    "address": "0x1C8C24",
+    "original": "THE TRAP-DOOR!",
+    "translation": "باب المصيدة!",
+    "shaped": "!ﺓﺪﻴﺼﻤﻟﺍ ﺏﺎﺑ"
+  },
+  {
+    "address": "0x1C8C34",
+    "original": "NASTY!",
+    "translation": "مقرف!",
+    "shaped": "!ﻑﺮﻘﻣ"
+  },
+  {
+    "address": "0x1C8C3C",
+    "original": "THAT'S WHY",
+    "translation": "لهذا السبب",
+    "shaped": "ﺐﺒﺴﻟﺍ ﺍﺬﻬﻟ"
+  },
+  {
+    "address": "0x1C8C47",
+    "original": "WE PAY YOU",
+    "translation": "ندفع لك",
+    "shaped": "ﻚﻟ ﻊﻓﺪﻧ"
+  },
+  {
+    "address": "0x1C8C52",
+    "original": "THE BIG BUCKS!",
+    "translation": "المال الكثير!",
+    "shaped": "!ﺮﻴﺜﻜﻟﺍ ﻝﺎﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C8C62",
+    "original": "HEY, I'M",
+    "translation": "مهلاً أنا",
+    "shaped": "ﺎﻧﺃ ﻼﻬﻣ"
+  },
+  {
+    "address": "0x1C8C6B",
+    "original": "JUST A",
+    "translation": "مجرد",
+    "shaped": "ﺩﺮﺠﻣ"
+  },
+  {
+    "address": "0x1C8C72",
+    "original": "STARVING",
+    "translation": "رسام",
+    "shaped": "ﻡﺎﺳﺭ"
+  },
+  {
+    "address": "0x1C8C7B",
+    "original": "ARTIST!!!",
+    "translation": "جائع!",
+    "shaped": "!ﻊﺋﺎﺟ"
+  },
+  {
+    "address": "0x1C8C86",
+    "original": "WELL, I",
+    "translation": "حسناً، كنتُ",
+    "shaped": "ﺖﻨﻛ ،ﺎﻨﺴﺣ"
+  },
+  {
+    "address": "0x1C8C8E",
+    "original": "USED TO BE...",
+    "translation": "كذلك سابقاً...",
+    "shaped": "...ﺎﻘﺑﺎﺳ ﻚﻟﺬﻛ"
+  },
+  {
+    "address": "0x1C8C9E",
+    "original": "WHAT'S THE",
+    "translation": "ما هي",
+    "shaped": "ﻲﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1C8CA9",
+    "original": "PASSWORD??",
+    "translation": "كلمة السر؟",
+    "shaped": "؟ﺮﺴﻟﺍ ﺔﻤﻠﻛ"
+  },
+  {
+    "address": "0x1C8CB6",
+    "original": "I'LL GIVE",
+    "translation": "سأعطيك",
+    "shaped": "ﻚﻴﻄﻋﺄﺳ"
+  },
+  {
+    "address": "0x1C8CC0",
+    "original": "YOU ONE...",
+    "translation": "واحدة قاضية...",
+    "shaped": "...ﺔﻴﺿﺎﻗ ﺓﺪﺣﺍﻭ"
+  },
+  {
+    "address": "0x1C8CCC",
+    "original": "WOW, SHREDDING!",
+    "translation": "واو تمزيق!",
+    "shaped": "!ﻖﻳﺰﻤﺗ ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C8CDE",
+    "original": "MAN, LOOK AT",
+    "translation": "يا رجل انظر إلى",
+    "shaped": "ﻰﻟﺇ ﺮﻈﻧﺍ ﻞﺟﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8CEB",
+    "original": "THIS PLACE...",
+    "translation": "هذا المكان",
+    "shaped": "ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C8CFA",
+    "original": "IT'S LIKE AN",
+    "translation": "هو كأنه",
+    "shaped": "ﻪﻧﺄﻛ ﻮﻫ"
+  },
+  {
+    "address": "0x1C8D07",
+    "original": "UNDERGROUND CITY!",
+    "translation": "مدينة تحت الأرض!",
+    "shaped": "!ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻨﻳﺪﻣ"
+  },
+  {
+    "address": "0x1C8D1A",
+    "original": "LOOKS LIKE THE END",
+    "translation": "يبدو كالنهاية",
+    "shaped": "ﺔﻳﺎﻬﻨﻟﺎﻛ ﻭﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C8D2D",
+    "original": "OF THE FIRST PAGE?",
+    "translation": "من الصفحة الأولى؟",
+    "shaped": "؟ﻰﻟﻭﻷﺍ ﺔﺤﻔﺼﻟﺍ ﻦﻣ"
+  },
+  {
+    "address": "0x1C8D42",
+    "original": "OH YEAH!!!",
+    "translation": "أوه أجل!",
+    "shaped": "!ﻞﺟﺃ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1C8D4E",
+    "original": "WHAT THE #!@?",
+    "translation": "ما هذا الهراء؟",
+    "shaped": "؟ﺀﺍﺮﻬﻟﺍ ﺍﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1C8D5C",
+    "original": "WAS THAT?",
+    "translation": "الذي حدث؟",
+    "shaped": "؟ﺙﺪﺣ ﻱﺬﻟﺍ"
+  },
+  {
+    "address": "0x1C8D68",
+    "original": "OH MORTUS,",
+    "translation": "أعشق هذه",
+    "shaped": "ﻩﺬﻫ ﻖﺸﻋﺃ"
+  },
+  {
+    "address": "0x1C8D73",
+    "original": "THANKS!",
+    "translation": "شكراً!",
+    "shaped": "!ﺍﺮﻜﺷ"
+  },
+  {
+    "address": "0x1C8D7C",
+    "original": "I JUST LOVE",
+    "translation": "أعشق هذه",
+    "shaped": "ﻩﺬﻫ ﻖﺸﻋﺃ"
+  },
+  {
+    "address": "0x1C8D88",
+    "original": "THESE DRUMS!!",
+    "translation": "الطبول حقاً!",
+    "shaped": "!ﺎﻘﺣ ﻝﻮﺒﻄﻟﺍ"
+  },
+  {
+    "address": "0x1C8D98",
+    "original": "HEHE!",
+    "translation": "ههه!",
+    "shaped": "!ﻪﻬﻫ"
+  },
+  {
+    "address": "0x1C8DA0",
+    "original": "I GOT YOU NOW,",
+    "translation": "أمسكتك الآن",
+    "shaped": "ﻥﻵﺍ ﻚﺘﻜﺴﻣﺃ"
+  },
+  {
+    "address": "0x1C8DAF",
+    "original": "LILL' BUGGER!",
+    "translation": "أيها المشاغب!",
+    "shaped": "!ﺐﻏﺎﺸﻤﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1C8DBE",
+    "original": "HEY, BACK OFF!!",
+    "translation": "ابتعد عنه،",
+    "shaped": "،ﻪﻨﻋ ﺪﻌﺘﺑﺍ"
+  },
+  {
+    "address": "0x1C8DD0",
+    "original": "THAT'S MY RAT!!",
+    "translation": "هذا فأري!",
+    "shaped": "!ﻱﺭﺄﻓ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C8DE2",
+    "original": "YOU PEOPLE JUST",
+    "translation": "أنتم لا تكفون",
+    "shaped": "ﻥﻮﻔﻜﺗ ﻻ ﻢﺘﻧﺃ"
+  },
+  {
+    "address": "0x1C8DF2",
+    "original": "KEEP COMING!",
+    "translation": "عن التوافد!",
+    "shaped": "!ﺪﻓﺍﻮﺘﻟﺍ ﻦﻋ"
+  },
+  {
+    "address": "0x1C8E00",
+    "original": "THAT'S RIGHT...",
+    "translation": "ذاك صحيح",
+    "shaped": "ﺢﻴﺤﺻ ﻙﺍﺫ"
+  },
+  {
+    "address": "0x1C8E12",
+    "original": "BUT... YOU WON'T",
+    "translation": "لكن لن",
+    "shaped": "ﻦﻟ ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1C8E23",
+    "original": "FIND OUR BASE!",
+    "translation": "تجد قاعدتنا!",
+    "shaped": "!ﺎﻨﺗﺪﻋﺎﻗ ﺪﺠﺗ"
+  },
+  {
+    "address": "0x1C8E34",
+    "original": "YOU'LL DIE FIRST!",
+    "translation": "ستموت أولاً!",
+    "shaped": "!ﻻﻭﺃ ﺕﻮﻤﺘﺳ"
+  },
+  {
+    "address": "0x1C8E48",
+    "original": "WANNA BET?",
+    "translation": "هل تراهن؟",
+    "shaped": "؟ﻦﻫﺍﺮﺗ ﻞﻫ"
+  },
+  {
+    "address": "0x1C8E54",
+    "original": "SORRY,",
+    "translation": "معذرة، لستُ",
+    "shaped": "ﺖﺴﻟ ،ﺓﺭﺬﻌﻣ"
+  },
+  {
+    "address": "0x1C8E5B",
+    "original": "WRONG BET!",
+    "translation": "رهان خاسر!",
+    "shaped": "!ﺮﺳﺎﺧ ﻥﺎﻫﺭ"
+  },
+  {
+    "address": "0x1C8E68",
+    "original": "ALMOST THERE,",
+    "translation": "كاد يصل",
+    "shaped": "ﻞﺼﻳ ﺩﺎﻛ"
+  },
+  {
+    "address": "0x1C8E76",
+    "original": "R'KILL!!",
+    "translation": "رودكيل!",
+    "shaped": "!ﻞﻴﻛﺩﻭﺭ"
+  },
+  {
+    "address": "0x1C8E80",
+    "original": "DON'T WORRY...",
+    "translation": "لا تقلق",
+    "shaped": "ﻖﻠﻘﺗ ﻻ"
+  },
+  {
+    "address": "0x1C8E90",
+    "original": "WE'RE GONNA MAKE",
+    "translation": "سنجتاز هذا",
+    "shaped": "ﺍﺬﻫ ﺯﺎﺘﺠﻨﺳ"
+  },
+  {
+    "address": "0x1C8EA1",
+    "original": "IT THROUGH!",
+    "translation": "حتماً!",
+    "shaped": "!ﺎﻤﺘﺣ"
+  },
+  {
+    "address": "0x1C8EAE",
+    "original": "DOWN IN THE SEWERS ...",
+    "translation": "أسفل في المجاري",
+    "shaped": "ﻱﺭﺎﺠﻤﻟﺍ ﻲﻓ ﻞﻔﺳﺃ"
+  },
+  {
+    "address": "0x1C8EC6",
+    "original": "YUCK, IT'S",
+    "translation": "يععع، المكان",
+    "shaped": "ﻥﺎﻜﻤﻟﺍ ،ﻊﻌﻌﻳ"
+  },
+  {
+    "address": "0x1C8ED1",
+    "original": "WET IN HERE!",
+    "translation": "غارق في القذارة!",
+    "shaped": "!ﺓﺭﺍﺬﻘﻟﺍ ﻲﻓ ﻕﺭﺎﻏ"
+  },
+  {
+    "address": "0x1C8EE0",
+    "original": "WATCH OUT --",
+    "translation": "احذر!",
+    "shaped": "!ﺭﺬﺣﺍ"
+  },
+  {
+    "address": "0x1C8EED",
+    "original": "I'M SCANNING",
+    "translation": "أرصد إشارات",
+    "shaped": "ﺕﺍﺭﺎﺷﺇ ﺪﺻﺭﺃ"
+  },
+  {
+    "address": "0x1C8EFA",
+    "original": "LIFE FORMS!!",
+    "translation": "حيوية هنا!",
+    "shaped": "!ﺎﻨﻫ ﺔﻳﻮﻴﺣ"
+  },
+  {
+    "address": "0x1C8F08",
+    "original": "OH NO --",
+    "translation": "أوه لا...",
+    "shaped": "...ﻻ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1C8F11",
+    "original": "STRIGIL!",
+    "translation": "ستريجيل!",
+    "shaped": "!ﻞﻴﺠﻳﺮﺘﺳ"
+  },
+  {
+    "address": "0x1C8F1C",
+    "original": "AND NOT",
+    "translation": "وليس",
+    "shaped": "ﺲﻴﻟﻭ"
+  },
+  {
+    "address": "0x1C8F24",
+    "original": "JUST ONE...",
+    "translation": "وحداً فقط...",
+    "shaped": "...ﻂﻘﻓ ﺍﺪﺣﻭ"
+  },
+  {
+    "address": "0x1C8F32",
+    "original": "SAY WHAT?!?",
+    "translation": "ماذا تقولين؟",
+    "shaped": "؟ﻦﻴﻟﻮﻘﺗ ﺍﺫﺎﻣ"
+  },
+  {
+    "address": "0x1C8F40",
+    "original": "... THAT TWO ARE",
+    "translation": "اثنان أفضل",
+    "shaped": "ﻞﻀﻓﺃ ﻥﺎﻨﺛﺍ"
+  },
+  {
+    "address": "0x1C8F51",
+    "original": "BETTER THAN ONE",
+    "translation": "من واحد!",
+    "shaped": "!ﺪﺣﺍﻭ ﻦﻣ"
+  },
+  {
+    "address": "0x1C8F62",
+    "original": "C'MON, GIMME",
+    "translation": "أرجوكِ، ارحميني",
+    "shaped": "ﻲﻨﻴﻤﺣﺭﺍ ،ﻙﻮﺟﺭﺃ"
+  },
+  {
+    "address": "0x1C8F6F",
+    "original": "A BREAK!!!",
+    "translation": "قليلاً!",
+    "shaped": "!ﻼﻴﻠﻗ"
+  },
+  {
+    "address": "0x1C8F7C",
+    "original": "LET'S SEE WHAT'S",
+    "translation": "لنر ما هو",
+    "shaped": "ﻮﻫ ﺎﻣ ﺮﻨﻟ"
+  },
+  {
+    "address": "0x1C8F8D",
+    "original": "BEHIND THIS DOOR.",
+    "translation": "خلف هذا الباب",
+    "shaped": "ﺏﺎﺒﻟﺍ ﺍﺬﻫ ﻒﻠﺧ"
+  },
+  {
+    "address": "0x1C8FA0",
+    "original": "YEAH, I",
+    "translation": "أجل، كلي شوق",
+    "shaped": "ﻕﻮﺷ ﻲﻠﻛ ،ﻞﺟﺃ"
+  },
+  {
+    "address": "0x1C8FA8",
+    "original": "CAN'T WAIT",
+    "translation": "لأرى ما بالداخل!",
+    "shaped": "!ﻞﺧﺍﺪﻟﺎﺑ ﺎﻣ ﻯﺭﻷ"
+  },
+  {
+    "address": "0x1C8FB4",
+    "original": "INSIDE",
+    "translation": "بالداخل",
+    "shaped": "ﻞﺧﺍﺪﻟﺎﺑ"
+  },
+  {
+    "address": "0x1C8FBC",
+    "original": "WHOA, I DON'T",
+    "translation": "واو، لا أذكر",
+    "shaped": "ﺮﻛﺫﺃ ﻻ ،ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C8FCA",
+    "original": "KNOW THIS PAGE...",
+    "translation": "هذه الصفحة...",
+    "shaped": "...ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C8FDE",
+    "original": "WEIRD STUFF!",
+    "translation": "يا للغرابة!",
+    "shaped": "!ﺔﺑﺍﺮﻐﻠﻟ ﺎﻳ"
+  },
+  {
+    "address": "0x1C8FEC",
+    "original": "WATCH IT --",
+    "translation": "احترس،",
+    "shaped": "،ﺱﺮﺘﺣﺍ"
+  },
+  {
+    "address": "0x1C8FF8",
+    "original": "ABOVE YOU!",
+    "translation": "فوقك تماماً!",
+    "shaped": "!ﺎﻣﺎﻤﺗ ﻚﻗﻮﻓ"
+  },
+  {
+    "address": "0x1C9004",
+    "original": "THE PROCESS",
+    "translation": "العملية",
+    "shaped": "ﺔﻴﻠﻤﻌﻟﺍ"
+  },
+  {
+    "address": "0x1C9010",
+    "original": "HAS STARTED",
+    "translation": "قد بدأت",
+    "shaped": "ﺕﺃﺪﺑ ﺪﻗ"
+  },
+  {
+    "address": "0x1C901E",
+    "original": "WHAT PROCESS??",
+    "translation": "أي عملية؟",
+    "shaped": "؟ﺔﻴﻠﻤﻋ ﻱﺃ"
+  },
+  {
+    "address": "0x1C902E",
+    "original": "AND YOU CAN'T",
+    "translation": "ولن تستطيع",
+    "shaped": "ﻊﻴﻄﺘﺴﺗ ﻦﻟﻭ"
+  },
+  {
+    "address": "0x1C903C",
+    "original": "STOP IT",
+    "translation": "إيقافها!",
+    "shaped": "!ﺎﻬﻓﺎﻘﻳﺇ"
+  },
+  {
+    "address": "0x1C9046",
+    "original": "I SURE COULD",
+    "translation": "بل سأوقفك أنت",
+    "shaped": "ﺖﻧﺃ ﻚﻔﻗﻭﺄﺳ ﻞﺑ"
+  },
+  {
+    "address": "0x1C9053",
+    "original": "STOP YOU!",
+    "translation": "حتماً!",
+    "shaped": "!ﺎﻤﺘﺣ"
+  },
+  {
+    "address": "0x1C905E",
+    "original": "SOMEONE NEEDS",
+    "translation": "شخص ما يحتاج",
+    "shaped": "ﺝﺎﺘﺤﻳ ﺎﻣ ﺺﺨﺷ"
+  },
+  {
+    "address": "0x1C906C",
+    "original": "A LOT OF AIR",
+    "translation": "كثير من الهواء",
+    "shaped": "ﺀﺍﻮﻬﻟﺍ ﻦﻣ ﺮﻴﺜﻛ"
+  },
+  {
+    "address": "0x1C9079",
+    "original": "DOWN HERE.",
+    "translation": "هنا بالأسفل",
+    "shaped": "ﻞﻔﺳﻷﺎﺑ ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C9086",
+    "original": "COME ON --",
+    "translation": "هيا، أرسل",
+    "shaped": "ﻞﺳﺭﺃ ،ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1C9091",
+    "original": "USE YOUR RAT!",
+    "translation": "فأرك الصغير!",
+    "shaped": "!ﺮﻴﻐﺼﻟﺍ ﻙﺭﺄﻓ"
+  },
+  {
+    "address": "0x1C90A0",
+    "original": "AERIAL ASSAULT!",
+    "translation": "هجوم جوي!",
+    "shaped": "!ﻱﻮﺟ ﻡﻮﺠﻫ"
+  },
+  {
+    "address": "0x1C90B2",
+    "original": "THIS PLACE GIVES",
+    "translation": "هذا المكان يقشعر",
+    "shaped": "ﺮﻌﺸﻘﻳ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C90C3",
+    "original": "ME THE CREEPS",
+    "translation": "منه بدني...",
+    "shaped": "...ﻲﻧﺪﺑ ﻪﻨﻣ"
+  },
+  {
+    "address": "0x1C90D2",
+    "original": "HMMM, A TOUGH",
+    "translation": "همم، خيار",
+    "shaped": "ﺭﺎﻴﺧ ،ﻢﻤﻫ"
+  },
+  {
+    "address": "0x1C90E0",
+    "original": "CHOICE...",
+    "translation": "صعب...",
+    "shaped": "...ﺐﻌﺻ"
+  },
+  {
+    "address": "0x1C90EC",
+    "original": "GEEZ, THESE",
+    "translation": "يا إلهي، هؤلاء",
+    "shaped": "ﺀﻻﺆﻫ ،ﻲﻬﻟﺇ ﺎﻳ"
+  },
+  {
+    "address": "0x1C90F8",
+    "original": "GUYS ARE",
+    "translation": "الأوغاد في",
+    "shaped": "ﻲﻓ ﺩﺎﻏﻭﻷﺍ"
+  },
+  {
+    "address": "0x1C9101",
+    "original": "EVERYWHERE!",
+    "translation": "كل مكان!",
+    "shaped": "!ﻥﺎﻜﻣ ﻞﻛ"
+  },
+  {
+    "address": "0x1C910E",
+    "original": "I DON'T LIKE",
+    "translation": "لا يعجبني هذا",
+    "shaped": "ﺍﺬﻫ ﻲﻨﺒﺠﻌﻳ ﻻ"
+  },
+  {
+    "address": "0x1C911B",
+    "original": "THE NOISE BELOW...",
+    "translation": "الصوت بالأسفل...",
+    "shaped": "...ﻞﻔﺳﻷﺎﺑ ﺕﻮﺼﻟﺍ"
+  },
+  {
+    "address": "0x1C9130",
+    "original": "I WOULDN'T",
+    "translation": "إياك والقفز",
+    "shaped": "ﺰﻔﻘﻟﺍﻭ ﻙﺎﻳﺇ"
+  },
+  {
+    "address": "0x1C913B",
+    "original": "JUMP DOWN",
+    "translation": "إلى ذلك الجحر",
+    "shaped": "ﺮﺤﺠﻟﺍ ﻚﻟﺫ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1C9145",
+    "original": "THERE!",
+    "translation": "المظلم!",
+    "shaped": "!ﻢﻠﻈﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C914E",
+    "original": "FIND THE COMBINATION",
+    "translation": "اعثر على شفرة القفل!",
+    "shaped": "!ﻞﻔﻘﻟﺍ ﺓﺮﻔﺷ ﻰﻠﻋ ﺮﺜﻋﺍ"
+  },
+  {
+    "address": "0x1C9164",
+    "original": "AND WHAT'S",
+    "translation": "وما هو هذا",
+    "shaped": "ﺍﺬﻫ ﻮﻫ ﺎﻣﻭ"
+  },
+  {
+    "address": "0x1C916F",
+    "original": "THIS DEVICE?",
+    "translation": "الجهاز الغريب؟",
+    "shaped": "؟ﺐﻳﺮﻐﻟﺍ ﺯﺎﻬﺠﻟﺍ"
+  },
+  {
+    "address": "0x1C917E",
+    "original": "SOME SORT OF",
+    "translation": "يبدو كأنه نوع",
+    "shaped": "ﻉﻮﻧ ﻪﻧﺄﻛ ﻭﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C918B",
+    "original": "LOCK, I THINK",
+    "translation": "من الأقفال...",
+    "shaped": "...ﻝﺎﻔﻗﻷﺍ ﻦﻣ"
+  },
+  {
+    "address": "0x1C919A",
+    "original": "C'MON, TURNER --",
+    "translation": "هيا يا تيرنر،",
+    "shaped": "،ﺮﻧﺮﻴﺗ ﺎﻳ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1C91AB",
+    "original": "YOU'RE DISAPPOINTING ME!",
+    "translation": "لقد خيبت أملي!",
+    "shaped": "!ﻲﻠﻣﺃ ﺖﺒﻴﺧ ﺪﻘﻟ"
+  },
+  {
+    "address": "0x1C91C6",
+    "original": "WOW, I GET IT...",
+    "translation": "واو، فهمت الآن!",
+    "shaped": "!ﻥﻵﺍ ﺖﻤﻬﻓ ،ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C91D7",
+    "original": "THE MUTANTS NEED",
+    "translation": "المتحولون يتغذون",
+    "shaped": "ﻥﻭﺬﻐﺘﻳ ﻥﻮﻟﻮﺤﺘﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C91E8",
+    "original": "THESE CRAWLERS...",
+    "translation": "على تلك الزواحف...",
+    "shaped": "...ﻒﺣﺍﻭﺰﻟﺍ ﻚﻠﺗ ﻰﻠﻋ"
+  },
+  {
+    "address": "0x1C91FC",
+    "original": "FOR FOOD!",
+    "translation": "المقرفة!",
+    "shaped": "!ﺔﻓﺮﻘﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C9206",
+    "original": "BUT...",
+    "translation": "لكن",
+    "shaped": "ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1C920E",
+    "original": "TO FEED WHAT?",
+    "translation": "لإطعام ماذا؟",
+    "shaped": "؟ﺍﺫﺎﻣ ﻡﺎﻌﻃﻹ"
+  },
+  {
+    "address": "0x1C921E",
+    "original": "WHAT ARE THESE",
+    "translation": "ما هذه",
+    "shaped": "ﻩﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1C922D",
+    "original": "LIQUID CELLS",
+    "translation": "خلايا سائلة",
+    "shaped": "ﺔﻠﺋﺎﺳ ﺎﻳﻼﺧ"
+  },
+  {
+    "address": "0x1C923A",
+    "original": "ANYWAY?",
+    "translation": "على أي حال؟",
+    "shaped": "؟ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ"
+  },
+  {
+    "address": "0x1C9244",
+    "original": "SKETCH, MY SCANNER",
+    "translation": "سكيتش، ماسحي",
+    "shaped": "ﻲﺤﺳﺎﻣ ،ﺶﺘﻴﻜﺳ"
+  },
+  {
+    "address": "0x1C9257",
+    "original": "IS GOING NUTS!",
+    "translation": "يطلق إنذارات جنونية!",
+    "shaped": "!ﺔﻴﻧﻮﻨﺟ ﺕﺍﺭﺍﺬﻧﺇ ﻖﻠﻄﻳ"
+  },
+  {
+    "address": "0x1C9268",
+    "original": "WATCH OUT!!!",
+    "translation": "احذر فوراً!",
+    "shaped": "!ﺍﺭﻮﻓ ﺭﺬﺣﺍ"
+  },
+  {
+    "address": "0x1C9276",
+    "original": "I SHOULD'VE",
+    "translation": "كان يجدر بي",
+    "shaped": "ﻲﺑ ﺭﺪﺠﻳ ﻥﺎﻛ"
+  },
+  {
+    "address": "0x1C9282",
+    "original": "KNOWN",
+    "translation": "أن أتوقع ذلك...",
+    "shaped": "...ﻚﻟﺫ ﻊﻗﻮﺗﺃ ﻥﺃ"
+  },
+  {
+    "address": "0x1C928A",
+    "original": "THIS IS THEIR",
+    "translation": "هذا وكر تفريخ",
+    "shaped": "ﺦﻳﺮﻔﺗ ﺮﻛﻭ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C9298",
+    "original": "BREEDING GROUND!",
+    "translation": "المسوخ المتوحشة!",
+    "shaped": "!ﺔﺸﺣﻮﺘﻤﻟﺍ ﺥﻮﺴﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C92AA",
+    "original": "HUNGRY",
+    "translation": "مواليد مسوخ",
+    "shaped": "ﺥﻮﺴﻣ ﺪﻴﻟﺍﻮﻣ"
+  },
+  {
+    "address": "0x1C92B1",
+    "original": "NEWBORN",
+    "translation": "جائعة ومتحولة!",
+    "shaped": "!ﺔﻟﻮﺤﺘﻣﻭ ﺔﻌﺋﺎﺟ"
+  },
+  {
+    "address": "0x1C92B9",
+    "original": "MUTANTS!",
+    "translation": "يا للرعب!",
+    "shaped": "!ﺐﻋﺮﻠﻟ ﺎﻳ"
+  },
+  {
+    "address": "0x1C92C4",
+    "original": "I HOPE THIS",
+    "translation": "أرجو أن يكون هذا",
+    "shaped": "ﺍﺬﻫ ﻥﻮﻜﻳ ﻥﺃ ﻮﺟﺭﺃ"
+  },
+  {
+    "address": "0x1C92D0",
+    "original": "EPISODE IS",
+    "translation": "انتهت الحلقة",
+    "shaped": "ﺔﻘﻠﺤﻟﺍ ﺖﻬﺘﻧﺍ"
+  },
+  {
+    "address": "0x1C92DB",
+    "original": "DONE FOR...",
+    "translation": "انتهى الأمر",
+    "shaped": "ﺮﻣﻷﺍ ﻰﻬﺘﻧﺍ"
+  },
+  {
+    "address": "0x1C92E8",
+    "original": "IMMEDIATELY AFTER...",
+    "translation": "يا للهول!",
+    "shaped": "!ﻝﻮﻬﻠﻟ ﺎﻳ"
+  },
+  {
+    "address": "0x1C92FE",
+    "original": "HOLY COW!",
+    "translation": "يا للهول!",
+    "shaped": "!ﻝﻮﻬﻠﻟ ﺎﻳ"
+  },
+  {
+    "address": "0x1C930A",
+    "original": "YOU'VE DESTROYED",
+    "translation": "قد دمرت",
+    "shaped": "ﺕﺮﻣﺩ ﺪﻗ"
+  },
+  {
+    "address": "0x1C931B",
+    "original": "MY CHILDREN!",
+    "translation": "أطفالي!",
+    "shaped": "!ﻲﻟﺎﻔﻃﺃ"
+  },
+  {
+    "address": "0x1C932A",
+    "original": "NOW YOU'LL PAY!!!",
+    "translation": "الآن ستدفع الثمن!",
+    "shaped": "!ﻦﻤﺜﻟﺍ ﻊﻓﺪﺘﺳ ﻥﻵﺍ"
+  },
+  {
+    "address": "0x1C933E",
+    "original": "SORRY, BIG MAMA!",
+    "translation": "معذرة أيتها الضخمة!",
+    "shaped": "!ﺔﻤﺨﻀﻟﺍ ﺎﻬﺘﻳﺃ ﺓﺭﺬﻌﻣ"
+  },
+  {
+    "address": "0x1C934F",
+    "original": "IT'S SURVIVAL",
+    "translation": "البقاء هنا",
+    "shaped": "ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C935D",
+    "original": "OF THE FITTEST",
+    "translation": "للأقوى فقط!",
+    "shaped": "!ﻂﻘﻓ ﻯﻮﻗﻸﻟ"
+  },
+  {
+    "address": "0x1C936E",
+    "original": "HERE, CAN YOU",
+    "translation": "هنا هل تستطيع",
+    "shaped": "ﻊﻴﻄﺘﺴﺗ ﻞﻫ ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C937C",
+    "original": "TAKE THE HEAT?",
+    "translation": "تحمل الحرارة؟",
+    "shaped": "؟ﺓﺭﺍﺮﺤﻟﺍ ﻞﻤﺤﺗ"
+  },
+  {
+    "address": "0x1C938C",
+    "original": "YOU'RE FIRED",
+    "translation": "أنتِ محترقة!",
+    "shaped": "!ﺔﻗﺮﺘﺤﻣ ﺖﻧﺃ"
+  },
+  {
+    "address": "0x1C939A",
+    "original": "MAN, WHAT",
+    "translation": "يا إلهي، يا لها",
+    "shaped": "ﺎﻬﻟ ﺎﻳ ،ﻲﻬﻟﺇ ﺎﻳ"
+  },
+  {
+    "address": "0x1C93A4",
+    "original": "A TRIP!",
+    "translation": "من رحلة مجنونة!",
+    "shaped": "!ﺔﻧﻮﻨﺠﻣ ﺔﻠﺣﺭ ﻦﻣ"
+  },
+  {
+    "address": "0x1C93AE",
+    "original": "!@!#?",
+    "translation": "هذه الصفحة الصعبة!",
+    "shaped": "!ﺔﺒﻌﺼﻟﺍ ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C93B6",
+    "original": "WHAT DO THEY DO",
+    "translation": "ماذا يفعلون",
+    "shaped": "ﻥﻮﻠﻌﻔﻳ ﺍﺫﺎﻣ"
+  },
+  {
+    "address": "0x1C93C6",
+    "original": "WITH THESE?!?",
+    "translation": "البرد قارس جداً",
+    "shaped": "ﺍﺪﺟ ﺱﺭﺎﻗ ﺩﺮﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C93D6",
+    "original": "MAN, I'M GLAD",
+    "translation": "حمداً لله، انتهت",
+    "shaped": "ﺖﻬﺘﻧﺍ ،ﻪﻠﻟ ﺍﺪﻤﺣ"
+  },
+  {
+    "address": "0x1C93E4",
+    "original": "THIS PANEL IS OVER!",
+    "translation": "هذه الصفحة الصعبة!",
+    "shaped": "!ﺔﺒﻌﺼﻟﺍ ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C93FA",
+    "original": "OH, NOT AGAIN!@!#!",
+    "translation": "أوه، ليس مرة أخرى!@!#!",
+    "shaped": "!#!@!ﻯﺮﺧﺃ ﺓﺮﻣ ﺲﻴﻟ ،ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1C940E",
+    "original": "IT'S FREEZING",
+    "translation": "البرد قارس جداً",
+    "shaped": "ﺍﺪﺟ ﺱﺭﺎﻗ ﺩﺮﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C941C",
+    "original": "IN HERE!",
+    "translation": "هنا بالداخل!",
+    "shaped": "!ﻞﺧﺍﺪﻟﺎﺑ ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C9426",
+    "original": "IS THIS SOME",
+    "translation": "هل هذا بعض",
+    "shaped": "ﺾﻌﺑ ﺍﺬﻫ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9433",
+    "original": "STORAGE PLACE?",
+    "translation": "مكان تخزين؟",
+    "shaped": "؟ﻦﻳﺰﺨﺗ ﻥﺎﻜﻣ"
+  },
+  {
+    "address": "0x1C9444",
+    "original": "OUR STOCKPILES",
+    "translation": "مخازننا",
+    "shaped": "ﺎﻨﻧﺯﺎﺨﻣ"
+  },
+  {
+    "address": "0x1C9453",
+    "original": "ARE DESTROYED",
+    "translation": "مدمرة",
+    "shaped": "ﺓﺮﻣﺪﻣ"
+  },
+  {
+    "address": "0x1C9462",
+    "original": "STOCKPILES?!?",
+    "translation": "المخازن؟",
+    "shaped": "؟ﻥﺯﺎﺨﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C9472",
+    "original": "I'M CONFUSED",
+    "translation": "أنا محتار",
+    "shaped": "ﺭﺎﺘﺤﻣ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1C9480",
+    "original": "HIMALAYAS",
+    "translation": "جبال الهيمالايا",
+    "shaped": "ﺎﻳﻻﺎﻤﻴﻬﻟﺍ ﻝﺎﺒﺟ"
+  },
+  {
+    "address": "0x1C948C",
+    "original": "WHAT'S THIS --",
+    "translation": "ما هذا الصقيع؟",
+    "shaped": "؟ﻊﻴﻘﺼﻟﺍ ﺍﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1C949B",
+    "original": "THE ROCKIES???",
+    "translation": "جبال الروكي؟",
+    "shaped": "؟ﻲﻛﻭﺮﻟﺍ ﻝﺎﺒﺟ"
+  },
+  {
+    "address": "0x1C94AC",
+    "original": "MAN, IT'S COLD!!",
+    "translation": "الجو متجمد هنا!",
+    "shaped": "!ﺎﻨﻫ ﺪﻤﺠﺘﻣ ﻮﺠﻟﺍ"
+  },
+  {
+    "address": "0x1C94BE",
+    "original": "WE'VE LOST",
+    "translation": "فقدنا الاتصال",
+    "shaped": "ﻝﺎﺼﺗﻻﺍ ﺎﻧﺪﻘﻓ"
+  },
+  {
+    "address": "0x1C94C9",
+    "original": "THIS VILLAGE",
+    "translation": "هذه القرية",
+    "shaped": "ﺔﻳﺮﻘﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C94D6",
+    "original": "TO THE BREED.",
+    "translation": "إلى السلالة",
+    "shaped": "ﺔﻟﻼﺴﻟﺍ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1C94E6",
+    "original": "WE SUSPECT",
+    "translation": "نحن نشك",
+    "shaped": "ﻚﺸﻧ ﻦﺤﻧ"
+  },
+  {
+    "address": "0x1C94F1",
+    "original": "MORTUS",
+    "translation": "مورتوس",
+    "shaped": "ﺱﻮﺗﺭﻮﻣ"
+  },
+  {
+    "address": "0x1C94F8",
+    "original": "SET UP A..",
+    "translation": "بوجود",
+    "shaped": "ﺩﻮﺟﻮﺑ"
+  },
+  {
+    "address": "0x1C9504",
+    "original": "..SECRET",
+    "translation": "مقر سري",
+    "shaped": "ﻱﺮﺳ ﺮﻘﻣ"
+  },
+  {
+    "address": "0x1C950D",
+    "original": "TRAINING",
+    "translation": "للتدريب",
+    "shaped": "ﺐﻳﺭﺪﺘﻠﻟ"
+  },
+  {
+    "address": "0x1C9516",
+    "original": "GROUND IN",
+    "translation": "في هذه",
+    "shaped": "ﻩﺬﻫ ﻲﻓ"
+  },
+  {
+    "address": "0x1C9520",
+    "original": "THIS AREA.",
+    "translation": "المنطقة",
+    "shaped": "ﺔﻘﻄﻨﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C952C",
+    "original": "GO IN AND SEE",
+    "translation": "ادخل وانظر",
+    "shaped": "ﺮﻈﻧﺍﻭ ﻞﺧﺩﺍ"
+  },
+  {
+    "address": "0x1C953A",
+    "original": "WHAT'S UP...",
+    "translation": "ما الخبر",
+    "shaped": "ﺮﺒﺨﻟﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1C9548",
+    "original": "TIBET CITY",
+    "translation": "مدينة التبت",
+    "shaped": "ﺖﺒﺘﻟﺍ ﺔﻨﻳﺪﻣ"
+  },
+  {
+    "address": "0x1C9554",
+    "original": "DO YOU COME",
+    "translation": "هل تأتي",
+    "shaped": "ﻲﺗﺄﺗ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9560",
+    "original": "FROM THE TEMPLE..",
+    "translation": "من المعبد",
+    "shaped": "ﺪﺒﻌﻤﻟﺍ ﻦﻣ"
+  },
+  {
+    "address": "0x1C9574",
+    "original": "..TO FIGHT IN",
+    "translation": "للقتال في",
+    "shaped": "ﻲﻓ ﻝﺎﺘﻘﻠﻟ"
+  },
+  {
+    "address": "0x1C9582",
+    "original": "THE TOURNAMENT?",
+    "translation": "البطولة؟",
+    "shaped": "؟ﺔﻟﻮﻄﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C9594",
+    "original": "TOURNAMENT?",
+    "translation": "البطولة؟",
+    "shaped": "؟ﺔﻟﻮﻄﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C95A0",
+    "original": "ERR, YEAH, SURE!",
+    "translation": "أه نعم طبعا!",
+    "shaped": "!ﺎﻌﺒﻃ ﻢﻌﻧ ﻩﺃ"
+  },
+  {
+    "address": "0x1C95B2",
+    "original": "THEN LET'S SEE",
+    "translation": "إذن لنر",
+    "shaped": "ﺮﻨﻟ ﻥﺫﺇ"
+  },
+  {
+    "address": "0x1C95C1",
+    "original": "HOW GOOD",
+    "translation": "كم أنت",
+    "shaped": "ﺖﻧﺃ ﻢﻛ"
+  },
+  {
+    "address": "0x1C95CA",
+    "original": "YOU ARE!",
+    "translation": "بارع!",
+    "shaped": "!ﻉﺭﺎﺑ"
+  },
+  {
+    "address": "0x1C95D4",
+    "original": "GOOD ENOUGH?",
+    "translation": "جيد كفاية؟",
+    "shaped": "؟ﺔﻳﺎﻔﻛ ﺪﻴﺟ"
+  },
+  {
+    "address": "0x1C95E2",
+    "original": "I GUESS NOT!",
+    "translation": "أظن لا!",
+    "shaped": "!ﻻ ﻦﻇﺃ"
+  },
+  {
+    "address": "0x1C95F0",
+    "original": "AHA! I COULD USE",
+    "translation": "آها! أستطيع استخدام",
+    "shaped": "ﻡﺍﺪﺨﺘﺳﺍ ﻊﻴﻄﺘﺳﺃ !ﺎﻫﺁ"
+  },
+  {
+    "address": "0x1C9601",
+    "original": "SOME SUPPLIES!",
+    "translation": "بعض المؤن!",
+    "shaped": "!ﻥﺆﻤﻟﺍ ﺾﻌﺑ"
+  },
+  {
+    "address": "0x1C9612",
+    "original": "GOTTA BE CAREFUL",
+    "translation": "يجب أن أكون حذرا",
+    "shaped": "ﺍﺭﺬﺣ ﻥﻮﻛﺃ ﻥﺃ ﺐﺠﻳ"
+  },
+  {
+    "address": "0x1C9623",
+    "original": "WITH THESE THINGS!",
+    "translation": "مع هذه الأشياء!",
+    "shaped": "!ﺀﺎﻴﺷﻷﺍ ﻩﺬﻫ ﻊﻣ"
+  },
+  {
+    "address": "0x1C9638",
+    "original": "GEEZ, TURNER,",
+    "translation": "جيز يا تورنر",
+    "shaped": "ﺮﻧﺭﻮﺗ ﺎﻳ ﺰﻴﺟ"
+  },
+  {
+    "address": "0x1C9646",
+    "original": "GET A GRIP!",
+    "translation": "تمالك نفسك!",
+    "shaped": "!ﻚﺴﻔﻧ ﻚﻟﺎﻤﺗ"
+  },
+  {
+    "address": "0x1C9654",
+    "original": "THEY'VE BUILT",
+    "translation": "قد بنوا",
+    "shaped": "ﺍﻮﻨﺑ ﺪﻗ"
+  },
+  {
+    "address": "0x1C9662",
+    "original": "REINFORCEMENTS!",
+    "translation": "تعزيزات!",
+    "shaped": "!ﺕﺍﺰﻳﺰﻌﺗ"
+  },
+  {
+    "address": "0x1C9674",
+    "original": "DEAL WITH IT!",
+    "translation": "تعامل معه!",
+    "shaped": "!ﻪﻌﻣ ﻞﻣﺎﻌﺗ"
+  },
+  {
+    "address": "0x1C9684",
+    "original": "THESE CREEPS",
+    "translation": "هؤلاء المخيفون",
+    "shaped": "ﻥﻮﻔﻴﺨﻤﻟﺍ ﺀﻻﺆﻫ"
+  },
+  {
+    "address": "0x1C9691",
+    "original": "WON'T STOP!!",
+    "translation": "لن يتوقفوا!",
+    "shaped": "!ﺍﻮﻔﻗﻮﺘﻳ ﻦﻟ"
+  },
+  {
+    "address": "0x1C96A0",
+    "original": "COVER UP THE",
+    "translation": "غط",
+    "shaped": "ﻂﻏ"
+  },
+  {
+    "address": "0x1C96AD",
+    "original": "HOLE FIRST!",
+    "translation": "الفجوة أولا!",
+    "shaped": "!ﻻﻭﺃ ﺓﻮﺠﻔﻟﺍ"
+  },
+  {
+    "address": "0x1C96BA",
+    "original": "THAT'LL",
+    "translation": "هذا سيعلمك",
+    "shaped": "ﻚﻤﻠﻌﻴﺳ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C96C2",
+    "original": "TEACH YA!",
+    "translation": "درساً لن تنساه!",
+    "shaped": "!ﻩﺎﺴﻨﺗ ﻦﻟ ﺎﺳﺭﺩ"
+  },
+  {
+    "address": "0x1C96CE",
+    "original": "I THOUGHT THIS'D",
+    "translation": "ظننت أن هذا",
+    "shaped": "ﺍﺬﻫ ﻥﺃ ﺖﻨﻨﻇ"
+  },
+  {
+    "address": "0x1C96DF",
+    "original": "BE A WALK IN",
+    "translation": "سيكون نزهة في",
+    "shaped": "ﻲﻓ ﺔﻫﺰﻧ ﻥﻮﻜﻴﺳ"
+  },
+  {
+    "address": "0x1C96EC",
+    "original": "THE PARK!",
+    "translation": "الحديقة!",
+    "shaped": "!ﺔﻘﻳﺪﺤﻟﺍ"
+  },
+  {
+    "address": "0x1C96F8",
+    "original": "AHA!!",
+    "translation": "وجدتها!",
+    "shaped": "!ﺎﻬﺗﺪﺟﻭ"
+  },
+  {
+    "address": "0x1C9700",
+    "original": "WHOOPS!",
+    "translation": "عفواً!",
+    "shaped": "!ﺍﻮﻔﻋ"
+  },
+  {
+    "address": "0x1C9708",
+    "original": "JUST A CRAWLER?",
+    "translation": "مجرد زاحف؟",
+    "shaped": "؟ﻒﺣﺍﺯ ﺩﺮﺠﻣ"
+  },
+  {
+    "address": "0x1C971A",
+    "original": "WHERE THE @#?",
+    "translation": "أين ال@#؟",
+    "shaped": "؟#@ﻝﺍ ﻦﻳﺃ"
+  },
+  {
+    "address": "0x1C9728",
+    "original": "IS EVERYBODY?",
+    "translation": "هل الجميع؟",
+    "shaped": "؟ﻊﻴﻤﺠﻟﺍ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9738",
+    "original": "CALM BEFORE",
+    "translation": "الهدوء قبل",
+    "shaped": "ﻞﺒﻗ ﺀﻭﺪﻬﻟﺍ"
+  },
+  {
+    "address": "0x1C9744",
+    "original": "THE STORM?",
+    "translation": "العاصفة؟",
+    "shaped": "؟ﺔﻔﺻﺎﻌﻟﺍ"
+  },
+  {
+    "address": "0x1C9750",
+    "original": "THIS WALL",
+    "translation": "هذا الجدار",
+    "shaped": "ﺭﺍﺪﺠﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C975A",
+    "original": "SEEMS WEAK...",
+    "translation": "يبدو ضعيفا",
+    "shaped": "ﺎﻔﻴﻌﺿ ﻭﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C976A",
+    "original": "SKETCH, THIS",
+    "translation": "سكيتش هذا",
+    "shaped": "ﺍﺬﻫ ﺶﺘﻴﻜﺳ"
+  },
+  {
+    "address": "0x1C9777",
+    "original": "PLACE IS ALIVE!!!",
+    "translation": "هذا المكان حي!",
+    "shaped": "!ﻲﺣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C978A",
+    "original": "IT'S TOO DARK--",
+    "translation": "إنها مظلمة جدا--",
+    "shaped": "--ﺍﺪﺟ ﺔﻤﻠﻈﻣ ﺎﻬﻧﺇ"
+  },
+  {
+    "address": "0x1C979A",
+    "original": "I CAN'T SEE @#!!",
+    "translation": "لا أستطيع الرؤية @#!",
+    "shaped": "!#@ ﺔﻳﺅﺮﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ"
+  },
+  {
+    "address": "0x1C97AC",
+    "original": "MOVE IT!!!",
+    "translation": "تحرك بسرعة!",
+    "shaped": "!ﺔﻋﺮﺴﺑ ﻙﺮﺤﺗ"
+  },
+  {
+    "address": "0x1C97B8",
+    "original": "HOW DO I GET",
+    "translation": "كيف أحصل",
+    "shaped": "ﻞﺼﺣﺃ ﻒﻴﻛ"
+  },
+  {
+    "address": "0x1C97C5",
+    "original": "OUTTA HERE?",
+    "translation": "أخرج من هنا؟",
+    "shaped": "؟ﺎﻨﻫ ﻦﻣ ﺝﺮﺧﺃ"
+  },
+  {
+    "address": "0x1C97D2",
+    "original": "LOOK AROUND YOU!",
+    "translation": "انظر حولك!",
+    "shaped": "!ﻚﻟﻮﺣ ﺮﻈﻧﺍ"
+  },
+  {
+    "address": "0x1C97E4",
+    "original": "INSIDE!",
+    "translation": "بالداخل!",
+    "shaped": "!ﻞﺧﺍﺪﻟﺎﺑ"
+  },
+  {
+    "address": "0x1C97EE",
+    "original": "TOURNAMENT CHAMBER",
+    "translation": "غرفة البطولة",
+    "shaped": "ﺔﻟﻮﻄﺒﻟﺍ ﺔﻓﺮﻏ"
+  },
+  {
+    "address": "0x1C9802",
+    "original": "I KNEW THIS",
+    "translation": "كنت أعلم هذا",
+    "shaped": "ﺍﺬﻫ ﻢﻠﻋﺃ ﺖﻨﻛ"
+  },
+  {
+    "address": "0x1C980E",
+    "original": "DOORWAY WAS",
+    "translation": "المدخل كان",
+    "shaped": "ﻥﺎﻛ ﻞﺧﺪﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C981A",
+    "original": "BAD NEWS!",
+    "translation": "أخبار سيئة!",
+    "shaped": "!ﺔﺌﻴﺳ ﺭﺎﺒﺧﺃ"
+  },
+  {
+    "address": "0x1C9826",
+    "original": "HUMAN! THIS",
+    "translation": "بشري! هذا",
+    "shaped": "ﺍﺬﻫ !ﻱﺮﺸﺑ"
+  },
+  {
+    "address": "0x1C9832",
+    "original": "TOURNAMENT IS",
+    "translation": "البطولة هي",
+    "shaped": "ﻲﻫ ﺔﻟﻮﻄﺒﻟﺍ"
+  },
+  {
+    "address": "0x1C9840",
+    "original": "FOR KUNG-FUNG",
+    "translation": "لكنغ-فنغ",
+    "shaped": "ﻎﻨﻓ-ﻎﻨﻜﻟ"
+  },
+  {
+    "address": "0x1C984E",
+    "original": "GRADUATES!",
+    "translation": "خريجون!",
+    "shaped": "!ﻥﻮﺠﻳﺮﺧ"
+  },
+  {
+    "address": "0x1C985A",
+    "original": "KUNG-FUNG?",
+    "translation": "كونغ فو؟",
+    "shaped": "؟ﻮﻓ ﻎﻧﻮﻛ"
+  },
+  {
+    "address": "0x1C9866",
+    "original": "THE TEMPLE MASTER,",
+    "translation": "سيد المعبد",
+    "shaped": "ﺪﺒﻌﻤﻟﺍ ﺪﻴﺳ"
+  },
+  {
+    "address": "0x1C9879",
+    "original": "OUR TRAINER.",
+    "translation": "مدربنا",
+    "shaped": "ﺎﻨﺑﺭﺪﻣ"
+  },
+  {
+    "address": "0x1C9888",
+    "original": "WHERE IS",
+    "translation": "أين هو",
+    "shaped": "ﻮﻫ ﻦﻳﺃ"
+  },
+  {
+    "address": "0x1C9891",
+    "original": "THIS TEMPLE?",
+    "translation": "هذا المعبد؟",
+    "shaped": "؟ﺪﺒﻌﻤﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C98A0",
+    "original": "YOU MUST",
+    "translation": "لابد أنك",
+    "shaped": "ﻚﻧﺃ ﺪﺑﻻ"
+  },
+  {
+    "address": "0x1C98A9",
+    "original": "BE JOKING!",
+    "translation": "تمازحني!",
+    "shaped": "!ﻲﻨﺣﺯﺎﻤﺗ"
+  },
+  {
+    "address": "0x1C98B6",
+    "original": "STRIGILS!!!",
+    "translation": "ستريجيل!",
+    "shaped": "!ﻞﻴﺠﻳﺮﺘﺳ"
+  },
+  {
+    "address": "0x1C98C4",
+    "original": "GRAVIS, MAKE",
+    "translation": "غرافيس اصنع",
+    "shaped": "ﻊﻨﺻﺍ ﺲﻴﻓﺍﺮﻏ"
+  },
+  {
+    "address": "0x1C98D1",
+    "original": "IT QUICK!",
+    "translation": "بسرعة!",
+    "shaped": "!ﺔﻋﺮﺴﺑ"
+  },
+  {
+    "address": "0x1C98DC",
+    "original": "STYX, YOU'RE",
+    "translation": "ستيكس أنت",
+    "shaped": "ﺖﻧﺃ ﺲﻜﻴﺘﺳ"
+  },
+  {
+    "address": "0x1C98E9",
+    "original": "NEXT!!",
+    "translation": "التالي!",
+    "shaped": "!ﻲﻟﺎﺘﻟﺍ"
+  },
+  {
+    "address": "0x1C98F2",
+    "original": "ARRGH... MONGORIA,",
+    "translation": "سحقاً... مونغوريا",
+    "shaped": "ﺎﻳﺭﻮﻐﻧﻮﻣ ...ﺎﻘﺤﺳ"
+  },
+  {
+    "address": "0x1C9905",
+    "original": "DO IT BABY!",
+    "translation": "أرينا براعتكِ!",
+    "shaped": "!ﻚﺘﻋﺍﺮﺑ ﺎﻨﻳﺭﺃ"
+  },
+  {
+    "address": "0x1C9912",
+    "original": "NOT BAD, HUMAN.",
+    "translation": "ليس سيئا يا بشري",
+    "shaped": "ﻱﺮﺸﺑ ﺎﻳ ﺎﺌﻴﺳ ﺲﻴﻟ"
+  },
+  {
+    "address": "0x1C9922",
+    "original": "WE'LL LET YOU GO.",
+    "translation": "سندعك تذهب",
+    "shaped": "ﺐﻫﺬﺗ ﻚﻋﺪﻨﺳ"
+  },
+  {
+    "address": "0x1C9936",
+    "original": "THE TEMPLE IS",
+    "translation": "المعبد هو",
+    "shaped": "ﻮﻫ ﺪﺒﻌﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C9944",
+    "original": "TO THE NORTH...",
+    "translation": "إلى الشمال",
+    "shaped": "ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1C9956",
+    "original": "BUT HOPE NOT--",
+    "translation": "لكن لا أرجو--",
+    "shaped": "--ﻮﺟﺭﺃ ﻻ ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1C9965",
+    "original": "YOU WON'T MAKE IT!",
+    "translation": "لن تصل!",
+    "shaped": "!ﻞﺼﺗ ﻦﻟ"
+  },
+  {
+    "address": "0x1C997A",
+    "original": "YOUR TRICKS ARE",
+    "translation": "حيلك",
+    "shaped": "ﻚﻠﻴﺣ"
+  },
+  {
+    "address": "0x1C998A",
+    "original": "USELESS IN HERE",
+    "translation": "عديمة الفائدة هنا",
+    "shaped": "ﺎﻨﻫ ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ"
+  },
+  {
+    "address": "0x1C999C",
+    "original": "LATER, IN THE MOUNTAINS",
+    "translation": "لاحقا في الجبال",
+    "shaped": "ﻝﺎﺒﺠﻟﺍ ﻲﻓ ﺎﻘﺣﻻ"
+  },
+  {
+    "address": "0x1C99B6",
+    "original": "AH, FINALLY --",
+    "translation": "آه أخيرا --",
+    "shaped": "-- ﺍﺮﻴﺧﺃ ﻩﺁ"
+  },
+  {
+    "address": "0x1C99C5",
+    "original": "THE TEMPLE!",
+    "translation": "المعبد!",
+    "shaped": "!ﺪﺒﻌﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C99D2",
+    "original": "NO ONE EVER",
+    "translation": "لم يفعل أحد قط",
+    "shaped": "ﻂﻗ ﺪﺣﺃ ﻞﻌﻔﻳ ﻢﻟ"
+  },
+  {
+    "address": "0x1C99DE",
+    "original": "GETS PAST ME!",
+    "translation": "يتجاوزني!",
+    "shaped": "!ﻲﻧﺯﻭﺎﺠﺘﻳ"
+  },
+  {
+    "address": "0x1C99EE",
+    "original": "REALLY?",
+    "translation": "حقاً؟",
+    "shaped": "؟ﺎﻘﺣ"
+  },
+  {
+    "address": "0x1C99F8",
+    "original": "REALLY!",
+    "translation": "حقاً!",
+    "shaped": "!ﺎﻘﺣ"
+  },
+  {
+    "address": "0x1C9A02",
+    "original": "JUST THROW",
+    "translation": "فقط ارمِ",
+    "shaped": "ﻡﺭﺍ ﻂﻘﻓ"
+  },
+  {
+    "address": "0x1C9A0D",
+    "original": "HIM ONE!",
+    "translation": "واحدة له!",
+    "shaped": "!ﻪﻟ ﺓﺪﺣﺍﻭ"
+  },
+  {
+    "address": "0x1C9A18",
+    "original": "WOW, THAT'S",
+    "translation": "واو ذاك",
+    "shaped": "ﻙﺍﺫ ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C9A24",
+    "original": "DEEP, BRO!",
+    "translation": "عميق يا أخي!",
+    "shaped": "!ﻲﺧﺃ ﺎﻳ ﻖﻴﻤﻋ"
+  },
+  {
+    "address": "0x1C9A30",
+    "original": "TEMPLE, AT THE GATES...",
+    "translation": "المعبد عند البوابات",
+    "shaped": "ﺕﺎﺑﺍﻮﺒﻟﺍ ﺪﻨﻋ ﺪﺒﻌﻤﻟﺍ"
+  },
+  {
+    "address": "0x1C9A4A",
+    "original": "THESE CREEPS",
+    "translation": "هؤلاء الأوغاد",
+    "shaped": "ﺩﺎﻏﻭﻷﺍ ﺀﻻﺆﻫ"
+  },
+  {
+    "address": "0x1C9A57",
+    "original": "ARE GETTING ON",
+    "translation": "يتقدمون",
+    "shaped": "ﻥﻮﻣﺪﻘﺘﻳ"
+  },
+  {
+    "address": "0x1C9A66",
+    "original": "MY NERVES!",
+    "translation": "أعصابي!",
+    "shaped": "!ﻲﺑﺎﺼﻋﺃ"
+  },
+  {
+    "address": "0x1C9A72",
+    "original": "???",
+    "translation": "؟",
+    "shaped": "؟"
+  },
+  {
+    "address": "0x1C9A78",
+    "original": "WATCH YOUR TIMING!",
+    "translation": "راقب توقيتك!",
+    "shaped": "!ﻚﺘﻴﻗﻮﺗ ﺐﻗﺍﺭ"
+  },
+  {
+    "address": "0x1C9A8C",
+    "original": "TRAINING COURTYARD",
+    "translation": "ساحة التدريب",
+    "shaped": "ﺐﻳﺭﺪﺘﻟﺍ ﺔﺣﺎﺳ"
+  },
+  {
+    "address": "0x1C9AA0",
+    "original": "HEY, WHERE'S",
+    "translation": "هي أين",
+    "shaped": "ﻦﻳﺃ ﻲﻫ"
+  },
+  {
+    "address": "0x1C9AAD",
+    "original": "THE WELCOMING",
+    "translation": "الاستقبال",
+    "shaped": "ﻝﺎﺒﻘﺘﺳﻻﺍ"
+  },
+  {
+    "address": "0x1C9ABB",
+    "original": "PARTY?",
+    "translation": "حفلة؟",
+    "shaped": "؟ﺔﻠﻔﺣ"
+  },
+  {
+    "address": "0x1C9AC4",
+    "original": "RIGHT HERE!",
+    "translation": "هنا بالضبط!",
+    "shaped": "!ﻂﺒﻀﻟﺎﺑ ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1C9AD2",
+    "original": "LEMME TEST MY",
+    "translation": "خلني أختبر",
+    "shaped": "ﺮﺒﺘﺧﺃ ﻲﻨﻠﺧ"
+  },
+  {
+    "address": "0x1C9AE0",
+    "original": "SKILLS ON YA!",
+    "translation": "مهاراتي عليك!",
+    "shaped": "!ﻚﻴﻠﻋ ﻲﺗﺍﺭﺎﻬﻣ"
+  },
+  {
+    "address": "0x1C9AF0",
+    "original": "DO I HAVE",
+    "translation": "هل لدي",
+    "shaped": "ﻱﺪﻟ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9AFA",
+    "original": "A CHOICE?",
+    "translation": "خيار آخر؟",
+    "shaped": "؟ﺮﺧﺁ ﺭﺎﻴﺧ"
+  },
+  {
+    "address": "0x1C9B06",
+    "original": "WE'RE TRAINING FOR",
+    "translation": "نتدرب لأجل",
+    "shaped": "ﻞﺟﻷ ﺏﺭﺪﺘﻧ"
+  },
+  {
+    "address": "0x1C9B19",
+    "original": "THE FINAL TEST!",
+    "translation": "الاختبار الأخير!",
+    "shaped": "!ﺮﻴﺧﻷﺍ ﺭﺎﺒﺘﺧﻻﺍ"
+  },
+  {
+    "address": "0x1C9B2A",
+    "original": "GEE, DID I COME",
+    "translation": "مهلاً، هل بالغتُ",
+    "shaped": "ﺖﻐﻟﺎﺑ ﻞﻫ ،ﻼﻬﻣ"
+  },
+  {
+    "address": "0x1C9B3A",
+    "original": "ON TOO STRONG?",
+    "translation": "في قسوتي عليك؟",
+    "shaped": "؟ﻚﻴﻠﻋ ﻲﺗﻮﺴﻗ ﻲﻓ"
+  },
+  {
+    "address": "0x1C9B4A",
+    "original": "MAYBE IT'S MY",
+    "translation": "أم أن المشكلة في",
+    "shaped": "ﻲﻓ ﺔﻠﻜﺸﻤﻟﺍ ﻥﺃ ﻡﺃ"
+  },
+  {
+    "address": "0x1C9B58",
+    "original": "DEODORANT",
+    "translation": "مزيل عرقي؟",
+    "shaped": "؟ﻲﻗﺮﻋ ﻞﻳﺰﻣ"
+  },
+  {
+    "address": "0x1C9B64",
+    "original": "YOUR RAT COULD",
+    "translation": "فأرك يستطيع",
+    "shaped": "ﻊﻴﻄﺘﺴﻳ ﻙﺭﺄﻓ"
+  },
+  {
+    "address": "0x1C9B73",
+    "original": "BE USEFUL HERE!",
+    "translation": "أن يكون مفيدا هنا!",
+    "shaped": "!ﺎﻨﻫ ﺍﺪﻴﻔﻣ ﻥﻮﻜﻳ ﻥﺃ"
+  },
+  {
+    "address": "0x1C9B84",
+    "original": "SORRY,",
+    "translation": "معذرة، لستُ",
+    "shaped": "ﺖﺴﻟ ،ﺓﺭﺬﻌﻣ"
+  },
+  {
+    "address": "0x1C9B8B",
+    "original": "NO DATE!",
+    "translation": "مهتماً بالمواعدة!",
+    "shaped": "!ﺓﺪﻋﺍﻮﻤﻟﺎﺑ ﺎﻤﺘﻬﻣ"
+  },
+  {
+    "address": "0x1C9B96",
+    "original": "WHAT'S UP",
+    "translation": "ما الأخبار",
+    "shaped": "ﺭﺎﺒﺧﻷﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1C9BA0",
+    "original": "NOW, MORTUS?",
+    "translation": "الآن يا مورتوس؟",
+    "shaped": "؟ﺱﻮﺗﺭﻮﻣ ﺎﻳ ﻥﻵﺍ"
+  },
+  {
+    "address": "0x1C9BAE",
+    "original": "OH !@#!!",
+    "translation": "اللعنة!",
+    "shaped": "!ﺔﻨﻌﻠﻟﺍ"
+  },
+  {
+    "address": "0x1C9BB8",
+    "original": "I GOTTA GET",
+    "translation": "علي أن أحصل",
+    "shaped": "ﻞﺼﺣﺃ ﻥﺃ ﻲﻠﻋ"
+  },
+  {
+    "address": "0x1C9BC4",
+    "original": "OUTTA HERE!!",
+    "translation": "أخرج من هنا!",
+    "shaped": "!ﺎﻨﻫ ﻦﻣ ﺝﺮﺧﺃ"
+  },
+  {
+    "address": "0x1C9BD2",
+    "original": "@#$!?!!",
+    "translation": "تباً لك!@#",
+    "shaped": "#@!ﻚﻟ ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1C9BDA",
+    "original": "THAT'S NOT IT!",
+    "translation": "ليس ذاك!",
+    "shaped": "!ﻙﺍﺫ ﺲﻴﻟ"
+  },
+  {
+    "address": "0x1C9BEA",
+    "original": "AHA, HERE",
+    "translation": "ها نحن",
+    "shaped": "ﻦﺤﻧ ﺎﻫ"
+  },
+  {
+    "address": "0x1C9BF4",
+    "original": "WE GO",
+    "translation": "نبدأ",
+    "shaped": "ﺃﺪﺒﻧ"
+  },
+  {
+    "address": "0x1C9BFC",
+    "original": "UNDERGROUND",
+    "translation": "تحت الأرض",
+    "shaped": "ﺽﺭﻷﺍ ﺖﺤﺗ"
+  },
+  {
+    "address": "0x1C9C0A",
+    "original": "THAT WAS CLOSE",
+    "translation": "كان قريبا",
+    "shaped": "ﺎﺒﻳﺮﻗ ﻥﺎﻛ"
+  },
+  {
+    "address": "0x1C9C19",
+    "original": "WHOA!!",
+    "translation": "وااو!",
+    "shaped": "!ﻭﺍﺍﻭ"
+  },
+  {
+    "address": "0x1C9C22",
+    "original": "WHAT'S WITH ALL",
+    "translation": "ما الأمر مع كل",
+    "shaped": "ﻞﻛ ﻊﻣ ﺮﻣﻷﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1C9C32",
+    "original": "THESE TRAPS?",
+    "translation": "هذه الفخاخ؟",
+    "shaped": "؟ﺥﺎﺨﻔﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C9C40",
+    "original": "THIS IS THE",
+    "translation": "هذا هو",
+    "shaped": "ﻮﻫ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1C9C4C",
+    "original": "COURSE OF",
+    "translation": "مسار",
+    "shaped": "ﺭﺎﺴﻣ"
+  },
+  {
+    "address": "0x1C9C56",
+    "original": "THE FINAL TEST!",
+    "translation": "الاختبار الأخير!",
+    "shaped": "!ﺮﻴﺧﻷﺍ ﺭﺎﺒﺘﺧﻻﺍ"
+  },
+  {
+    "address": "0x1C9C68",
+    "original": "WATCH OUT!",
+    "translation": "احذر!",
+    "shaped": "!ﺭﺬﺣﺍ"
+  },
+  {
+    "address": "0x1C9C74",
+    "original": "LOOKS LIKE",
+    "translation": "يبدو أن",
+    "shaped": "ﻥﺃ ﻭﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C9C7F",
+    "original": "I'M TRAPPED!",
+    "translation": "أنا محاصر!",
+    "shaped": "!ﺮﺻﺎﺤﻣ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1C9C8E",
+    "original": "PUT R'KILL",
+    "translation": "دع رودكيل",
+    "shaped": "ﻞﻴﻛﺩﻭﺭ ﻉﺩ"
+  },
+  {
+    "address": "0x1C9C99",
+    "original": "TO WORK!",
+    "translation": "يتولى الأمر!",
+    "shaped": "!ﺮﻣﻷﺍ ﻰﻟﻮﺘﻳ"
+  },
+  {
+    "address": "0x1C9CA4",
+    "original": "KUNG-FUNG'S CHAMBER",
+    "translation": "غرفة كنغ-فنغ",
+    "shaped": "ﻎﻨﻓ-ﻎﻨﻛ ﺔﻓﺮﻏ"
+  },
+  {
+    "address": "0x1C9CBA",
+    "original": "YOU MUST BE",
+    "translation": "عليك أن تكون",
+    "shaped": "ﻥﻮﻜﺗ ﻥﺃ ﻚﻴﻠﻋ"
+  },
+  {
+    "address": "0x1C9CC6",
+    "original": "THE OLD FUNG, EH?",
+    "translation": "الفنغ القديم هاه؟",
+    "shaped": "؟ﻩﺎﻫ ﻢﻳﺪﻘﻟﺍ ﻎﻨﻔﻟﺍ"
+  },
+  {
+    "address": "0x1C9CDA",
+    "original": "I'M IN CHARGE",
+    "translation": "أنا المسؤول",
+    "shaped": "ﻝﻭﺆﺴﻤﻟﺍ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1C9CE8",
+    "original": "OF TRAINING",
+    "translation": "عن التدريب",
+    "shaped": "ﺐﻳﺭﺪﺘﻟﺍ ﻦﻋ"
+  },
+  {
+    "address": "0x1C9CF4",
+    "original": "MORTUS' PEOPLE.",
+    "translation": "شعب مورتوس",
+    "shaped": "ﺱﻮﺗﺭﻮﻣ ﺐﻌﺷ"
+  },
+  {
+    "address": "0x1C9D06",
+    "original": "NICE FINGERNAILS,",
+    "translation": "أظافر أنيقة،",
+    "shaped": "،ﺔﻘﻴﻧﺃ ﺮﻓﺎﻇﺃ"
+  },
+  {
+    "address": "0x1C9D18",
+    "original": "DUDE.",
+    "translation": "يا صاح!",
+    "shaped": "!ﺡﺎﺻ ﺎﻳ"
+  },
+  {
+    "address": "0x1C9D20",
+    "original": "DO YOU WISH I",
+    "translation": "هل تريدني أن",
+    "shaped": "ﻥﺃ ﻲﻧﺪﻳﺮﺗ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9D2E",
+    "original": "USE 'EM -- DUDE??",
+    "translation": "أمزقك بها يا هذا؟",
+    "shaped": "؟ﺍﺬﻫ ﺎﻳ ﺎﻬﺑ ﻚﻗﺰﻣﺃ"
+  },
+  {
+    "address": "0x1C9D42",
+    "original": "OH DEAR!",
+    "translation": "يا للهول!",
+    "shaped": "!ﻝﻮﻬﻠﻟ ﺎﻳ"
+  },
+  {
+    "address": "0x1C9D4C",
+    "original": "LET ME GIVE",
+    "translation": "دعني أعطي",
+    "shaped": "ﻲﻄﻋﺃ ﻲﻨﻋﺩ"
+  },
+  {
+    "address": "0x1C9D58",
+    "original": "YOU A LESSON!",
+    "translation": "إياك درسا!",
+    "shaped": "!ﺎﺳﺭﺩ ﻙﺎﻳﺇ"
+  },
+  {
+    "address": "0x1C9D68",
+    "original": "OH, GOING DOWN",
+    "translation": "أوه ننزل",
+    "shaped": "ﻝﺰﻨﻧ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1C9D77",
+    "original": "MR. FUNG?!?",
+    "translation": "السيد فنغ؟",
+    "shaped": "؟ﻎﻨﻓ ﺪﻴﺴﻟﺍ"
+  },
+  {
+    "address": "0x1C9D84",
+    "original": "I ENJOYED THE CLASS",
+    "translation": "استمتعت بالحصة",
+    "shaped": "ﺔﺼﺤﻟﺎﺑ ﺖﻌﺘﻤﺘﺳﺍ"
+  },
+  {
+    "address": "0x1C9D98",
+    "original": "SORRY TO SEE YOU",
+    "translation": "آسف لرؤيتك",
+    "shaped": "ﻚﺘﻳﺅﺮﻟ ﻒﺳﺁ"
+  },
+  {
+    "address": "0x1C9DA9",
+    "original": "DROP OUT...",
+    "translation": "الإنسحاب",
+    "shaped": "ﺏﺎﺤﺴﻧﻹﺍ"
+  },
+  {
+    "address": "0x1C9DB6",
+    "original": "YOU TAKIN'",
+    "translation": "هل تأخذ",
+    "shaped": "ﺬﺧﺄﺗ ﻞﻫ"
+  },
+  {
+    "address": "0x1C9DC1",
+    "original": "THE FINAL TEST?",
+    "translation": "الاختبار الأخير؟",
+    "shaped": "؟ﺮﻴﺧﻷﺍ ﺭﺎﺒﺘﺧﻻﺍ"
+  },
+  {
+    "address": "0x1C9DD2",
+    "original": "THAT'S RIGHT,",
+    "translation": "ذاك صحيح",
+    "shaped": "ﺢﻴﺤﺻ ﻙﺍﺫ"
+  },
+  {
+    "address": "0x1C9DE0",
+    "original": "BOZO!",
+    "translation": "يا أحمق!",
+    "shaped": "!ﻖﻤﺣﺃ ﺎﻳ"
+  },
+  {
+    "address": "0x1C9DE8",
+    "original": "WELL, IT",
+    "translation": "حسناً إنه",
+    "shaped": "ﻪﻧﺇ ﺎﻨﺴﺣ"
+  },
+  {
+    "address": "0x1C9DF1",
+    "original": "STARTS HERE!",
+    "translation": "يبدأ من هنا!",
+    "shaped": "!ﺎﻨﻫ ﻦﻣ ﺃﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C9E00",
+    "original": "GOOD LUCK,",
+    "translation": "حظاً موفقاً",
+    "shaped": "ﺎﻘﻓﻮﻣ ﺎﻈﺣ"
+  },
+  {
+    "address": "0x1C9E0B",
+    "original": "HEH, HE...",
+    "translation": "ههه هي",
+    "shaped": "ﻲﻫ ﻪﻬﻫ"
+  },
+  {
+    "address": "0x1C9E18",
+    "original": "TAKE HIM",
+    "translation": "اقضِ عليه",
+    "shaped": "ﻪﻴﻠﻋ ﺾﻗﺍ"
+  },
+  {
+    "address": "0x1C9E21",
+    "original": "FROM ABOVE--",
+    "translation": "من فوق--",
+    "shaped": "--ﻕﻮﻓ ﻦﻣ"
+  },
+  {
+    "address": "0x1C9E30",
+    "original": "LOOK AROUND!",
+    "translation": "انظر حولك!",
+    "shaped": "!ﻚﻟﻮﺣ ﺮﻈﻧﺍ"
+  },
+  {
+    "address": "0x1C9E3E",
+    "original": "THE TEST BEGINS...",
+    "translation": "يبدأ الاختبار",
+    "shaped": "ﺭﺎﺒﺘﺧﻻﺍ ﺃﺪﺒﻳ"
+  },
+  {
+    "address": "0x1C9E52",
+    "original": "MAN, THIS",
+    "translation": "يا رجل هذه",
+    "shaped": "ﻩﺬﻫ ﻞﺟﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1C9E5C",
+    "original": "PIT REEKS!",
+    "translation": "الحفرة نتنة!",
+    "shaped": "!ﺔﻨﺘﻧ ﺓﺮﻔﺤﻟﺍ"
+  },
+  {
+    "address": "0x1C9E68",
+    "original": "I WONDER WHAT'S",
+    "translation": "أتساءل ما هو",
+    "shaped": "ﻮﻫ ﺎﻣ ﻝﺀﺎﺴﺗﺃ"
+  },
+  {
+    "address": "0x1C9E78",
+    "original": "ON THE BOTTOM?",
+    "translation": "في الأسفل؟",
+    "shaped": "؟ﻞﻔﺳﻷﺍ ﻲﻓ"
+  },
+  {
+    "address": "0x1C9E88",
+    "original": "I'LL KICK YOUR",
+    "translation": "سأرفس",
+    "shaped": "ﺲﻓﺭﺄﺳ"
+  },
+  {
+    "address": "0x1C9E97",
+    "original": "HEAD, WORM!!",
+    "translation": "رأسك يا دودة!",
+    "shaped": "!ﺓﺩﻭﺩ ﺎﻳ ﻚﺳﺃﺭ"
+  },
+  {
+    "address": "0x1C9EA6",
+    "original": "PUNCHING",
+    "translation": "لكمات",
+    "shaped": "ﺕﺎﻤﻜﻟ"
+  },
+  {
+    "address": "0x1C9EAF",
+    "original": "BAGS -- COOL!",
+    "translation": "أكياس -- رائع!",
+    "shaped": "!ﻊﺋﺍﺭ -- ﺱﺎﻴﻛﺃ"
+  },
+  {
+    "address": "0x1C9EBE",
+    "original": "DRIED UP SEA SURFACE,",
+    "translation": "سطح البحر الجاف",
+    "shaped": "ﻑﺎﺠﻟﺍ ﺮﺤﺒﻟﺍ ﺢﻄﺳ"
+  },
+  {
+    "address": "0x1C9ED4",
+    "original": "ZEALAND ATOLLS",
+    "translation": "شعب زيلند المرجانية",
+    "shaped": "ﺔﻴﻧﺎﺟﺮﻤﻟﺍ ﺪﻨﻠﻳﺯ ﺐﻌﺷ"
+  },
+  {
+    "address": "0x1C9EE4",
+    "original": "WOW, THIS METEOR",
+    "translation": "واو هذا النيزك",
+    "shaped": "ﻙﺰﻴﻨﻟﺍ ﺍﺬﻫ ﻭﺍﻭ"
+  },
+  {
+    "address": "0x1C9EF5",
+    "original": "SURE DID SOME DAMAGE!",
+    "translation": "بالتأكيد أحدث ضررا!",
+    "shaped": "!ﺍﺭﺮﺿ ﺙﺪﺣﺃ ﺪﻴﻛﺄﺘﻟﺎﺑ"
+  },
+  {
+    "address": "0x1C9F0C",
+    "original": "SATELLITE PHOTOS",
+    "translation": "صور الأقمار الصنعية",
+    "shaped": "ﺔﻴﻌﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﺭﻮﺻ"
+  },
+  {
+    "address": "0x1C9F1D",
+    "original": "SHOW SOME",
+    "translation": "أظهر بعض",
+    "shaped": "ﺾﻌﺑ ﺮﻬﻇﺃ"
+  },
+  {
+    "address": "0x1C9F27",
+    "original": "SUSPICIOUS",
+    "translation": "مريب",
+    "shaped": "ﺐﻳﺮﻣ"
+  },
+  {
+    "address": "0x1C9F32",
+    "original": "STRUCTURES HERE...",
+    "translation": "هيكلات هنا",
+    "shaped": "ﺎﻨﻫ ﺕﻼﻜﻴﻫ"
+  },
+  {
+    "address": "0x1C9F46",
+    "original": "CHECK OUT",
+    "translation": "تفقد هذا",
+    "shaped": "ﺍﺬﻫ ﺪﻘﻔﺗ"
+  },
+  {
+    "address": "0x1C9F50",
+    "original": "THESE REEFS!",
+    "translation": "هذه الشعب!",
+    "shaped": "!ﺐﻌﺸﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1C9F5E",
+    "original": "FURTHER ALONG",
+    "translation": "أبعد على الطول",
+    "shaped": "ﻝﻮﻄﻟﺍ ﻰﻠﻋ ﺪﻌﺑﺃ"
+  },
+  {
+    "address": "0x1C9F6E",
+    "original": "MAN, I HATE",
+    "translation": "يا رجل أنا أكره",
+    "shaped": "ﻩﺮﻛﺃ ﺎﻧﺃ ﻞﺟﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1C9F7A",
+    "original": "SEAFOOD!",
+    "translation": "طعام بحري!",
+    "shaped": "!ﻱﺮﺤﺑ ﻡﺎﻌﻃ"
+  },
+  {
+    "address": "0x1C9F84",
+    "original": "HEY, IT'S GETTING",
+    "translation": "هي إنها تصير",
+    "shaped": "ﺮﻴﺼﺗ ﺎﻬﻧﺇ ﻲﻫ"
+  },
+  {
+    "address": "0x1C9F96",
+    "original": "TIGHT IN HERE!",
+    "translation": "ضيقة هنا!",
+    "shaped": "!ﺎﻨﻫ ﺔﻘﻴﺿ"
+  },
+  {
+    "address": "0x1C9FA6",
+    "original": "JUST FEED HIM",
+    "translation": "فقط أطعمه",
+    "shaped": "ﻪﻤﻌﻃﺃ ﻂﻘﻓ"
+  },
+  {
+    "address": "0x1C9FB4",
+    "original": "SOMETHING...",
+    "translation": "شيء ما",
+    "shaped": "ﺎﻣ ﺀﻲﺷ"
+  },
+  {
+    "address": "0x1C9FC2",
+    "original": "MUNCH THIS!!!",
+    "translation": "التهم هذا!",
+    "shaped": "!ﺍﺬﻫ ﻢﻬﺘﻟﺍ"
+  },
+  {
+    "address": "0x1C9FD2",
+    "original": "HMM, I DON'T",
+    "translation": "هم أنا لا",
+    "shaped": "ﻻ ﺎﻧﺃ ﻢﻫ"
+  },
+  {
+    "address": "0x1C9FDF",
+    "original": "THINK I SHOULD",
+    "translation": "أظن أني أجب",
+    "shaped": "ﺐﺟﺃ ﻲﻧﺃ ﻦﻇﺃ"
+  },
+  {
+    "address": "0x1C9FEE",
+    "original": "BE TOUCHING",
+    "translation": "ألا ألمس",
+    "shaped": "ﺲﻤﻟﺃ ﻻﺃ"
+  },
+  {
+    "address": "0x1C9FFA",
+    "original": "THESE...",
+    "translation": "هؤلاء",
+    "shaped": "ﺀﻻﺆﻫ"
+  },
+  {
+    "address": "0x1CA004",
+    "original": "NO, GENIUS,",
+    "translation": "لا يا عبقري",
+    "shaped": "ﻱﺮﻘﺒﻋ ﺎﻳ ﻻ"
+  },
+  {
+    "address": "0x1CA010",
+    "original": "YOU SURE",
+    "translation": "من الأفضل",
+    "shaped": "ﻞﻀﻓﻷﺍ ﻦﻣ"
+  },
+  {
+    "address": "0x1CA019",
+    "original": "SHOULDN'T!",
+    "translation": "ألا تفعل!",
+    "shaped": "!ﻞﻌﻔﺗ ﻻﺃ"
+  },
+  {
+    "address": "0x1CA026",
+    "original": "A CAVE -- COOL!!",
+    "translation": "كهف -- رائع!",
+    "shaped": "!ﻊﺋﺍﺭ -- ﻒﻬﻛ"
+  },
+  {
+    "address": "0x1CA038",
+    "original": "ARGH! I SCREWED",
+    "translation": "تباً! لقد أفسدتُ",
+    "shaped": "ﺕﺪﺴﻓﺃ ﺪﻘﻟ !ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1CA048",
+    "original": "UP AGAIN!",
+    "translation": "الأمر مجدداً!",
+    "shaped": "!ﺍﺩﺪﺠﻣ ﺮﻣﻷﺍ"
+  },
+  {
+    "address": "0x1CA054",
+    "original": "NASTY!",
+    "translation": "مقرف!",
+    "shaped": "!ﻑﺮﻘﻣ"
+  },
+  {
+    "address": "0x1CA05C",
+    "original": "R'KILL, I LOVE",
+    "translation": "يا رودكيل، كم أعشقك",
+    "shaped": "ﻚﻘﺸﻋﺃ ﻢﻛ ،ﻞﻴﻛﺩﻭﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1CA06B",
+    "original": "YOU MAN!!",
+    "translation": "يا رفيقي البطل!",
+    "shaped": "!ﻞﻄﺒﻟﺍ ﻲﻘﻴﻓﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1CA076",
+    "original": "SURE, JUST THROW",
+    "translation": "طبعا فقط ألق",
+    "shaped": "ﻖﻟﺃ ﻂﻘﻓ ﺎﻌﺒﻃ"
+  },
+  {
+    "address": "0x1CA087",
+    "original": "IN SOME LAVA!",
+    "translation": "في بعض اللافا!",
+    "shaped": "!ﺎﻓﻼﻟﺍ ﺾﻌﺑ ﻲﻓ"
+  },
+  {
+    "address": "0x1CA096",
+    "original": "C'MON BEASTIE!",
+    "translation": "تعال هنا يا وحش!",
+    "shaped": "!ﺶﺣﻭ ﺎﻳ ﺎﻨﻫ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CA0A6",
+    "original": "EASY GOIN'",
+    "translation": "اهدأ قليلاً",
+    "shaped": "ﻼﻴﻠﻗ ﺃﺪﻫﺍ"
+  },
+  {
+    "address": "0x1CA0B1",
+    "original": "DUDE!",
+    "translation": "يا صاحبي!",
+    "shaped": "!ﻲﺒﺣﺎﺻ ﺎﻳ"
+  },
+  {
+    "address": "0x1CA0B8",
+    "original": "I'M NOT JUMPING",
+    "translation": "مستحيل أن أقفز",
+    "shaped": "ﺰﻔﻗﺃ ﻥﺃ ﻞﻴﺤﺘﺴﻣ"
+  },
+  {
+    "address": "0x1CA0C8",
+    "original": "IN THERE!",
+    "translation": "إلى تلك الحفرة!",
+    "shaped": "!ﺓﺮﻔﺤﻟﺍ ﻚﻠﺗ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1CA0D4",
+    "original": "THERE'S A SWITCH",
+    "translation": "هناك مفتاح",
+    "shaped": "ﺡﺎﺘﻔﻣ ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA0E5",
+    "original": "ON THE OTHER SIDE...",
+    "translation": "على الجانب الآخر",
+    "shaped": "ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ"
+  },
+  {
+    "address": "0x1CA0FC",
+    "original": "AND WHO ARE",
+    "translation": "ومن تكونون",
+    "shaped": "ﻥﻮﻧﻮﻜﺗ ﻦﻣﻭ"
+  },
+  {
+    "address": "0x1CA108",
+    "original": "YOU GUYS?!?",
+    "translation": "أنتم يا رفاق؟",
+    "shaped": "؟ﻕﺎﻓﺭ ﺎﻳ ﻢﺘﻧﺃ"
+  },
+  {
+    "address": "0x1CA116",
+    "original": "MORTUS IS",
+    "translation": "مورتوس لا يهدأ",
+    "shaped": "ﺃﺪﻬﻳ ﻻ ﺱﻮﺗﺭﻮﻣ"
+  },
+  {
+    "address": "0x1CA120",
+    "original": "GETTIN' BUSY!",
+    "translation": "عن إرسالكم!",
+    "shaped": "!ﻢﻜﻟﺎﺳﺭﺇ ﻦﻋ"
+  },
+  {
+    "address": "0x1CA130",
+    "original": "#@!!!",
+    "translation": "تباً!",
+    "shaped": "!ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1CA138",
+    "original": "I CAN SEE LIGHT",
+    "translation": "أرى بصيص ضوء",
+    "shaped": "ﺀﻮﺿ ﺺﻴﺼﺑ ﻯﺭﺃ"
+  },
+  {
+    "address": "0x1CA148",
+    "original": "AT THE END OF",
+    "translation": "عند نهاية",
+    "shaped": "ﺔﻳﺎﻬﻧ ﺪﻨﻋ"
+  },
+  {
+    "address": "0x1CA156",
+    "original": "THE TUNNEL!",
+    "translation": "النفق!",
+    "shaped": "!ﻖﻔﻨﻟﺍ"
+  },
+  {
+    "address": "0x1CA164",
+    "original": "ON THE OTHER SIDE...",
+    "translation": "على الجانب الآخر",
+    "shaped": "ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ"
+  },
+  {
+    "address": "0x1CA17A",
+    "original": "A SHIPWRECK",
+    "translation": "مقبرة سفن",
+    "shaped": "ﻦﻔﺳ ﺓﺮﺒﻘﻣ"
+  },
+  {
+    "address": "0x1CA186",
+    "original": "GRAVEYARD!!!",
+    "translation": "غارقة ضخمة!",
+    "shaped": "!ﺔﻤﺨﺿ ﺔﻗﺭﺎﻏ"
+  },
+  {
+    "address": "0x1CA194",
+    "original": "I HAVE TO GET",
+    "translation": "علي أن أحصل",
+    "shaped": "ﻞﺼﺣﺃ ﻥﺃ ﻲﻠﻋ"
+  },
+  {
+    "address": "0x1CA1A2",
+    "original": "TO THE SHIPS.",
+    "translation": "إلى السفن",
+    "shaped": "ﻦﻔﺴﻟﺍ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1CA1B2",
+    "original": "WE'RE ALIEN",
+    "translation": "نحن فضائيون",
+    "shaped": "ﻥﻮﻴﺋﺎﻀﻓ ﻦﺤﻧ"
+  },
+  {
+    "address": "0x1CA1BE",
+    "original": "RENEGADES...",
+    "translation": "متمردون...",
+    "shaped": "...ﻥﻭﺩﺮﻤﺘﻣ"
+  },
+  {
+    "address": "0x1CA1CC",
+    "original": "THIS PLANET",
+    "translation": "هذا الكوكب",
+    "shaped": "ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA1D8",
+    "original": "WILL BE OURS!",
+    "translation": "همم، هل يُفترض",
+    "shaped": "ﺽﺮﺘﻔﻳ ﻞﻫ ،ﻢﻤﻫ"
+  },
+  {
+    "address": "0x1CA1E8",
+    "original": "WITHOUT YOU",
+    "translation": "دونك",
+    "shaped": "ﻚﻧﻭﺩ"
+  },
+  {
+    "address": "0x1CA1F4",
+    "original": "HUMANS!!",
+    "translation": "أيها البشر!",
+    "shaped": "!ﺮﺸﺒﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CA1FE",
+    "original": "HELLO, FREAK!",
+    "translation": "مرحباً يا مسخ!",
+    "shaped": "!ﺦﺴﻣ ﺎﻳ ﺎﺒﺣﺮﻣ"
+  },
+  {
+    "address": "0x1CA20E",
+    "original": "HMM... IS THIS",
+    "translation": "همم، هل يُفترض",
+    "shaped": "ﺽﺮﺘﻔﻳ ﻞﻫ ،ﻢﻤﻫ"
+  },
+  {
+    "address": "0x1CA21D",
+    "original": "SUPPOSED TO",
+    "translation": "بهذا الشيء",
+    "shaped": "ﺀﻲﺸﻟﺍ ﺍﺬﻬﺑ"
+  },
+  {
+    "address": "0x1CA229",
+    "original": "STOP ME?",
+    "translation": "أن يوقفني؟",
+    "shaped": "؟ﻲﻨﻔﻗﻮﻳ ﻥﺃ"
+  },
+  {
+    "address": "0x1CA234",
+    "original": "THE MINE",
+    "translation": "اللغم",
+    "shaped": "ﻢﻐﻠﻟﺍ"
+  },
+  {
+    "address": "0x1CA23D",
+    "original": "MAY SUSTAIN",
+    "translation": "قد يحمل",
+    "shaped": "ﻞﻤﺤﻳ ﺪﻗ"
+  },
+  {
+    "address": "0x1CA249",
+    "original": "A LIGHTER",
+    "translation": "ولاعة",
+    "shaped": "ﺔﻋﻻﻭ"
+  },
+  {
+    "address": "0x1CA253",
+    "original": "CREATURE",
+    "translation": "مخلوق",
+    "shaped": "ﻕﻮﻠﺨﻣ"
+  },
+  {
+    "address": "0x1CA25E",
+    "original": "SHORTCUT",
+    "translation": "طريق مختصر",
+    "shaped": "ﺮﺼﺘﺨﻣ ﻖﻳﺮﻃ"
+  },
+  {
+    "address": "0x1CA268",
+    "original": "EXCELLENT, DUDE!!",
+    "translation": "ممتاز يا صديقي!",
+    "shaped": "!ﻲﻘﻳﺪﺻ ﺎﻳ ﺯﺎﺘﻤﻣ"
+  },
+  {
+    "address": "0x1CA284",
+    "original": "GRAVE SHIPYARD",
+    "translation": "مرسى السفن الميتة",
+    "shaped": "ﺔﺘﻴﻤﻟﺍ ﻦﻔﺴﻟﺍ ﻰﺳﺮﻣ"
+  },
+  {
+    "address": "0x1CA294",
+    "original": "MAN, SPOOKY STUFF!",
+    "translation": "المكان مرعب ومريب!",
+    "shaped": "!ﺐﻳﺮﻣﻭ ﺐﻋﺮﻣ ﻥﺎﻜﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CA2A8",
+    "original": "AH, I SEE",
+    "translation": "آه فهمت",
+    "shaped": "ﺖﻤﻬﻓ ﻩﺁ"
+  },
+  {
+    "address": "0x1CA2B2",
+    "original": "SOME GOODS!",
+    "translation": "بعض البضائع!",
+    "shaped": "!ﻊﺋﺎﻀﺒﻟﺍ ﺾﻌﺑ"
+  },
+  {
+    "address": "0x1CA2C0",
+    "original": "WATCH YOUR STEP!!",
+    "translation": "انتبه لخطوتك!",
+    "shaped": "!ﻚﺗﻮﻄﺨﻟ ﻪﺒﺘﻧﺍ"
+  },
+  {
+    "address": "0x1CA2D4",
+    "original": "GEE, THANKS!",
+    "translation": "جيز شكرا!",
+    "shaped": "!ﺍﺮﻜﺷ ﺰﻴﺟ"
+  },
+  {
+    "address": "0x1CA2E2",
+    "original": "THIS LOOKS",
+    "translation": "هذا يبدو",
+    "shaped": "ﻭﺪﺒﻳ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA2ED",
+    "original": "VERY SERIOUS!!",
+    "translation": "جدي جدا!",
+    "shaped": "!ﺍﺪﺟ ﻱﺪﺟ"
+  },
+  {
+    "address": "0x1CA2FE",
+    "original": "WE NEEDED",
+    "translation": "احتجنا إلى",
+    "shaped": "ﻰﻟﺇ ﺎﻨﺠﺘﺣﺍ"
+  },
+  {
+    "address": "0x1CA308",
+    "original": "A NEW HOME",
+    "translation": "موطن جديد",
+    "shaped": "ﺪﻳﺪﺟ ﻦﻃﻮﻣ"
+  },
+  {
+    "address": "0x1CA314",
+    "original": "BUT OUR METEOR",
+    "translation": "لكن نيزكنا",
+    "shaped": "ﺎﻨﻛﺰﻴﻧ ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1CA323",
+    "original": "ATTACK FAILED!",
+    "translation": "الهجوم فشل!",
+    "shaped": "!ﻞﺸﻓ ﻡﻮﺠﻬﻟﺍ"
+  },
+  {
+    "address": "0x1CA334",
+    "original": "YOU HUMANS",
+    "translation": "أنتم أيها البشر",
+    "shaped": "ﺮﺸﺒﻟﺍ ﺎﻬﻳﺃ ﻢﺘﻧﺃ"
+  },
+  {
+    "address": "0x1CA33F",
+    "original": "SURVIVED...",
+    "translation": "نجا",
+    "shaped": "ﺎﺠﻧ"
+  },
+  {
+    "address": "0x1CA34C",
+    "original": "BUT NOW, YER",
+    "translation": "لكن الآن يا",
+    "shaped": "ﺎﻳ ﻥﻵﺍ ﻦﻜﻟ"
+  },
+  {
+    "address": "0x1CA359",
+    "original": "TIME'S UP!!!",
+    "translation": "انتهى الوقت!",
+    "shaped": "!ﺖﻗﻮﻟﺍ ﻰﻬﺘﻧﺍ"
+  },
+  {
+    "address": "0x1CA368",
+    "original": "WHAT ARE YOU",
+    "translation": "ما الذي تدبرونه",
+    "shaped": "ﻪﻧﻭﺮﺑﺪﺗ ﻱﺬﻟﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA375",
+    "original": "UP TO DWEEBS?",
+    "translation": "أيها الأغبياء؟",
+    "shaped": "؟ﺀﺎﻴﺒﻏﻷﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CA384",
+    "original": "WE'RE PICKING UP",
+    "translation": "نحن نلتقط",
+    "shaped": "ﻂﻘﺘﻠﻧ ﻦﺤﻧ"
+  },
+  {
+    "address": "0x1CA395",
+    "original": "HIGH LEVELS OF",
+    "translation": "مستويات عالية من",
+    "shaped": "ﻦﻣ ﺔﻴﻟﺎﻋ ﺕﺎﻳﻮﺘﺴﻣ"
+  },
+  {
+    "address": "0x1CA3A4",
+    "original": "NU-K RADIATION!!",
+    "translation": "إشعاع نو-كاي!",
+    "shaped": "!ﻱﺎﻛ-ﻮﻧ ﻉﺎﻌﺷﺇ"
+  },
+  {
+    "address": "0x1CA3B6",
+    "original": "INSIDE THE LARGEST FREIGHTER",
+    "translation": "داخل أكبر ناقلة بضاعة",
+    "shaped": "ﺔﻋﺎﻀﺑ ﺔﻠﻗﺎﻧ ﺮﺒﻛﺃ ﻞﺧﺍﺩ"
+  },
+  {
+    "address": "0x1CA3D4",
+    "original": "HMM, LOOKS LIKE",
+    "translation": "هم يبدو كأن",
+    "shaped": "ﻥﺄﻛ ﻭﺪﺒﻳ ﻢﻫ"
+  },
+  {
+    "address": "0x1CA3E4",
+    "original": "SOME FACTORY?",
+    "translation": "مصنعا ما؟",
+    "shaped": "؟ﺎﻣ ﺎﻌﻨﺼﻣ"
+  },
+  {
+    "address": "0x1CA3F4",
+    "original": "GOTTA GO",
+    "translation": "يجب أن أذهب",
+    "shaped": "ﺐﻫﺫﺃ ﻥﺃ ﺐﺠﻳ"
+  },
+  {
+    "address": "0x1CA3FD",
+    "original": "FURTHER IN...",
+    "translation": "أبعد إلى الداخل",
+    "shaped": "ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺪﻌﺑﺃ"
+  },
+  {
+    "address": "0x1CA40C",
+    "original": "ON DECK",
+    "translation": "على السطح",
+    "shaped": "ﺢﻄﺴﻟﺍ ﻰﻠﻋ"
+  },
+  {
+    "address": "0x1CA416",
+    "original": "MAN, I DON'T",
+    "translation": "يا رجل أنا لا",
+    "shaped": "ﻻ ﺎﻧﺃ ﻞﺟﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1CA423",
+    "original": "KNOW!?!",
+    "translation": "أتعلم؟",
+    "shaped": "؟ﻢﻠﻌﺗﺃ"
+  },
+  {
+    "address": "0x1CA42C",
+    "original": "YOU GOTTA",
+    "translation": "عليك أن",
+    "shaped": "ﻥﺃ ﻚﻴﻠﻋ"
+  },
+  {
+    "address": "0x1CA436",
+    "original": "GET INSIDE",
+    "translation": "تدخل إلى",
+    "shaped": "ﻰﻟﺇ ﻞﺧﺪﺗ"
+  },
+  {
+    "address": "0x1CA442",
+    "original": "INSIDE...",
+    "translation": "الداخل",
+    "shaped": "ﻞﺧﺍﺪﻟﺍ"
+  },
+  {
+    "address": "0x1CA44E",
+    "original": "WHAT'S THAT? A MINE",
+    "translation": "ما ذاك؟ لغم",
+    "shaped": "ﻢﻐﻟ ؟ﻙﺍﺫ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA462",
+    "original": "WITHOUT FUSES?",
+    "translation": "بدون صواميل؟",
+    "shaped": "؟ﻞﻴﻣﺍﻮﺻ ﻥﻭﺪﺑ"
+  },
+  {
+    "address": "0x1CA472",
+    "original": "THIS PRESS SEEMS",
+    "translation": "بكل هذا؟",
+    "shaped": "؟ﺍﺬﻫ ﻞﻜﺑ"
+  },
+  {
+    "address": "0x1CA483",
+    "original": "TO PACK SOME PUNCH!",
+    "translation": "أنها تحمل لكمة!",
+    "shaped": "!ﺔﻤﻜﻟ ﻞﻤﺤﺗ ﺎﻬﻧﺃ"
+  },
+  {
+    "address": "0x1CA498",
+    "original": "NEXT ROOM!",
+    "translation": "الغرفة التالية!",
+    "shaped": "!ﺔﻴﻟﺎﺘﻟﺍ ﺔﻓﺮﻐﻟﺍ"
+  },
+  {
+    "address": "0x1CA4A4",
+    "original": "#@!!?!",
+    "translation": "سحقاً؟",
+    "shaped": "؟ﺎﻘﺤﺳ"
+  },
+  {
+    "address": "0x1CA4AC",
+    "original": "DON'T",
+    "translation": "لا",
+    "shaped": "ﻻ"
+  },
+  {
+    "address": "0x1CA4B2",
+    "original": "'BLOW' IT!",
+    "translation": "تفسد الأمر!",
+    "shaped": "!ﺮﻣﻷﺍ ﺪﺴﻔﺗ"
+  },
+  {
+    "address": "0x1CA4BE",
+    "original": "ALISSA, IT'S MORTUS'",
+    "translation": "أليسا إنها مورتوس",
+    "shaped": "ﺱﻮﺗﺭﻮﻣ ﺎﻬﻧﺇ ﺎﺴﻴﻟﺃ"
+  },
+  {
+    "address": "0x1CA4D3",
+    "original": "WEAPONS FACTORY!",
+    "translation": "مصنع الأسلحة!",
+    "shaped": "!ﺔﺤﻠﺳﻷﺍ ﻊﻨﺼﻣ"
+  },
+  {
+    "address": "0x1CA4E6",
+    "original": "WE GOTTA BLOW",
+    "translation": "علينا أن نفجر",
+    "shaped": "ﺮﺠﻔﻧ ﻥﺃ ﺎﻨﻴﻠﻋ"
+  },
+  {
+    "address": "0x1CA4F4",
+    "original": "THIS PLACE!",
+    "translation": "هذا المكان!",
+    "shaped": "!ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA502",
+    "original": "WE'LL NUKE ALL",
+    "translation": "معها للجحيم!",
+    "shaped": "!ﻢﻴﺤﺠﻠﻟ ﺎﻬﻌﻣ"
+  },
+  {
+    "address": "0x1CA511",
+    "original": "HUMAN LIFE OFF",
+    "translation": "الحياة البشرية عن",
+    "shaped": "ﻦﻋ ﺔﻳﺮﺸﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ"
+  },
+  {
+    "address": "0x1CA520",
+    "original": "THIS PLANET!",
+    "translation": "هذا الكوكب!",
+    "shaped": "!ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA52E",
+    "original": "SKETCH, THIS IS",
+    "translation": "سكيتش هذا هو",
+    "shaped": "ﻮﻫ ﺍﺬﻫ ﺶﺘﻴﻜﺳ"
+  },
+  {
+    "address": "0x1CA53E",
+    "original": "MAJOR #@!!",
+    "translation": "كارثة كبرى!",
+    "shaped": "!ﻯﺮﺒﻛ ﺔﺛﺭﺎﻛ"
+  },
+  {
+    "address": "0x1CA54A",
+    "original": "THERE'S A NUKE IN",
+    "translation": "هناك قنابل نووية في",
+    "shaped": "ﻲﻓ ﺔﻳﻭﻮﻧ ﻞﺑﺎﻨﻗ ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA55C",
+    "original": "THERE SOMEWHERE!",
+    "translation": "هناك في مكان ما!",
+    "shaped": "!ﺎﻣ ﻥﺎﻜﻣ ﻲﻓ ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA56E",
+    "original": "OUR PLAN WILL",
+    "translation": "خطتنا ست",
+    "shaped": "ﺖﺳ ﺎﻨﺘﻄﺧ"
+  },
+  {
+    "address": "0x1CA57C",
+    "original": "GO THROUGH!",
+    "translation": "تنفذ!",
+    "shaped": "!ﺬﻔﻨﺗ"
+  },
+  {
+    "address": "0x1CA58A",
+    "original": "NOT IF I CAN",
+    "translation": "لن يكون إن أستطعت",
+    "shaped": "ﺖﻌﻄﺘﺳﺃ ﻥﺇ ﻥﻮﻜﻳ ﻦﻟ"
+  },
+  {
+    "address": "0x1CA597",
+    "original": "HELP IT...",
+    "translation": "ساعدني",
+    "shaped": "ﻲﻧﺪﻋﺎﺳ"
+  },
+  {
+    "address": "0x1CA5A4",
+    "original": "I'M FLYING IN...",
+    "translation": "أنا أطير إلى الداخل",
+    "shaped": "ﻞﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺮﻴﻃﺃ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CA5B6",
+    "original": "I'LL BE",
+    "translation": "سأكون",
+    "shaped": "ﻥﻮﻛﺄﺳ"
+  },
+  {
+    "address": "0x1CA5BE",
+    "original": "THERE SHORTLY!",
+    "translation": "هناك قريبا!",
+    "shaped": "!ﺎﺒﻳﺮﻗ ﻙﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA5CE",
+    "original": "END OF HULL",
+    "translation": "نهاية الهيكل",
+    "shaped": "ﻞﻜﻴﻬﻟﺍ ﺔﻳﺎﻬﻧ"
+  },
+  {
+    "address": "0x1CA5DC",
+    "original": "WHAT'S THAT",
+    "translation": "ما هذا",
+    "shaped": "ﺍﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA5E8",
+    "original": "HUMMING SOUND?",
+    "translation": "صوت همهمة؟",
+    "shaped": "؟ﺔﻤﻬﻤﻫ ﺕﻮﺻ"
+  },
+  {
+    "address": "0x1CA5F8",
+    "original": "IT COMES FROM",
+    "translation": "يأتي من",
+    "shaped": "ﻦﻣ ﻲﺗﺄﻳ"
+  },
+  {
+    "address": "0x1CA606",
+    "original": "BEHIND THIS DOOR...",
+    "translation": "خلف هذا الباب",
+    "shaped": "ﺏﺎﺒﻟﺍ ﺍﺬﻫ ﻒﻠﺧ"
+  },
+  {
+    "address": "0x1CA61C",
+    "original": "NUKE, READY TO LAUNCH!",
+    "translation": "النووي، جاهز للإطلاق!",
+    "shaped": "!ﻕﻼﻃﻺﻟ ﺰﻫﺎﺟ ،ﻱﻭﻮﻨﻟﺍ"
+  },
+  {
+    "address": "0x1CA634",
+    "original": "@#!?!!",
+    "translation": "تباً؟",
+    "shaped": "؟ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1CA63C",
+    "original": "LIKE, WHAT'S MY",
+    "translation": "وما شأني أنا",
+    "shaped": "ﺎﻧﺃ ﻲﻧﺄﺷ ﺎﻣﻭ"
+  },
+  {
+    "address": "0x1CA64C",
+    "original": "PART IN THIS?!?",
+    "translation": "بكل هذا؟",
+    "shaped": "؟ﺍﺬﻫ ﻞﻜﺑ"
+  },
+  {
+    "address": "0x1CA65E",
+    "original": "UPHH, JUST MADE",
+    "translation": "أوف! وصلت في",
+    "shaped": "ﻲﻓ ﺖﻠﺻﻭ !ﻑﻭﺃ"
+  },
+  {
+    "address": "0x1CA66E",
+    "original": "IT IN TIME...",
+    "translation": "الوقت المناسب...",
+    "shaped": "...ﺐﺳﺎﻨﻤﻟﺍ ﺖﻗﻮﻟﺍ"
+  },
+  {
+    "address": "0x1CA67E",
+    "original": "STAY PUT, I GOTTA",
+    "translation": "ابق مكانك علي",
+    "shaped": "ﻲﻠﻋ ﻚﻧﺎﻜﻣ ﻖﺑﺍ"
+  },
+  {
+    "address": "0x1CA690",
+    "original": "DEFUSE THIS THING!",
+    "translation": "إزالة تسليح هذا الشيء!",
+    "shaped": "!ﺀﻲﺸﻟﺍ ﺍﺬﻫ ﺢﻴﻠﺴﺗ ﺔﻟﺍﺯﺇ"
+  },
+  {
+    "address": "0x1CA6A4",
+    "original": "C'MERE, SWEETHEART!",
+    "translation": "تعالي إلى هنا!",
+    "shaped": "!ﺎﻨﻫ ﻰﻟﺇ ﻲﻟﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CA6BA",
+    "original": "THIS NUKE WILL",
+    "translation": "هذا النووي سيمزق",
+    "shaped": "ﻕﺰﻤﻴﺳ ﻱﻭﻮﻨﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA6C9",
+    "original": "BLOW YOUR EMPIRE",
+    "translation": "إمبراطوريتك بالكامل",
+    "shaped": "ﻞﻣﺎﻜﻟﺎﺑ ﻚﺘﻳﺭﻮﻃﺍﺮﺒﻣﺇ"
+  },
+  {
+    "address": "0x1CA6DA",
+    "original": "TO SHREDS!",
+    "translation": "إلى أشلاء!",
+    "shaped": "!ﺀﻼﺷﺃ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1CA6E6",
+    "original": "...AND YOU'RE",
+    "translation": "وستذهبين أنتِ",
+    "shaped": "ﺖﻧﺃ ﻦﻴﺒﻫﺬﺘﺳﻭ"
+  },
+  {
+    "address": "0x1CA6F4",
+    "original": "GOING WITH IT!",
+    "translation": "معها للجحيم!",
+    "shaped": "!ﻢﻴﺤﺠﻠﻟ ﺎﻬﻌﻣ"
+  },
+  {
+    "address": "0x1CA704",
+    "original": "HERE, FILL 'ER UP!",
+    "translation": "هنا املأها!",
+    "shaped": "!ﺎﻫﻸﻣﺍ ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA718",
+    "original": "?!??!?",
+    "translation": "؟",
+    "shaped": "؟"
+  },
+  {
+    "address": "0x1CA720",
+    "original": "WHAT'S THE MATTER",
+    "translation": "ما الأمر",
+    "shaped": "ﺮﻣﻷﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA732",
+    "original": "NOW, SKETCH?",
+    "translation": "الآن يا سكيتش؟",
+    "shaped": "؟ﺶﺘﻴﻜﺳ ﺎﻳ ﻥﻵﺍ"
+  },
+  {
+    "address": "0x1CA740",
+    "original": "GETTIN' CHICKEN?",
+    "translation": "هل جبنتَ الآن؟",
+    "shaped": "؟ﻥﻵﺍ ﺖﻨﺒﺟ ﻞﻫ"
+  },
+  {
+    "address": "0x1CA752",
+    "original": "LEMME SEE HOW",
+    "translation": "خلني أرى كيف",
+    "shaped": "ﻒﻴﻛ ﻯﺭﺃ ﻲﻨﻠﺧ"
+  },
+  {
+    "address": "0x1CA760",
+    "original": "GOOD YOU REALLY ARE!",
+    "translation": "جيد أنت حقا!",
+    "shaped": "!ﺎﻘﺣ ﺖﻧﺃ ﺪﻴﺟ"
+  },
+  {
+    "address": "0x1CA776",
+    "original": "CHICKEN THIS,",
+    "translation": "سأريك الجبان،",
+    "shaped": "،ﻥﺎﺒﺠﻟﺍ ﻚﻳﺭﺄﺳ"
+  },
+  {
+    "address": "0x1CA784",
+    "original": "FREAK!!!",
+    "translation": "أيها المسخ!",
+    "shaped": "!ﺦﺴﻤﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CA78E",
+    "original": "QUICK, HIT",
+    "translation": "بسرعة اضرب",
+    "shaped": "ﺏﺮﺿﺍ ﺔﻋﺮﺴﺑ"
+  },
+  {
+    "address": "0x1CA799",
+    "original": "THE SWITCH!",
+    "translation": "المفتاح!",
+    "shaped": "!ﺡﺎﺘﻔﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CA7A6",
+    "original": "A MAGNET",
+    "translation": "مغناطيس",
+    "shaped": "ﺲﻴﻃﺎﻨﻐﻣ"
+  },
+  {
+    "address": "0x1CA7AF",
+    "original": "CRANE?!",
+    "translation": "رافعة؟",
+    "shaped": "؟ﺔﻌﻓﺍﺭ"
+  },
+  {
+    "address": "0x1CA7B8",
+    "original": "LOOKS LIKE A MINE",
+    "translation": "يبدو كلغم",
+    "shaped": "ﻢﻐﻠﻛ ﻭﺪﺒﻳ"
+  },
+  {
+    "address": "0x1CA7CA",
+    "original": "WITHOUT FUSES?",
+    "translation": "دون صمامات؟",
+    "shaped": "؟ﺕﺎﻣﺎﻤﺻ ﻥﻭﺩ"
+  },
+  {
+    "address": "0x1CA7DA",
+    "original": "WHAT, COULDN'T",
+    "translation": "ما ألم تستطع",
+    "shaped": "ﻊﻄﺘﺴﺗ ﻢﻟﺃ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA7E9",
+    "original": "TAKE THE LOAD?",
+    "translation": "أن تحمل الحملا؟",
+    "shaped": "؟ﻼﻤﺤﻟﺍ ﻞﻤﺤﺗ ﻥﺃ"
+  },
+  {
+    "address": "0x1CA7FA",
+    "original": "THIS IS ONE",
+    "translation": "هذا واحد",
+    "shaped": "ﺪﺣﺍﻭ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CA806",
+    "original": "HEAVY-DUTY DOOR",
+    "translation": "باب ثقيل الوزن",
+    "shaped": "ﻥﺯﻮﻟﺍ ﻞﻴﻘﺛ ﺏﺎﺑ"
+  },
+  {
+    "address": "0x1CA818",
+    "original": "<UNGGH",
+    "translation": "أوووف",
+    "shaped": "ﻑﻭﻭﻭﺃ"
+  },
+  {
+    "address": "0x1CA81F",
+    "original": "<MY HEAD!!",
+    "translation": "رأسي!",
+    "shaped": "!ﻲﺳﺃﺭ"
+  },
+  {
+    "address": "0x1CA82C",
+    "original": "<HA HA!!",
+    "translation": "ها ها!",
+    "shaped": "!ﺎﻫ ﺎﻫ"
+  },
+  {
+    "address": "0x1CA836",
+    "original": "<DON'T TOUCH ME!",
+    "translation": "لا تلمسني!",
+    "shaped": "!ﻲﻨﺴﻤﻠﺗ ﻻ"
+  },
+  {
+    "address": "0x1CA848",
+    "original": "<LOSER!!",
+    "translation": "أيها الفاشل!",
+    "shaped": "!ﻞﺷﺎﻔﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CA852",
+    "original": "<COMIN' THROUGH!",
+    "translation": "أنا قادم إليك!",
+    "shaped": "!ﻚﻴﻟﺇ ﻡﺩﺎﻗ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CA864",
+    "original": "<NICE TRY!!",
+    "translation": "محاولة جيدة!",
+    "shaped": "!ﺓﺪﻴﺟ ﺔﻟﻭﺎﺤﻣ"
+  },
+  {
+    "address": "0x1CA872",
+    "original": "<TAKE THAT!!",
+    "translation": "خذ هذه!",
+    "shaped": "!ﻩﺬﻫ ﺬﺧ"
+  },
+  {
+    "address": "0x1CA880",
+    "original": "<GOING UP!",
+    "translation": "إلى الأعلى!",
+    "shaped": "!ﻰﻠﻋﻷﺍ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1CA88C",
+    "original": "<COME HERE!",
+    "translation": "تعال هنا!",
+    "shaped": "!ﺎﻨﻫ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CA89A",
+    "original": "<KEEP BACK!",
+    "translation": "ابتعد عني!",
+    "shaped": "!ﻲﻨﻋ ﺪﻌﺘﺑﺍ"
+  },
+  {
+    "address": "0x1CA8A8",
+    "original": "<LOOK WHERE",
+    "translation": "انتبه أين",
+    "shaped": "ﻦﻳﺃ ﻪﺒﺘﻧﺍ"
+  },
+  {
+    "address": "0x1CA8B4",
+    "original": "<YOU'RE GOING!!",
+    "translation": "تضع قدميك!",
+    "shaped": "!ﻚﻴﻣﺪﻗ ﻊﻀﺗ"
+  },
+  {
+    "address": "0x1CA8C6",
+    "original": "<WATCH IT!",
+    "translation": "احترس!",
+    "shaped": "!ﺱﺮﺘﺣﺍ"
+  },
+  {
+    "address": "0x1CA8D2",
+    "original": "<OUR FORM IS",
+    "translation": "أجسادنا",
+    "shaped": "ﺎﻧﺩﺎﺴﺟﺃ"
+  },
+  {
+    "address": "0x1CA8DF",
+    "original": "<FLEXIBLE...",
+    "translation": "لزجة ومرنة...",
+    "shaped": "...ﺔﻧﺮﻣﻭ ﺔﺟﺰﻟ"
+  },
+  {
+    "address": "0x1CA8EE",
+    "original": "<COME DOWN,",
+    "translation": "انزل إلى هنا",
+    "shaped": "ﺎﻨﻫ ﻰﻟﺇ ﻝﺰﻧﺍ"
+  },
+  {
+    "address": "0x1CA8FA",
+    "original": "<YOU CHICKEN!",
+    "translation": "يا جبان!",
+    "shaped": "!ﻥﺎﺒﺟ ﺎﻳ"
+  },
+  {
+    "address": "0x1CA90A",
+    "original": "BACK OFF!!",
+    "translation": "تراجع!",
+    "shaped": "!ﻊﺟﺍﺮﺗ"
+  },
+  {
+    "address": "0x1CA916",
+    "original": "NO RATS",
+    "translation": "ممنوع الفئران",
+    "shaped": "ﻥﺍﺮﺌﻔﻟﺍ ﻉﻮﻨﻤﻣ"
+  },
+  {
+    "address": "0x1CA91E",
+    "original": "'ROUND HERE!",
+    "translation": "حول هنا!",
+    "shaped": "!ﺎﻨﻫ ﻝﻮﺣ"
+  },
+  {
+    "address": "0x1CA92C",
+    "original": "WATCH IT, PARTNER!",
+    "translation": "احترز يا شريك!",
+    "shaped": "!ﻚﻳﺮﺷ ﺎﻳ ﺯﺮﺘﺣﺍ"
+  },
+  {
+    "address": "0x1CA940",
+    "original": "NOW WHAT?!?",
+    "translation": "الآن ماذا؟",
+    "shaped": "؟ﺍﺫﺎﻣ ﻥﻵﺍ"
+  },
+  {
+    "address": "0x1CA94E",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CA958",
+    "original": "COME TO PAPA!",
+    "translation": "تعال إلى أبيك!",
+    "shaped": "!ﻚﻴﺑﺃ ﻰﻟﺇ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CA968",
+    "original": "WHAT'S THE",
+    "translation": "ما المشكلة",
+    "shaped": "ﺔﻠﻜﺸﻤﻟﺍ ﺎﻣ"
+  },
+  {
+    "address": "0x1CA973",
+    "original": "MATTER?",
+    "translation": "هنا؟",
+    "shaped": "؟ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CA97C",
+    "original": "<LEMME FEEL",
+    "translation": "دعني أكسر",
+    "shaped": "ﺮﺴﻛﺃ ﻲﻨﻋﺩ"
+  },
+  {
+    "address": "0x1CA988",
+    "original": "<YER RIBS!",
+    "translation": "أضلاعك!",
+    "shaped": "!ﻚﻋﻼﺿﺃ"
+  },
+  {
+    "address": "0x1CA994",
+    "original": "STOP THAT!!",
+    "translation": "توقف عن ذاك!",
+    "shaped": "!ﻙﺍﺫ ﻦﻋ ﻒﻗﻮﺗ"
+  },
+  {
+    "address": "0x1CA9A2",
+    "original": "YOU TRICKED",
+    "translation": "خدعتني",
+    "shaped": "ﻲﻨﺘﻋﺪﺧ"
+  },
+  {
+    "address": "0x1CA9AE",
+    "original": "ME OUT!@#!",
+    "translation": "أيها المخادع!",
+    "shaped": "!ﻉﺩﺎﺨﻤﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CA9BA",
+    "original": "GETTIN' FANCY?!?",
+    "translation": "تتصنع؟",
+    "shaped": "؟ﻊﻨﺼﺘﺗ"
+  },
+  {
+    "address": "0x1CA9CC",
+    "original": "YOU ARE",
+    "translation": "قتالك ممل",
+    "shaped": "ﻞﻤﻣ ﻚﻟﺎﺘﻗ"
+  },
+  {
+    "address": "0x1CA9D4",
+    "original": "BORING ME...",
+    "translation": "للغاية...",
+    "shaped": "...ﺔﻳﺎﻐﻠﻟ"
+  },
+  {
+    "address": "0x1CA9E2",
+    "original": "YOU GOT ME!",
+    "translation": "أمسكتني!",
+    "shaped": "!ﻲﻨﺘﻜﺴﻣﺃ"
+  },
+  {
+    "address": "0x1CA9F0",
+    "original": "AIGHH!@#!",
+    "translation": "آاااه!@#",
+    "shaped": "#@!ﻩﺍﺍﺍﺁ"
+  },
+  {
+    "address": "0x1CA9FC",
+    "original": "OVER HERE!",
+    "translation": "هنا!",
+    "shaped": "!ﺎﻨﻫ"
+  },
+  {
+    "address": "0x1CAA08",
+    "original": "COUGH, COUGH...",
+    "translation": "سعال سعال",
+    "shaped": "ﻝﺎﻌﺳ ﻝﺎﻌﺳ"
+  },
+  {
+    "address": "0x1CAA2A",
+    "original": "SCREECH!",
+    "translation": "صرخة!",
+    "shaped": "!ﺔﺧﺮﺻ"
+  },
+  {
+    "address": "0x1CAA34",
+    "original": "<AAARRGGGHHH!",
+    "translation": "آاااارغ!",
+    "shaped": "!ﻍﺭﺍﺍﺍﺍﺁ"
+  },
+  {
+    "address": "0x1CAA44",
+    "original": "EH??!?",
+    "translation": "إيه؟",
+    "shaped": "؟ﻪﻳﺇ"
+  },
+  {
+    "address": "0x1CAA4C",
+    "original": "NOT THIS TIME!",
+    "translation": "ليس هذه المرة!",
+    "shaped": "!ﺓﺮﻤﻟﺍ ﻩﺬﻫ ﺲﻴﻟ"
+  },
+  {
+    "address": "0x1CAA5C",
+    "original": "GET DOWN HERE",
+    "translation": "انزل إلى هنا",
+    "shaped": "ﺎﻨﻫ ﻰﻟﺇ ﻝﺰﻧﺍ"
+  },
+  {
+    "address": "0x1CAA6A",
+    "original": "YOU SHMUCK!",
+    "translation": "يا أحمق!",
+    "shaped": "!ﻖﻤﺣﺃ ﺎﻳ"
+  },
+  {
+    "address": "0x1CAA78",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CAA82",
+    "original": "I'M GONNA BREAK",
+    "translation": "سأكسر",
+    "shaped": "ﺮﺴﻛﺄﺳ"
+  },
+  {
+    "address": "0x1CAA92",
+    "original": "YER LEGS!!!",
+    "translation": "ساقيك!",
+    "shaped": "!ﻚﻴﻗﺎﺳ"
+  },
+  {
+    "address": "0x1CAAA0",
+    "original": "LEMME SEE",
+    "translation": "دعني أرى",
+    "shaped": "ﻯﺭﺃ ﻲﻨﻋﺩ"
+  },
+  {
+    "address": "0x1CAAAA",
+    "original": "YER LUNGS!",
+    "translation": "قوتك!",
+    "shaped": "!ﻚﺗﻮﻗ"
+  },
+  {
+    "address": "0x1CAAB6",
+    "original": "YO SKETCH -- CATCH!",
+    "translation": "يا سكيتش -- التقط!",
+    "shaped": "!ﻂﻘﺘﻟﺍ -- ﺶﺘﻴﻜﺳ ﺎﻳ"
+  },
+  {
+    "address": "0x1CAACC",
+    "original": "HOP THIS!",
+    "translation": "تجاوز هذا!",
+    "shaped": "!ﺍﺬﻫ ﺯﻭﺎﺠﺗ"
+  },
+  {
+    "address": "0x1CAAD8",
+    "original": "JUST DO",
+    "translation": "كررها",
+    "shaped": "ﺎﻫﺭﺮﻛ"
+  },
+  {
+    "address": "0x1CAAE0",
+    "original": "IT AGAIN!",
+    "translation": "مرة أخرى!",
+    "shaped": "!ﻯﺮﺧﺃ ﺓﺮﻣ"
+  },
+  {
+    "address": "0x1CAAEC",
+    "original": "THAT HURT,",
+    "translation": "هذا مؤلم",
+    "shaped": "ﻢﻟﺆﻣ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CAAF7",
+    "original": "HUMAN!",
+    "translation": "أيها البشري!",
+    "shaped": "!ﻱﺮﺸﺒﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CAB00",
+    "original": "UUUNGH!!",
+    "translation": "أووووغ!",
+    "shaped": "!ﻍﻭﻭﻭﻭﺃ"
+  },
+  {
+    "address": "0x1CAB0A",
+    "original": "C'MERE, HUMAN!",
+    "translation": "تعال هنا يا بشري!",
+    "shaped": "!ﻱﺮﺸﺑ ﺎﻳ ﺎﻨﻫ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CAB1A",
+    "original": "BUZZ OFF!",
+    "translation": "اغرب عن وجهي!",
+    "shaped": "!ﻲﻬﺟﻭ ﻦﻋ ﺏﺮﻏﺍ"
+  },
+  {
+    "address": "0x1CAB26",
+    "original": "?!?!!",
+    "translation": "؟",
+    "shaped": "؟"
+  },
+  {
+    "address": "0x1CAB2E",
+    "original": "I'LL CRUSH",
+    "translation": "سأسحقك",
+    "shaped": "ﻚﻘﺤﺳﺄﺳ"
+  },
+  {
+    "address": "0x1CAB39",
+    "original": "THIS RODENT!",
+    "translation": "هذا القارض!",
+    "shaped": "!ﺽﺭﺎﻘﻟﺍ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CAB48",
+    "original": "ARGH--YOU FOUND",
+    "translation": "آآآخ! كشفت",
+    "shaped": "ﺖﻔﺸﻛ !ﺥﺁﺁﺁ"
+  },
+  {
+    "address": "0x1CAB58",
+    "original": "MY WEAKNESS!",
+    "translation": "نقطة ضعفي!",
+    "shaped": "!ﻲﻔﻌﺿ ﺔﻄﻘﻧ"
+  },
+  {
+    "address": "0x1CAB66",
+    "original": "I KNOW THIS TRICK!",
+    "translation": "أعرف هذه الحيلة!",
+    "shaped": "!ﺔﻠﻴﺤﻟﺍ ﻩﺬﻫ ﻑﺮﻋﺃ"
+  },
+  {
+    "address": "0x1CAB7A",
+    "original": "YER JUMP-KICKS",
+    "translation": "ركلاتك الطائرة",
+    "shaped": "ﺓﺮﺋﺎﻄﻟﺍ ﻚﺗﻼﻛﺭ"
+  },
+  {
+    "address": "0x1CAB89",
+    "original": "ARE LAME!",
+    "translation": "تافهة جداً!",
+    "shaped": "!ﺍﺪﺟ ﺔﻬﻓﺎﺗ"
+  },
+  {
+    "address": "0x1CAB94",
+    "original": "THIS IS GETTIN'",
+    "translation": "هذا صار مملاً",
+    "shaped": "ﻼﻤﻣ ﺭﺎﺻ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CABA4",
+    "original": "REALLY OLD...",
+    "translation": "حقاً...",
+    "shaped": "...ﺎﻘﺣ"
+  },
+  {
+    "address": "0x1CABB4",
+    "original": "I CAN FIGHT",
+    "translation": "أستطيع القتال",
+    "shaped": "ﻝﺎﺘﻘﻟﺍ ﻊﻴﻄﺘﺳﺃ"
+  },
+  {
+    "address": "0x1CABC0",
+    "original": "YOUR WAY...",
+    "translation": "بأسلوبك أيضاً...",
+    "shaped": "...ﺎﻀﻳﺃ ﻚﺑﻮﻠﺳﺄﺑ"
+  },
+  {
+    "address": "0x1CABCE",
+    "original": "I'LL TAKE",
+    "translation": "سأقضي",
+    "shaped": "ﻲﻀﻗﺄﺳ"
+  },
+  {
+    "address": "0x1CABD8",
+    "original": "YOU DOWN!",
+    "translation": "عليك تماماً!",
+    "shaped": "!ﺎﻣﺎﻤﺗ ﻚﻴﻠﻋ"
+  },
+  {
+    "address": "0x1CABE4",
+    "original": "WHAT'CHA",
+    "translation": "ماذا تنوي",
+    "shaped": "ﻱﻮﻨﺗ ﺍﺫﺎﻣ"
+  },
+  {
+    "address": "0x1CABED",
+    "original": "GONNA DO??",
+    "translation": "أن تفعل؟",
+    "shaped": "؟ﻞﻌﻔﺗ ﻥﺃ"
+  },
+  {
+    "address": "0x1CABFA",
+    "original": "SORRY, TOO SLOW!",
+    "translation": "آسف بطيء جدا!",
+    "shaped": "!ﺍﺪﺟ ﺀﻲﻄﺑ ﻒﺳﺁ"
+  },
+  {
+    "address": "0x1CAC0C",
+    "original": "GOIN' UP!",
+    "translation": "إلى الأعلى!",
+    "shaped": "!ﻰﻠﻋﻷﺍ ﻰﻟﺇ"
+  },
+  {
+    "address": "0x1CAC18",
+    "original": "LOW-HI!",
+    "translation": "ضربة سفلية!",
+    "shaped": "!ﺔﻴﻠﻔﺳ ﺔﺑﺮﺿ"
+  },
+  {
+    "address": "0x1CAC22",
+    "original": "ARGH, MISSED!",
+    "translation": "تباً! أخطأتني!",
+    "shaped": "!ﻲﻨﺗﺄﻄﺧﺃ !ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1CAC32",
+    "original": "HI-LOW!",
+    "translation": "ضربة علوية!",
+    "shaped": "!ﺔﻳﻮﻠﻋ ﺔﺑﺮﺿ"
+  },
+  {
+    "address": "0x1CAC3C",
+    "original": "YA WIMP!",
+    "translation": "أيها الضعيف!",
+    "shaped": "!ﻒﻴﻌﻀﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CAC46",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CAC50",
+    "original": "COMIN' DOWN!",
+    "translation": "نازل!",
+    "shaped": "!ﻝﺯﺎﻧ"
+  },
+  {
+    "address": "0x1CAC5E",
+    "original": "YOU GOT ME",
+    "translation": "لقد نلت مني",
+    "shaped": "ﻲﻨﻣ ﺖﻠﻧ ﺪﻘﻟ"
+  },
+  {
+    "address": "0x1CAC69",
+    "original": "FIGURED OUT!@#",
+    "translation": "فهمته!@#",
+    "shaped": "#@!ﻪﺘﻤﻬﻓ"
+  },
+  {
+    "address": "0x1CAC7A",
+    "original": "THIS MOVE IS",
+    "translation": "هذه الحركة",
+    "shaped": "ﺔﻛﺮﺤﻟﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1CAC87",
+    "original": "USELESS...",
+    "translation": "بلا فائدة...",
+    "shaped": "...ﺓﺪﺋﺎﻓ ﻼﺑ"
+  },
+  {
+    "address": "0x1CAC94",
+    "original": "PAY ATTENTION!",
+    "translation": "انتبه!",
+    "shaped": "!ﻪﺒﺘﻧﺍ"
+  },
+  {
+    "address": "0x1CACA4",
+    "original": "YOUR STRATEGY",
+    "translation": "خطتك الفاشلة",
+    "shaped": "ﺔﻠﺷﺎﻔﻟﺍ ﻚﺘﻄﺧ"
+  },
+  {
+    "address": "0x1CACB2",
+    "original": "NEEDS WORK!",
+    "translation": "تحتاج تدريباً!",
+    "shaped": "!ﺎﺒﻳﺭﺪﺗ ﺝﺎﺘﺤﺗ"
+  },
+  {
+    "address": "0x1CACC0",
+    "original": "GET LOST!!",
+    "translation": "اغرب عني!",
+    "shaped": "!ﻲﻨﻋ ﺏﺮﻏﺍ"
+  },
+  {
+    "address": "0x1CACCC",
+    "original": "FILTHY ANIMAL!",
+    "translation": "أيها القارض القذر!",
+    "shaped": "!ﺭﺬﻘﻟﺍ ﺽﺭﺎﻘﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CACDC",
+    "original": "HEY?!?",
+    "translation": "مهلاً؟",
+    "shaped": "؟ﻼﻬﻣ"
+  },
+  {
+    "address": "0x1CACE4",
+    "original": "IN YER FACE!",
+    "translation": "في وجهك!",
+    "shaped": "!ﻚﻬﺟﻭ ﻲﻓ"
+  },
+  {
+    "address": "0x1CACF2",
+    "original": "CHEW ON THIS!",
+    "translation": "امضغ هذا!",
+    "shaped": "!ﺍﺬﻫ ﻎﻀﻣﺍ"
+  },
+  {
+    "address": "0x1CAD02",
+    "original": "AYA!@#!",
+    "translation": "آيااا!@#",
+    "shaped": "#@!ﺍﺍﺎﻳﺁ"
+  },
+  {
+    "address": "0x1CAD0C",
+    "original": "!@#?@!!",
+    "translation": "!@#؟@!",
+    "shaped": "!@؟#@!"
+  },
+  {
+    "address": "0x1CAD16",
+    "original": "OFF YOU GO!",
+    "translation": "انطلق!",
+    "shaped": "!ﻖﻠﻄﻧﺍ"
+  },
+  {
+    "address": "0x1CAD24",
+    "original": "SIC 'EM BOY!",
+    "translation": "هاجمه يا ولد!",
+    "shaped": "!ﺪﻟﻭ ﺎﻳ ﻪﻤﺟﺎﻫ"
+  },
+  {
+    "address": "0x1CAD32",
+    "original": "AH, HERE YOU ARE!",
+    "translation": "آه هأنت هنا!",
+    "shaped": "!ﺎﻨﻫ ﺖﻧﺄﻫ ﻩﺁ"
+  },
+  {
+    "address": "0x1CAD46",
+    "original": "NICE JOB!",
+    "translation": "عمل رائع!",
+    "shaped": "!ﻊﺋﺍﺭ ﻞﻤﻋ"
+  },
+  {
+    "address": "0x1CAD52",
+    "original": "EEEK!",
+    "translation": "إيييك!",
+    "shaped": "!ﻚﻴﻴﻳﺇ"
+  },
+  {
+    "address": "0x1CAD5A",
+    "original": "BRO-THER?!?",
+    "translation": "أخي العزيز؟!",
+    "shaped": "!؟ﺰﻳﺰﻌﻟﺍ ﻲﺧﺃ"
+  },
+  {
+    "address": "0x1CAD68",
+    "original": "UNGH?@!#?",
+    "translation": "أوووغ؟@!#؟",
+    "shaped": "؟#!@؟ﻍﻭﻭﻭﺃ"
+  },
+  {
+    "address": "0x1CAD74",
+    "original": "<DUMBH'A",
+    "translation": "أيها الأحمق",
+    "shaped": "ﻖﻤﺣﻷﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CAD7D",
+    "original": "<HU-MAN!",
+    "translation": "أيها البشري!",
+    "shaped": "!ﻱﺮﺸﺒﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CAD88",
+    "original": "AH KHILL RHAT!!",
+    "translation": "آه خل رات!",
+    "shaped": "!ﺕﺍﺭ ﻞﺧ ﻩﺁ"
+  },
+  {
+    "address": "0x1CAD9A",
+    "original": "RHAT-RHAT?!?",
+    "translation": "رات-رات؟",
+    "shaped": "؟ﺕﺍﺭ-ﺕﺍﺭ"
+  },
+  {
+    "address": "0x1CADA8",
+    "original": "GRRRHTT!!!",
+    "translation": "غرااااه!",
+    "shaped": "!ﻩﺍﺍﺍﺍﺮﻏ"
+  },
+  {
+    "address": "0x1CADB4",
+    "original": "KHILL KHILL!!",
+    "translation": "خل خل!",
+    "shaped": "!ﻞﺧ ﻞﺧ"
+  },
+  {
+    "address": "0x1CADC4",
+    "original": "AUUGHA?!?",
+    "translation": "أوووغاه؟",
+    "shaped": "؟ﻩﺎﻏﻭﻭﻭﺃ"
+  },
+  {
+    "address": "0x1CADD0",
+    "original": "LET GO,",
+    "translation": "اتركني",
+    "shaped": "ﻲﻨﻛﺮﺗﺍ"
+  },
+  {
+    "address": "0x1CADD8",
+    "original": "YA BRUTE!!",
+    "translation": "أيها الوحش!",
+    "shaped": "!ﺶﺣﻮﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CADE4",
+    "original": "THAT'S NO DATE!",
+    "translation": "ذاك ليس موعدا!",
+    "shaped": "!ﺍﺪﻋﻮﻣ ﺲﻴﻟ ﻙﺍﺫ"
+  },
+  {
+    "address": "0x1CADF6",
+    "original": "BEHIND MY BACK?!",
+    "translation": "خلف ظهري؟",
+    "shaped": "؟ﻱﺮﻬﻇ ﻒﻠﺧ"
+  },
+  {
+    "address": "0x1CAE08",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CAE12",
+    "original": "A FEMALE TOUCH!",
+    "translation": "لمسة نسائية!",
+    "shaped": "!ﺔﻴﺋﺎﺴﻧ ﺔﺴﻤﻟ"
+  },
+  {
+    "address": "0x1CAE24",
+    "original": "OHH, YES!!",
+    "translation": "أوه أجل!",
+    "shaped": "!ﻞﺟﺃ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1CAE30",
+    "original": "HEY, I'M",
+    "translation": "مهلاً أنا",
+    "shaped": "ﺎﻧﺃ ﻼﻬﻣ"
+  },
+  {
+    "address": "0x1CAE39",
+    "original": "TENDER!",
+    "translation": "رقيق!",
+    "shaped": "!ﻖﻴﻗﺭ"
+  },
+  {
+    "address": "0x1CAE42",
+    "original": "DON'T TOUCH ME!",
+    "translation": "لا تلمسني!",
+    "shaped": "!ﻲﻨﺴﻤﻠﺗ ﻻ"
+  },
+  {
+    "address": "0x1CAE54",
+    "original": "STOP IT, SISTER!",
+    "translation": "توقفي يا أختي!",
+    "shaped": "!ﻲﺘﺧﺃ ﺎﻳ ﻲﻔﻗﻮﺗ"
+  },
+  {
+    "address": "0x1CAE66",
+    "original": "HEY?!?",
+    "translation": "مهلاً؟",
+    "shaped": "؟ﻼﻬﻣ"
+  },
+  {
+    "address": "0x1CAE6E",
+    "original": "EEEKS -- A MOUSE!!!",
+    "translation": "إيييك! فأر مقرف!",
+    "shaped": "!ﻑﺮﻘﻣ ﺭﺄﻓ !ﻚﻴﻴﻳﺇ"
+  },
+  {
+    "address": "0x1CAE84",
+    "original": "NOT TOO CLOSE,",
+    "translation": "ليس قريبا جدا",
+    "shaped": "ﺍﺪﺟ ﺎﺒﻳﺮﻗ ﺲﻴﻟ"
+  },
+  {
+    "address": "0x1CAE93",
+    "original": "BUDDY BOY!!",
+    "translation": "يا صديقي الولد!",
+    "shaped": "!ﺪﻟﻮﻟﺍ ﻲﻘﻳﺪﺻ ﺎﻳ"
+  },
+  {
+    "address": "0x1CAEA0",
+    "original": "SWEEP ME OFF",
+    "translation": "اكنسني",
+    "shaped": "ﻲﻨﺴﻨﻛﺍ"
+  },
+  {
+    "address": "0x1CAEAD",
+    "original": "MY FEET!??",
+    "translation": "قدمي؟",
+    "shaped": "؟ﻲﻣﺪﻗ"
+  },
+  {
+    "address": "0x1CAEBA",
+    "original": "AYAAA!?!",
+    "translation": "آياااا؟",
+    "shaped": "؟ﺍﺍﺍﺎﻳﺁ"
+  },
+  {
+    "address": "0x1CAEC4",
+    "original": "WHO TOLD YOU!@?#!",
+    "translation": "من أخبرك!@؟#!",
+    "shaped": "!#؟@!ﻙﺮﺒﺧﺃ ﻦﻣ"
+  },
+  {
+    "address": "0x1CAED8",
+    "original": "AH, HOW",
+    "translation": "آه يا لها من",
+    "shaped": "ﻦﻣ ﺎﻬﻟ ﺎﻳ ﻩﺁ"
+  },
+  {
+    "address": "0x1CAEE0",
+    "original": "PREDICTABLE...",
+    "translation": "متوقع",
+    "shaped": "ﻊﻗﻮﺘﻣ"
+  },
+  {
+    "address": "0x1CAEF0",
+    "original": "OH, YOU'RE",
+    "translation": "أوه أنت",
+    "shaped": "ﺖﻧﺃ ﻩﻭﺃ"
+  },
+  {
+    "address": "0x1CAEFB",
+    "original": "SO BORING...",
+    "translation": "ممل جدا",
+    "shaped": "ﺍﺪﺟ ﻞﻤﻣ"
+  },
+  {
+    "address": "0x1CAF0A",
+    "original": "RAAGHI??",
+    "translation": "غوااااه؟!",
+    "shaped": "!؟ﻩﺍﺍﺍﺍﻮﻏ"
+  },
+  {
+    "address": "0x1CAF14",
+    "original": "FALLING THROUGH!",
+    "translation": "السقوط من خلال!",
+    "shaped": "!ﻝﻼﺧ ﻦﻣ ﻁﻮﻘﺴﻟﺍ"
+  },
+  {
+    "address": "0x1CAF26",
+    "original": "PIECA!!",
+    "translation": "بيكا!",
+    "shaped": "!ﺎﻜﻴﺑ"
+  },
+  {
+    "address": "0x1CAF30",
+    "original": "PHREAAK@#!",
+    "translation": "أيها الوحش@#!",
+    "shaped": "!#@ﺶﺣﻮﻟﺍ ﺎﻬﻳﺃ"
+  },
+  {
+    "address": "0x1CAF3C",
+    "original": "(",
+    "translation": "(",
+    "shaped": "("
+  },
+  {
+    "address": "0x1CAF44",
+    "original": "(",
+    "translation": "(",
+    "shaped": "("
+  },
+  {
+    "address": "0x1CAF4C",
+    "original": "HERE, CAN YOU",
+    "translation": "هل يمكنك",
+    "shaped": "ﻚﻨﻜﻤﻳ ﻞﻫ"
+  },
+  {
+    "address": "0x1CAF5A",
+    "original": "TAKE THE HEAT?",
+    "translation": "تحمل الحرارة؟",
+    "shaped": "؟ﺓﺭﺍﺮﺤﻟﺍ ﻞﻤﺤﺗ"
+  },
+  {
+    "address": "0x1CAF6A",
+    "original": "YOU'RE FIRED!",
+    "translation": "أنت مطرود!",
+    "shaped": "!ﺩﻭﺮﻄﻣ ﺖﻧﺃ"
+  },
+  {
+    "address": "0x1CAF7A",
+    "original": "FIRE & WATER,",
+    "translation": "النار والماء",
+    "shaped": "ﺀﺎﻤﻟﺍﻭ ﺭﺎﻨﻟﺍ"
+  },
+  {
+    "address": "0x1CAF88",
+    "original": "UNITE!",
+    "translation": "اتحدوا!",
+    "shaped": "!ﺍﻭﺪﺤﺗﺍ"
+  },
+  {
+    "address": "0x1CAF90",
+    "original": "DON'T BE SMART",
+    "translation": "لا تكن ذكيا",
+    "shaped": "ﺎﻴﻛﺫ ﻦﻜﺗ ﻻ"
+  },
+  {
+    "address": "0x1CAF9F",
+    "original": "WITH ME!!!",
+    "translation": "معي الآن!",
+    "shaped": "!ﻥﻵﺍ ﻲﻌﻣ"
+  },
+  {
+    "address": "0x1CAFAC",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CAFB6",
+    "original": "HOW ARE YOUR",
+    "translation": "كيف هي",
+    "shaped": "ﻲﻫ ﻒﻴﻛ"
+  },
+  {
+    "address": "0x1CAFC3",
+    "original": "REFLEXES?",
+    "translation": "سرعة بديهة؟",
+    "shaped": "؟ﺔﻬﻳﺪﺑ ﺔﻋﺮﺳ"
+  },
+  {
+    "address": "0x1CAFCE",
+    "original": "KEEP YOUR",
+    "translation": "حافظ على",
+    "shaped": "ﻰﻠﻋ ﻆﻓﺎﺣ"
+  },
+  {
+    "address": "0x1CAFD8",
+    "original": "DISTANCE!",
+    "translation": "مسافتك!",
+    "shaped": "!ﻚﺘﻓﺎﺴﻣ"
+  },
+  {
+    "address": "0x1CAFE4",
+    "original": "YOUR KUNG-FU",
+    "translation": "كنغ-فوك",
+    "shaped": "ﻙﻮﻓ-ﻎﻨﻛ"
+  },
+  {
+    "address": "0x1CAFF1",
+    "original": "IS GOOD...",
+    "translation": "هذا جيد",
+    "shaped": "ﺪﻴﺟ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CAFFE",
+    "original": "I'M EVERYWHERE...",
+    "translation": "أنا في كل مكان",
+    "shaped": "ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CB012",
+    "original": "THANKS FOR THE",
+    "translation": "شكرا على",
+    "shaped": "ﻰﻠﻋ ﺍﺮﻜﺷ"
+  },
+  {
+    "address": "0x1CB021",
+    "original": "LESSON, PAL!",
+    "translation": "الدرس يا صديقي!",
+    "shaped": "!ﻲﻘﻳﺪﺻ ﺎﻳ ﺱﺭﺪﻟﺍ"
+  },
+  {
+    "address": "0x1CB030",
+    "original": "SORRY TO",
+    "translation": "يؤسفني",
+    "shaped": "ﻲﻨﻔﺳﺆﻳ"
+  },
+  {
+    "address": "0x1CB039",
+    "original": "SEE YOU",
+    "translation": "أن أراك",
+    "shaped": "ﻙﺍﺭﺃ ﻥﺃ"
+  },
+  {
+    "address": "0x1CB041",
+    "original": "DROP OUT!",
+    "translation": "تستسلم!",
+    "shaped": "!ﻢﻠﺴﺘﺴﺗ"
+  },
+  {
+    "address": "0x1CB04C",
+    "original": "HEH, SAVE YOUR",
+    "translation": "هيه ادخر",
+    "shaped": "ﺮﺧﺩﺍ ﻪﻴﻫ"
+  },
+  {
+    "address": "0x1CB05B",
+    "original": "FANCY MOVES...",
+    "translation": "حركاتك المتصنعة",
+    "shaped": "ﺔﻌﻨﺼﺘﻤﻟﺍ ﻚﺗﺎﻛﺮﺣ"
+  },
+  {
+    "address": "0x1CB06C",
+    "original": "YOU NAILED ME!!",
+    "translation": "أصبتني!",
+    "shaped": "!ﻲﻨﺘﺒﺻﺃ"
+  },
+  {
+    "address": "0x1CB07E",
+    "original": "GET THIS RAT",
+    "translation": "احصل على هذا الفأر",
+    "shaped": "ﺭﺄﻔﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻞﺼﺣﺍ"
+  },
+  {
+    "address": "0x1CB08B",
+    "original": "OFF MY BACK!",
+    "translation": "من على ظهري!",
+    "shaped": "!ﻱﺮﻬﻇ ﻰﻠﻋ ﻦﻣ"
+  },
+  {
+    "address": "0x1CB09A",
+    "original": "YOUR TIME IS",
+    "translation": "وقتك",
+    "shaped": "ﻚﺘﻗﻭ"
+  },
+  {
+    "address": "0x1CB0A7",
+    "original": "RUNNING OUT!",
+    "translation": "ينفد!",
+    "shaped": "!ﺪﻔﻨﻳ"
+  },
+  {
+    "address": "0x1CB0B6",
+    "original": "COME ON!",
+    "translation": "هيا بنا!",
+    "shaped": "!ﺎﻨﺑ ﺎﻴﻫ"
+  },
+  {
+    "address": "0x1CB0C0",
+    "original": "COME AND GET ME!",
+    "translation": "تعال وخذني!",
+    "shaped": "!ﻲﻧﺬﺧﻭ ﻝﺎﻌﺗ"
+  },
+  {
+    "address": "0x1CB0D2",
+    "original": "DON'T PLAY GAMES",
+    "translation": "لا تلعب ألعابا",
+    "shaped": "ﺎﺑﺎﻌﻟﺃ ﺐﻌﻠﺗ ﻻ"
+  },
+  {
+    "address": "0x1CB0E3",
+    "original": "WITH ME!",
+    "translation": "معي!",
+    "shaped": "!ﻲﻌﻣ"
+  },
+  {
+    "address": "0x1CB0EE",
+    "original": "GONNA LET",
+    "translation": "هل ستدعها",
+    "shaped": "ﺎﻬﻋﺪﺘﺳ ﻞﻫ"
+  },
+  {
+    "address": "0x1CB0F8",
+    "original": "HER DROWN?",
+    "translation": "تغرق؟",
+    "shaped": "؟ﻕﺮﻐﺗ"
+  },
+  {
+    "address": "0x1CB104",
+    "original": "ARGH...NOOOO!",
+    "translation": "تباً... لاااا!",
+    "shaped": "!ﺍﺍﺍﻻ ...ﺎﺒﺗ"
+  },
+  {
+    "address": "0x1CB114",
+    "original": "I FEEL SORRY",
+    "translation": "أشعر بالأسف",
+    "shaped": "ﻒﺳﻷﺎﺑ ﺮﻌﺷﺃ"
+  },
+  {
+    "address": "0x1CB121",
+    "original": "FOR YOU...",
+    "translation": "من أجلك",
+    "shaped": "ﻚﻠﺟﺃ ﻦﻣ"
+  },
+  {
+    "address": "0x1CB12E",
+    "original": "OUCH!!",
+    "translation": "آووتش!",
+    "shaped": "!ﺶﺗﻭﻭﺁ"
+  },
+  {
+    "address": "0x1CB136",
+    "original": "OH, HERE YOU ARE!",
+    "translation": "ها أنت ذا!",
+    "shaped": "!ﺍﺫ ﺖﻧﺃ ﺎﻫ"
+  },
+  {
+    "address": "0x1CB14A",
+    "original": "WHAT THE ?@!#?",
+    "translation": "ما هذا بحق السماء؟",
+    "shaped": "؟ﺀﺎﻤﺴﻟﺍ ﻖﺤﺑ ﺍﺬﻫ ﺎﻣ"
+  },
+  {
+    "address": "0x1CB15A",
+    "original": "YOU MUST BE THE",
+    "translation": "لابد أنك أنت",
+    "shaped": "ﺖﻧﺃ ﻚﻧﺃ ﺪﺑﻻ"
+  },
+  {
+    "address": "0x1CB16A",
+    "original": "CHOSEN ONE...",
+    "translation": "المختار",
+    "shaped": "ﺭﺎﺘﺨﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CB17A",
+    "original": "WHO?? HEY, DO",
+    "translation": "من؟ مهلاً هل",
+    "shaped": "ﻞﻫ ﻼﻬﻣ ؟ﻦﻣ"
+  },
+  {
+    "address": "0x1CB188",
+    "original": "I KNOW YOU?",
+    "translation": "أعرفكِ؟",
+    "shaped": "؟ﻚﻓﺮﻋﺃ"
+  },
+  {
+    "address": "0x1CB196",
+    "original": "I HAVE BEEN",
+    "translation": "كنت",
+    "shaped": "ﺖﻨﻛ"
+  },
+  {
+    "address": "0x1CB1A2",
+    "original": "EXPECTING YOU.",
+    "translation": "بانتظارك",
+    "shaped": "ﻙﺭﺎﻈﺘﻧﺎﺑ"
+  },
+  {
+    "address": "0x1CB1B2",
+    "original": "I'M GENERAL ALISSA",
+    "translation": "أنا الجنرال أليسا",
+    "shaped": "ﺎﺴﻴﻟﺃ ﻝﺍﺮﻨﺠﻟﺍ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CB1C5",
+    "original": "CYAN. YOUR NAME?",
+    "translation": "سايان. ما اسمك؟",
+    "shaped": "؟ﻚﻤﺳﺍ ﺎﻣ .ﻥﺎﻳﺎﺳ"
+  },
+  {
+    "address": "0x1CB1D8",
+    "original": "SKETCH TURNER...",
+    "translation": "سكتش تيرنر",
+    "shaped": "ﺮﻧﺮﻴﺗ ﺶﺘﻜﺳ"
+  },
+  {
+    "address": "0x1CB1E9",
+    "original": "WAIT A MINUTE!",
+    "translation": "لحظة واحدة!",
+    "shaped": "!ﺓﺪﺣﺍﻭ ﺔﻈﺤﻟ"
+  },
+  {
+    "address": "0x1CB1FA",
+    "original": "SKETCH?!?",
+    "translation": "سكتش؟",
+    "shaped": "؟ﺶﺘﻜﺳ"
+  },
+  {
+    "address": "0x1CB206",
+    "original": "WELL, SKETCH, THIS",
+    "translation": "حسناً يا سكتش هذه",
+    "shaped": "ﻩﺬﻫ ﺶﺘﻜﺳ ﺎﻳ ﺎﻨﺴﺣ"
+  },
+  {
+    "address": "0x1CB219",
+    "original": "MISSION IS CRITICAL.",
+    "translation": "مهمة مصيرية",
+    "shaped": "ﺔﻳﺮﻴﺼﻣ ﺔﻤﻬﻣ"
+  },
+  {
+    "address": "0x1CB230",
+    "original": "I'M IN MY OWN",
+    "translation": "أنا داخل قصتي",
+    "shaped": "ﻲﺘﺼﻗ ﻞﺧﺍﺩ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CB23E",
+    "original": "COMIC BOOK",
+    "translation": "المصورة",
+    "shaped": "ﺓﺭﻮﺼﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CB249",
+    "original": "-- NOOOO!!!",
+    "translation": "لاااااا!",
+    "shaped": "!ﺍﺍﺍﺍﺍﻻ"
+  },
+  {
+    "address": "0x1CB256",
+    "original": "I BEG YOUR PARDON?",
+    "translation": "عفواً ماذا قلت؟",
+    "shaped": "؟ﺖﻠﻗ ﺍﺫﺎﻣ ﺍﻮﻔﻋ"
+  },
+  {
+    "address": "0x1CB26A",
+    "original": "ALISSA, I'M NOT",
+    "translation": "أليسا لست",
+    "shaped": "ﺖﺴﻟ ﺎﺴﻴﻟﺃ"
+  },
+  {
+    "address": "0x1CB27A",
+    "original": "YOUR SUPER-HERO!",
+    "translation": "بطلكِ الخارق!",
+    "shaped": "!ﻕﺭﺎﺨﻟﺍ ﻚﻠﻄﺑ"
+  },
+  {
+    "address": "0x1CB28C",
+    "original": "JUST RELAX! LET'S NOT",
+    "translation": "اهدأ! لا وقت",
+    "shaped": "ﺖﻗﻭ ﻻ !ﺃﺪﻫﺍ"
+  },
+  {
+    "address": "0x1CB2A2",
+    "original": "WASTE ANY TIME...",
+    "translation": "لنضيعه",
+    "shaped": "ﻪﻌﻴﻀﻨﻟ"
+  },
+  {
+    "address": "0x1CB2B6",
+    "original": "YOU HAVE A",
+    "translation": "أمامك",
+    "shaped": "ﻚﻣﺎﻣﺃ"
+  },
+  {
+    "address": "0x1CB2C1",
+    "original": "JOB TO DO.",
+    "translation": "مهمة لتنجزها",
+    "shaped": "ﺎﻫﺰﺠﻨﺘﻟ ﺔﻤﻬﻣ"
+  },
+  {
+    "address": "0x1CB2CE",
+    "original": "A JOB? WHAT ARE YOU",
+    "translation": "مهمة؟ عن ماذا",
+    "shaped": "ﺍﺫﺎﻣ ﻦﻋ ؟ﺔﻤﻬﻣ"
+  },
+  {
+    "address": "0x1CB2E2",
+    "original": "TALKING ABOUT??",
+    "translation": "تتحدثين؟",
+    "shaped": "؟ﻦﻴﺛﺪﺤﺘﺗ"
+  },
+  {
+    "address": "0x1CB2F4",
+    "original": "THAT'S ALL FOR NOW",
+    "translation": "هذا كل شيء الآن",
+    "shaped": "ﻥﻵﺍ ﺀﻲﺷ ﻞﻛ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CB307",
+    "original": "-- I'LL BE IN TOUCH.",
+    "translation": "سأبقى على اتصال",
+    "shaped": "ﻝﺎﺼﺗﺍ ﻰﻠﻋ ﻰﻘﺑﺄﺳ"
+  },
+  {
+    "address": "0x1CB31E",
+    "original": "THIS IS CRAZY!@#!!",
+    "translation": "هذا جنون!",
+    "shaped": "!ﻥﻮﻨﺟ ﺍﺬﻫ"
+  },
+  {
+    "address": "0x1CB332",
+    "original": "YOU MAY NEED SOME",
+    "translation": "قد تحتاج بعض",
+    "shaped": "ﺾﻌﺑ ﺝﺎﺘﺤﺗ ﺪﻗ"
+  },
+  {
+    "address": "0x1CB344",
+    "original": "OF THESE ITEMS...",
+    "translation": "هذه الأدوات",
+    "shaped": "ﺕﺍﻭﺩﻷﺍ ﻩﺬﻫ"
+  },
+  {
+    "address": "0x1CB358",
+    "original": "GOOD LUCK!",
+    "translation": "حظاً موفقاً!",
+    "shaped": "!ﺎﻘﻓﻮﻣ ﺎﻈﺣ"
+  },
+  {
+    "address": "0x1CB364",
+    "original": "YEAH, RIGHT...",
+    "translation": "أجل حسناً",
+    "shaped": "ﺎﻨﺴﺣ ﻞﺟﺃ"
+  },
+  {
+    "address": "0x1CB374",
+    "original": "JUST MOVE IT,",
+    "translation": "تحرك بسرعة",
+    "shaped": "ﺔﻋﺮﺴﺑ ﻙﺮﺤﺗ"
+  },
+  {
+    "address": "0x1CB382",
+    "original": "TURNER!!",
+    "translation": "يا تيرنر!",
+    "shaped": "!ﺮﻧﺮﻴﺗ ﺎﻳ"
+  },
+  {
+    "address": "0x1CB38C",
+    "original": "I'M TOO WEAK,",
+    "translation": "أنا ضعيف جداً",
+    "shaped": "ﺍﺪﺟ ﻒﻴﻌﺿ ﺎﻧﺃ"
+  },
+  {
+    "address": "0x1CB39A",
+    "original": "MAN...",
+    "translation": "يا رجل",
+    "shaped": "ﻞﺟﺭ ﺎﻳ"
+  },
+  {
+    "address": "0x1CB3A2",
+    "original": "WORK IN",
+    "translation": "قيد",
+    "shaped": "ﺪﻴﻗ"
+  },
+  {
+    "address": "0x1CB3AA",
+    "original": "PROGRESS",
+    "translation": "التقدم",
+    "shaped": "ﻡﺪﻘﺘﻟﺍ"
+  },
+  {
+    "address": "0x1CB3B3",
+    "original": "5 JUN 1995",
+    "translation": "5 يونيو 1995",
+    "shaped": "1995 ﻮﻴﻧﻮﻳ 5"
+  },
+  {
+    "address": "0x1CB3C0",
+    "original": "SEGA!",
+    "translation": "سيجا!",
+    "shaped": "!ﺎﺠﻴﺳ"
+  },
+  {
+    "address": "0x1CB3C8",
+    "original": "SUPER",
+    "translation": "طاقة",
+    "shaped": "ﺔﻗﺎﻃ"
+  },
+  {
+    "address": "0x1CB3CE",
+    "original": "HERO",
+    "translation": "البطل",
+    "shaped": "ﻞﻄﺒﻟﺍ"
+  },
+  {
+    "address": "0x1CB3D3",
+    "original": "METER",
+    "translation": "الخارق",
+    "shaped": "ﻕﺭﺎﺨﻟﺍ"
+  },
+  {
+    "address": "0x1CB3DA",
+    "original": "PROGRESS",
+    "translation": "التطوير",
+    "shaped": "ﺮﻳﻮﻄﺘﻟﺍ"
+  },
+  {
+    "address": "0x1CB3E4",
+    "original": "SCORE",
+    "translation": "النتيجة",
+    "shaped": "ﺔﺠﻴﺘﻨﻟﺍ"
+  },
+  {
+    "address": "0x1CB3EC",
+    "original": "COMBOS X 100",
+    "translation": "مجموعات × 100",
+    "shaped": "100 × ﺕﺎﻋﻮﻤﺠﻣ"
+  },
+  {
+    "address": "0x1CB3FA",
+    "original": "TOTAL",
+    "translation": "المجموع",
+    "shaped": "ﻉﻮﻤﺠﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CB402",
+    "original": "FINISHES X 100",
+    "translation": "النهايات × 100",
+    "shaped": "100 × ﺕﺎﻳﺎﻬﻨﻟﺍ"
+  },
+  {
+    "address": "0x1CB412",
+    "original": "\"NIGHT OF THE",
+    "translation": "\"ليلة",
+    "shaped": "ﺔﻠﻴﻟ\""
+  },
+  {
+    "address": "0x1CB420",
+    "original": "MUTANTS\"",
+    "translation": "المتحولين\"",
+    "shaped": "\"ﻦﻴﻟﻮﺤﺘﻤﻟﺍ"
+  },
+  {
+    "address": "0x1CB42A",
+    "original": "\"WELCOME TO",
+    "translation": "\"مرحباً بك",
+    "shaped": "ﻚﺑ ﺎﺒﺣﺮﻣ\""
+  },
+  {
+    "address": "0x1CB436",
+    "original": "THE TEMPLE\"",
+    "translation": "في المعبد\"",
+    "shaped": "\"ﺪﺒﻌﻤﻟﺍ ﻲﻓ"
+  },
+  {
+    "address": "0x1CB444",
+    "original": "\"CURSE OF THE",
+    "translation": "\"لعنة",
+    "shaped": "ﺔﻨﻌﻟ\""
+  },
+  {
+    "address": "0x1CB452",
+    "original": "DEAD SHIPS\"",
+    "translation": "سفن الموتى\"",
+    "shaped": "\"ﻰﺗﻮﻤﻟﺍ ﻦﻔﺳ"
+  }
+]

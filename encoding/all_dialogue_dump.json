@@ -1,0 +1,6887 @@
+[
+  {
+    "msg_addr": "0x1C831C",
+    "lines": [
+      {
+        "addr": "0x1C831C",
+        "orig": "WATCH OUT",
+        "curr": "انتبه"
+      },
+      {
+        "addr": "0x1C8326",
+        "orig": "SKETCH!",
+        "curr": "سكيتش!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8330",
+    "lines": [
+      {
+        "addr": "0x1C8330",
+        "orig": "LET'S GET",
+        "curr": "لندع"
+      },
+      {
+        "addr": "0x1C833A",
+        "orig": "GOING...",
+        "curr": "البداية..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8344",
+    "lines": [
+      {
+        "addr": "0x1C8344",
+        "orig": "WHAT ARE YOU",
+        "curr": "ماذا أنت"
+      },
+      {
+        "addr": "0x1C8351",
+        "orig": "WAITING FOR?",
+        "curr": "في انتظاره؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8360",
+    "lines": [
+      {
+        "addr": "0x1C8360",
+        "orig": "WHAT'S THAT",
+        "curr": "ما هذا"
+      },
+      {
+        "addr": "0x1C836C",
+        "orig": "NOISE?",
+        "curr": "ضجيج؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8374",
+    "lines": [
+      {
+        "addr": "0x1C8374",
+        "orig": "GET ME OUT",
+        "curr": "أخرجني"
+      },
+      {
+        "addr": "0x1C837F",
+        "orig": "OF HERE!",
+        "curr": "من هنا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C838A",
+    "lines": [
+      {
+        "addr": "0x1C838A",
+        "orig": "OH YEAH!",
+        "curr": "أوه نعم!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8394",
+    "lines": [
+      {
+        "addr": "0x1C8394",
+        "orig": "GAME OVER, MAN,",
+        "curr": "انتهت اللعبة، يا رجل،"
+      },
+      {
+        "addr": "0x1C83A4",
+        "orig": "THE END",
+        "curr": "النهاية"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C83AE",
+    "lines": [
+      {
+        "addr": "0x1C83AE",
+        "orig": "IS THIS THE END",
+        "curr": "أهذه هي النهاية"
+      },
+      {
+        "addr": "0x1C83BE",
+        "orig": "OF THE STORY?",
+        "curr": "من القصة؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C83CD",
+    "lines": [
+      {
+        "addr": "0x1C83CD",
+        "orig": "NEW YORK CITY, PRESENT DAY",
+        "curr": "مدينة نيويورك، يومنا هذا"
+      },
+      {
+        "addr": "0x1C83E8",
+        "orig": "LOOK AT ME, SKETCH -- I'M JUST A DRAWING!",
+        "curr": "انظر إليّ يا سكيتش -- أنا مجرد رسمة!"
+      },
+      {
+        "addr": "0x1C8412",
+        "orig": "BUT I'LL BE FREE SOON ENOUGH...",
+        "curr": "لكنني سأكون حراً قريباً بما فيه الكفاية..."
+      },
+      {
+        "addr": "0x1C8432",
+        "orig": "...AS SOON AS YOU'RE DEAD!!!",
+        "curr": "...بمجرد أن تموت!!!"
+      },
+      {
+        "addr": "0x1C844F",
+        "orig": "I CANNOT KILL YOU HERE, BUT...",
+        "curr": "لا أستطيع قتلك هنا، لكن..."
+      },
+      {
+        "addr": "0x1C846E",
+        "orig": "...I KNOW OF A PERFECT PLACE TO DO IT!",
+        "curr": "...أعرف مكاناً مثالياً للقيام بذلك!"
+      },
+      {
+        "addr": "0x1C8495",
+        "orig": "HAVE A NICE TRIP!!!",
+        "curr": "استمتع برحلة سعيدة!!!"
+      },
+      {
+        "addr": "0x1C84A9",
+        "orig": "NOT SO QUICK, YOU BRAT!",
+        "curr": "ليس بهذه السرعة، يا مشاغب!"
+      },
+      {
+        "addr": "0x1C84C1",
+        "orig": "THE GAME'S NOT OVER YET...",
+        "curr": "اللعبة لم تنتهِ بعد..."
+      },
+      {
+        "addr": "0x1C84DC",
+        "orig": "OH, COME ON -- THAT WAS JUST TOO EASY!",
+        "curr": "أوه، هيا -- كان ذلك سهلاً جداً!"
+      },
+      {
+        "addr": "0x1C8503",
+        "orig": "I WAS HOPING FOR A CHALLENGE!",
+        "curr": "كنت أتمنى تحدياً!"
+      },
+      {
+        "addr": "0x1C8521",
+        "orig": "LET'S PLAY SOME MORE, EH?!?",
+        "curr": "لِنلعب المزيد، إيه؟!"
+      },
+      {
+        "addr": "0x1C853D",
+        "orig": "AH, FREE AT LAST!",
+        "curr": "آه، الحرية أخيراً!"
+      },
+      {
+        "addr": "0x1C854F",
+        "orig": "IN THIS BODY OF FLESH AND BONE...",
+        "curr": "في هذا الجسد من لحم وعظم..."
+      },
+      {
+        "addr": "0x1C8571",
+        "orig": "...I'M GOING TO ROCK THIS WORLD!",
+        "curr": "...سأهز هذا العالم!"
+      },
+      {
+        "addr": "0x1C8592",
+        "orig": "NICE KNOWING YOU, SKETCH TURNER!",
+        "curr": "سعدت بمعرفتك، يا سكيتش تورنر!"
+      },
+      {
+        "addr": "0x1C85B3",
+        "orig": "SKETCH SUCCEEDED, MORTUS IS DEAD...",
+        "curr": "نجح سكيتش، ومات مورتوس..."
+      },
+      {
+        "addr": "0x1C85D7",
+        "orig": "...BUT SO IS ALISSA.",
+        "curr": "...لكن أليسا كذلك."
+      },
+      {
+        "addr": "0x1C85EC",
+        "orig": "HIS COMIC BOOK DESTROYED,",
+        "curr": "دُمِّرَ كِتَابُهُ الْهَزْلِيُّ،"
+      },
+      {
+        "addr": "0x1C8606",
+        "orig": "THIS IS HARDLY AN OUTCOME WORTH CELEBRATING.",
+        "curr": "هذا بالكاد نتيجة تستحق الاحتفال."
+      },
+      {
+        "addr": "0x1C8633",
+        "orig": "WILL SKETCH UNLEASH THE EVIL ONCE AGAIN...",
+        "curr": "هل سيطلق سكيتش الشر مرة أخرى..."
+      },
+      {
+        "addr": "0x1C865E",
+        "orig": "...TO RE-LIVE HIS ADVENTURE...",
+        "curr": "...لِيَعِيشَ مَغَامَرَتَهُ مَرَّةً أُخْرَى..."
+      },
+      {
+        "addr": "0x1C867D",
+        "orig": "...IN THE HOPE OF A BETTER ENDING?",
+        "curr": "...بِالأَمَلِ فِي نِهَايَةٍ أَفْضَلْ؟"
+      },
+      {
+        "addr": "0x1C86A0",
+        "orig": "HAPPY SKETCHING!",
+        "curr": "رَسْماً سَعِيداً!"
+      },
+      {
+        "addr": "0x1C86B1",
+        "orig": "SKETCH SUCCEEDED...",
+        "curr": "نَجَحَ سْكِيتْشُ..."
+      },
+      {
+        "addr": "0x1C86C5",
+        "orig": "...AND ALISSA, HIS HEROINE,",
+        "curr": "وَأَلِيسَا، بَطَلَتُهُ،"
+      },
+      {
+        "addr": "0x1C86E1",
+        "orig": "...DECIDED TO JOIN HIM IN OUR WORLD.",
+        "curr": "قَرَّرَتِ الْاِنْضِمَامَ إِلَيْهِ فِي عَالَمِنَا."
+      },
+      {
+        "addr": "0x1C8706",
+        "orig": "FOR SKETCH, ALISSA, AND R'KILL...",
+        "curr": "مِنْ أَجْلِ سْكِيتْشِ، وَأَلِيسَا، وَرْكِلْ..."
+      },
+      {
+        "addr": "0x1C8728",
+        "orig": "...IT WAS A NEW BEGINNING.",
+        "curr": "كَانَ بِدَايَةً جَدِيدَةً."
+      },
+      {
+        "addr": "0x1C8743",
+        "orig": "AND, WHAT A BEGINNING IT WAS...",
+        "curr": "وَمَاذَا كَانَتْ بِدَايَةً رَائِعَةً..."
+      },
+      {
+        "addr": "0x1C8763",
+        "orig": "  ",
+        "curr": "  "
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C876C",
+    "lines": [
+      {
+        "addr": "0x1C876C",
+        "orig": "!@#!?!!",
+        "curr": "!@#!?!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8776",
+    "lines": [
+      {
+        "addr": "0x1C8776",
+        "orig": "THANKS A LOT!!",
+        "curr": "شُكْراً جَزِيلاً!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8786",
+    "lines": [
+      {
+        "addr": "0x1C8786",
+        "orig": "I SHOULD'VE KNOWN!",
+        "curr": "كُنْتُ أَعْلَمُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C879A",
+    "lines": [
+      {
+        "addr": "0x1C879A",
+        "orig": "WELL DONE",
+        "curr": "أَحْسَنْتَ"
+      },
+      {
+        "addr": "0x1C87A4",
+        "orig": "TURNER!",
+        "curr": "تَرْنَرْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C87AE",
+    "lines": [
+      {
+        "addr": "0x1C87AE",
+        "orig": "MEANWHILE ...",
+        "curr": "وَبَيْنَمَا..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C87BE",
+    "lines": [
+      {
+        "addr": "0x1C87BE",
+        "orig": "SUDDENLY!",
+        "curr": "فَجْأَةً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C87CA",
+    "lines": [
+      {
+        "addr": "0x1C87CA",
+        "orig": "LATER ...",
+        "curr": "لاَحِقاً..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C87D6",
+    "lines": [
+      {
+        "addr": "0x1C87D6",
+        "orig": "KEEP GOING!",
+        "curr": "وَاصِلْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C87E4",
+    "lines": [
+      {
+        "addr": "0x1C87E4",
+        "orig": "N.W.E. COMMAND CENTER",
+        "curr": "مِرْكَزُ قِيَادَةِ N.W.E."
+      },
+      {
+        "addr": "0x1C87FA",
+        "orig": "NEWER YORK CITY",
+        "curr": "نِيُو يُوركَ سِيتِي"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C880C",
+    "lines": [
+      {
+        "addr": "0x1C880C",
+        "orig": "DECEASED DISTRICT",
+        "curr": "الْمِنْطَقَةُ الْمَيِّتَة"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8820",
+    "lines": [
+      {
+        "addr": "0x1C8820",
+        "orig": "WELL, LET'S SEE",
+        "curr": "جَيِّدٌ، لِنَرَ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8832",
+    "lines": [
+      {
+        "addr": "0x1C8832",
+        "orig": "\"THEY\" HAVE A",
+        "curr": "\"هُمْ\" يَمْلِكُونَ"
+      },
+      {
+        "addr": "0x1C8840",
+        "orig": "HIDEOUT RIGHT",
+        "curr": "مَأْوًى صَحِيحٌ"
+      },
+      {
+        "addr": "0x1C884E",
+        "orig": "HERE IN THE CITY",
+        "curr": "هُنَا فِي الْمَدِينَةِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8860",
+    "lines": [
+      {
+        "addr": "0x1C8860",
+        "orig": "FIND IT!",
+        "curr": "اِجِدْهُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C886A",
+    "lines": [
+      {
+        "addr": "0x1C886A",
+        "orig": "WHO ARE YOU?",
+        "curr": "مَنْ أَنْتَ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8878",
+    "lines": [
+      {
+        "addr": "0x1C8878",
+        "orig": "YOUR MAKER,",
+        "curr": "خَالِقُكَ،"
+      },
+      {
+        "addr": "0x1C8884",
+        "orig": "GRAVIS...",
+        "curr": "غْرَافِيسْ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8890",
+    "lines": [
+      {
+        "addr": "0x1C8890",
+        "orig": "THIS IS",
+        "curr": "هَذَا هُوَ"
+      },
+      {
+        "addr": "0x1C8898",
+        "orig": "\"OUR\" TURF!",
+        "curr": "\"أَرْضُنَا\"!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C88A6",
+    "lines": [
+      {
+        "addr": "0x1C88A6",
+        "orig": "JUST TAKE IT EASY",
+        "curr": "خُذْهَا بِسُهُولَةٍ"
+      },
+      {
+        "addr": "0x1C88B8",
+        "orig": "BIG BOY!",
+        "curr": "وَلَدٌ كَبِيرٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C88C2",
+    "lines": [
+      {
+        "addr": "0x1C88C2",
+        "orig": "MAN, THIS IS",
+        "curr": "رَجُلٌ، هَذَا هُوَ"
+      },
+      {
+        "addr": "0x1C88CF",
+        "orig": "FOR REAL!!!",
+        "curr": "بِالْحَقِيقَةِ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C88DC",
+    "lines": [
+      {
+        "addr": "0x1C88DC",
+        "orig": "...AND IT'S ONLY",
+        "curr": "...وَهُوَ فَقَطْ"
+      },
+      {
+        "addr": "0x1C88ED",
+        "orig": "THE BEGINNING!",
+        "curr": "الْبِدَايَةُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C88FE",
+    "lines": [
+      {
+        "addr": "0x1C88FE",
+        "orig": "WOW, I'M PRETTY",
+        "curr": "وَاوْ، أَنَا جَمِيلٌ جِدّاً"
+      },
+      {
+        "addr": "0x1C890E",
+        "orig": "GOOD AT THIS!",
+        "curr": "جَيِّدٌ فِي هَذَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C891E",
+    "lines": [
+      {
+        "addr": "0x1C891E",
+        "orig": "STOP RIGHT THERE!!!",
+        "curr": "تَوَقَّفْ هُنَاكَ فَوْراً!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8934",
+    "lines": [
+      {
+        "addr": "0x1C8934",
+        "orig": "WHY SHOULD I?",
+        "curr": "لِمَاذَا أَنَا؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8944",
+    "lines": [
+      {
+        "addr": "0x1C8944",
+        "orig": "THERE'S NOTHING",
+        "curr": "لَيْسَ هُنَاكَ شَيْءٌ"
+      },
+      {
+        "addr": "0x1C8954",
+        "orig": "HERE!",
+        "curr": "هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C895C",
+    "lines": [
+      {
+        "addr": "0x1C895C",
+        "orig": "OH, I THINK",
+        "curr": "أَوْهُ، أَظُنُّ"
+      },
+      {
+        "addr": "0x1C8968",
+        "orig": "THERE IS...",
+        "curr": "هُنَاكَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8976",
+    "lines": [
+      {
+        "addr": "0x1C8976",
+        "orig": "NICE TRY,",
+        "curr": "[UNTRANSLATED: NICE TRY,]"
+      },
+      {
+        "addr": "0x1C8980",
+        "orig": "BOZO!",
+        "curr": "[UNTRANSLATED: BOZO!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8988",
+    "lines": [
+      {
+        "addr": "0x1C8988",
+        "orig": "THERE'S A SECRET",
+        "curr": "هُنَاكَ سِرٌّ"
+      },
+      {
+        "addr": "0x1C8999",
+        "orig": "ENTRANCE HERE...",
+        "curr": "مَدْخَلٌ هُنَا..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C89AC",
+    "lines": [
+      {
+        "addr": "0x1C89AC",
+        "orig": "HOW ABOUT",
+        "curr": "[UNTRANSLATED: HOW ABOUT]"
+      },
+      {
+        "addr": "0x1C89B6",
+        "orig": "THAT MANHOLE!?!",
+        "curr": "ذَلِكَ الْمَنْهُولُ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C89C8",
+    "lines": [
+      {
+        "addr": "0x1C89C8",
+        "orig": "ROADKILL,",
+        "curr": "[UNTRANSLATED: ROADKILL,]"
+      },
+      {
+        "addr": "0x1C89D2",
+        "orig": "BUDDY!!!",
+        "curr": "[UNTRANSLATED: BUDDY!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C89DC",
+    "lines": [
+      {
+        "addr": "0x1C89DC",
+        "orig": "HOLD ON, I'LL",
+        "curr": "انتَظِرْ، سَأَ"
+      },
+      {
+        "addr": "0x1C89EA",
+        "orig": "GET YOU OUT!",
+        "curr": "أُخْرِجُكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C89F8",
+    "lines": [
+      {
+        "addr": "0x1C89F8",
+        "orig": "MAN, AM I HAPPY",
+        "curr": "يَا رَجُلٌ، أَنَا سَعِيدٌ"
+      },
+      {
+        "addr": "0x1C8A08",
+        "orig": "TO SEE YOU!",
+        "curr": "لِأَرَاكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A16",
+    "lines": [
+      {
+        "addr": "0x1C8A16",
+        "orig": "COME HERE",
+        "curr": "[UNTRANSLATED: COME HERE]"
+      },
+      {
+        "addr": "0x1C8A20",
+        "orig": "BRO!",
+        "curr": "[UNTRANSLATED: BRO!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A26",
+    "lines": [
+      {
+        "addr": "0x1C8A26",
+        "orig": "WHAT'S GOING",
+        "curr": "مَا الَّذِي يَحْدُثُ"
+      },
+      {
+        "addr": "0x1C8A33",
+        "orig": "ON?!??",
+        "curr": "[UNTRANSLATED: ON?!??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A3C",
+    "lines": [
+      {
+        "addr": "0x1C8A3C",
+        "orig": "WOW, INTENSE!",
+        "curr": "وَاوْ، شَدِيدٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A4C",
+    "lines": [
+      {
+        "addr": "0x1C8A4C",
+        "orig": "WHAT'VE WE",
+        "curr": "[UNTRANSLATED: WHAT'VE WE]"
+      },
+      {
+        "addr": "0x1C8A57",
+        "orig": "GOT HERE??",
+        "curr": "[UNTRANSLATED: GOT HERE??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A64",
+    "lines": [
+      {
+        "addr": "0x1C8A64",
+        "orig": "A TRAPDOOR",
+        "curr": "[UNTRANSLATED: A TRAPDOOR]"
+      },
+      {
+        "addr": "0x1C8A6F",
+        "orig": "& A SWITCH",
+        "curr": "[UNTRANSLATED: & A SWITCH]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A7C",
+    "lines": [
+      {
+        "addr": "0x1C8A7C",
+        "orig": "THAT'S A",
+        "curr": "[UNTRANSLATED: THAT'S A]"
+      },
+      {
+        "addr": "0x1C8A85",
+        "orig": "BRAINER, MAN!",
+        "curr": "ذَكِيٌّ، يَا رَجُلٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8A94",
+    "lines": [
+      {
+        "addr": "0x1C8A94",
+        "orig": "BRUTE FORCE",
+        "curr": "الْقُوَّةُ الْغَاشِمَةُ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8AA2",
+    "lines": [
+      {
+        "addr": "0x1C8AA2",
+        "orig": "THAT'S THE WAY",
+        "curr": "هَكَذَا هُوَ الْأَمْرُ"
+      },
+      {
+        "addr": "0x1C8AB1",
+        "orig": "I LIKE IT!",
+        "curr": "[UNTRANSLATED: I LIKE IT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8ABE",
+    "lines": [
+      {
+        "addr": "0x1C8ABE",
+        "orig": "GETS THE",
+        "curr": "[UNTRANSLATED: GETS THE]"
+      },
+      {
+        "addr": "0x1C8AC7",
+        "orig": "JOB DONE...",
+        "curr": "انْتَهَى الْعَمَلُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8AD4",
+    "lines": [
+      {
+        "addr": "0x1C8AD4",
+        "orig": "COOL! COST ME",
+        "curr": "رَائِعٌ! كُلَّفَنِي"
+      },
+      {
+        "addr": "0x1C8AE2",
+        "orig": "NO SWEAT!",
+        "curr": "[UNTRANSLATED: NO SWEAT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8AEE",
+    "lines": [
+      {
+        "addr": "0x1C8AEE",
+        "orig": "DRUMS, MORTUS??",
+        "curr": "طُبُولٌ، يَا مورتوسْ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B00",
+    "lines": [
+      {
+        "addr": "0x1C8B00",
+        "orig": "HOW ABOUT SOME",
+        "curr": "كَيْفَ بِبَعْضِ"
+      },
+      {
+        "addr": "0x1C8B0F",
+        "orig": "IMAGINATION!",
+        "curr": "الْخَيَالِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B1E",
+    "lines": [
+      {
+        "addr": "0x1C8B1E",
+        "orig": "WHOA! SCARED THE",
+        "curr": "وَاوْ! أَخَفْتَ"
+      },
+      {
+        "addr": "0x1C8B2F",
+        "orig": "HECK OUTTA ME!!",
+        "curr": "الْجَحِيمَ مِنِّي!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B40",
+    "lines": [
+      {
+        "addr": "0x1C8B40",
+        "orig": "AH, HELLO",
+        "curr": "[UNTRANSLATED: AH, HELLO]"
+      },
+      {
+        "addr": "0x1C8B4A",
+        "orig": "STRIGIL!",
+        "curr": "[UNTRANSLATED: STRIGIL!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B54",
+    "lines": [
+      {
+        "addr": "0x1C8B54",
+        "orig": "DIE, INTRUDER!",
+        "curr": "مُتْ، يَا مُقْتَحِمٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B64",
+    "lines": [
+      {
+        "addr": "0x1C8B64",
+        "orig": "IS THIS HOW",
+        "curr": "هَلْ هَكَذَا"
+      },
+      {
+        "addr": "0x1C8B70",
+        "orig": "YOU TREAT",
+        "curr": "[UNTRANSLATED: YOU TREAT]"
+      },
+      {
+        "addr": "0x1C8B7A",
+        "orig": "YOUR CREATOR??",
+        "curr": "خَالِقُكَ؟؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8B8A",
+    "lines": [
+      {
+        "addr": "0x1C8B8A",
+        "orig": "YOU'RE NOT OF",
+        "curr": "أَنْتَ لَسْتَ مِنْ"
+      },
+      {
+        "addr": "0x1C8B98",
+        "orig": "OUR BREED!",
+        "curr": "[UNTRANSLATED: OUR BREED!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8BA4",
+    "lines": [
+      {
+        "addr": "0x1C8BA4",
+        "orig": "DEJA VU?",
+        "curr": "[UNTRANSLATED: DEJA VU?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8BAE",
+    "lines": [
+      {
+        "addr": "0x1C8BAE",
+        "orig": "THE SWITCH IS",
+        "curr": "الْمُفْتَاحُ هُوَ"
+      },
+      {
+        "addr": "0x1C8BBC",
+        "orig": "TOO HIGH...",
+        "curr": "عَالٍ جِدّاً..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8BCA",
+    "lines": [
+      {
+        "addr": "0x1C8BCA",
+        "orig": "I DON'T LIKE",
+        "curr": "لَا أُحِبُّ"
+      },
+      {
+        "addr": "0x1C8BD7",
+        "orig": "THIS CRATE--",
+        "curr": "هَذَا الصُّنْدُوقُ--"
+      },
+      {
+        "addr": "0x1C8BE4",
+        "orig": "WATCH OUT!",
+        "curr": "[UNTRANSLATED: WATCH OUT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8BF0",
+    "lines": [
+      {
+        "addr": "0x1C8BF0",
+        "orig": "THEY SAY, CURIOSITY",
+        "curr": "يَقُولُونَ، الْفُضُولُ"
+      },
+      {
+        "addr": "0x1C8C04",
+        "orig": "KILLED THE CAT.",
+        "curr": "قَتَلَ الْقِطَّةَ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C16",
+    "lines": [
+      {
+        "addr": "0x1C8C16",
+        "orig": "JUST TAKE OUT",
+        "curr": "فَقَطْ أَخْرِجْ"
+      },
+      {
+        "addr": "0x1C8C24",
+        "orig": "THE TRAP-DOOR!",
+        "curr": "بَابَ الْمَصِيدَةِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C34",
+    "lines": [
+      {
+        "addr": "0x1C8C34",
+        "orig": "NASTY!",
+        "curr": "[UNTRANSLATED: NASTY!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C3C",
+    "lines": [
+      {
+        "addr": "0x1C8C3C",
+        "orig": "THAT'S WHY",
+        "curr": "[UNTRANSLATED: THAT'S WHY]"
+      },
+      {
+        "addr": "0x1C8C47",
+        "orig": "WE PAY YOU",
+        "curr": "[UNTRANSLATED: WE PAY YOU]"
+      },
+      {
+        "addr": "0x1C8C52",
+        "orig": "THE BIG BUCKS!",
+        "curr": "الْمَالَ الْكَثِيرَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C62",
+    "lines": [
+      {
+        "addr": "0x1C8C62",
+        "orig": "HEY, I'M",
+        "curr": "[UNTRANSLATED: HEY, I'M]"
+      },
+      {
+        "addr": "0x1C8C6B",
+        "orig": "JUST A",
+        "curr": "[UNTRANSLATED: JUST A]"
+      },
+      {
+        "addr": "0x1C8C72",
+        "orig": "STARVING",
+        "curr": "[UNTRANSLATED: STARVING]"
+      },
+      {
+        "addr": "0x1C8C7B",
+        "orig": "ARTIST!!!",
+        "curr": "[UNTRANSLATED: ARTIST!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C86",
+    "lines": [
+      {
+        "addr": "0x1C8C86",
+        "orig": "WELL, I",
+        "curr": "[UNTRANSLATED: WELL, I]"
+      },
+      {
+        "addr": "0x1C8C8E",
+        "orig": "USED TO BE...",
+        "curr": "كَانَ يَكُونُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8C9E",
+    "lines": [
+      {
+        "addr": "0x1C8C9E",
+        "orig": "WHAT'S THE",
+        "curr": "[UNTRANSLATED: WHAT'S THE]"
+      },
+      {
+        "addr": "0x1C8CA9",
+        "orig": "PASSWORD??",
+        "curr": "[UNTRANSLATED: PASSWORD??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8CB6",
+    "lines": [
+      {
+        "addr": "0x1C8CB6",
+        "orig": "I'LL GIVE",
+        "curr": "[UNTRANSLATED: I'LL GIVE]"
+      },
+      {
+        "addr": "0x1C8CC0",
+        "orig": "YOU ONE...",
+        "curr": "[UNTRANSLATED: YOU ONE...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8CCC",
+    "lines": [
+      {
+        "addr": "0x1C8CCC",
+        "orig": "WOW, SHREDDING!",
+        "curr": "وَاوْ، تَمْزِيقٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8CDE",
+    "lines": [
+      {
+        "addr": "0x1C8CDE",
+        "orig": "MAN, LOOK AT",
+        "curr": "يَا رَجُلٌ، انْظُرْ إِلَى"
+      },
+      {
+        "addr": "0x1C8CEB",
+        "orig": "THIS PLACE...",
+        "curr": "هَذَا الْمَكَانُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8CFA",
+    "lines": [
+      {
+        "addr": "0x1C8CFA",
+        "orig": "IT'S LIKE AN",
+        "curr": "هُوَ كَأَنَّهُ"
+      },
+      {
+        "addr": "0x1C8D07",
+        "orig": "UNDERGROUND CITY!",
+        "curr": "مَدِينَةٌ تَحْتَ الْأَرْضِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D1A",
+    "lines": [
+      {
+        "addr": "0x1C8D1A",
+        "orig": "LOOKS LIKE THE END",
+        "curr": "يَبْدُو كَالنَّهَايَةِ"
+      },
+      {
+        "addr": "0x1C8D2D",
+        "orig": "OF THE FIRST PAGE?",
+        "curr": "مِنَ الصَّفْحَةِ الْأُولَى؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D42",
+    "lines": [
+      {
+        "addr": "0x1C8D42",
+        "orig": "OH YEAH!!!",
+        "curr": "[UNTRANSLATED: OH YEAH!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D4E",
+    "lines": [
+      {
+        "addr": "0x1C8D4E",
+        "orig": "WHAT THE #!@?",
+        "curr": "مَا هَذَا #!@؟"
+      },
+      {
+        "addr": "0x1C8D5C",
+        "orig": "WAS THAT?",
+        "curr": "[UNTRANSLATED: WAS THAT?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D68",
+    "lines": [
+      {
+        "addr": "0x1C8D68",
+        "orig": "OH MORTUS,",
+        "curr": "[UNTRANSLATED: OH MORTUS,]"
+      },
+      {
+        "addr": "0x1C8D73",
+        "orig": "THANKS!",
+        "curr": "[UNTRANSLATED: THANKS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D7C",
+    "lines": [
+      {
+        "addr": "0x1C8D7C",
+        "orig": "I JUST LOVE",
+        "curr": "أَنَا مُجَرَّدُ أُحِبُّ"
+      },
+      {
+        "addr": "0x1C8D88",
+        "orig": "THESE DRUMS!!",
+        "curr": "هَذِهِ الطُّبُولُ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8D98",
+    "lines": [
+      {
+        "addr": "0x1C8D98",
+        "orig": "HEHE!",
+        "curr": "[UNTRANSLATED: HEHE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8DA0",
+    "lines": [
+      {
+        "addr": "0x1C8DA0",
+        "orig": "I GOT YOU NOW,",
+        "curr": "أَمْسَكْتُكَ الآنَ،"
+      },
+      {
+        "addr": "0x1C8DAF",
+        "orig": "LILL' BUGGER!",
+        "curr": "الْقَزْمُ الصَّغِيرُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8DBE",
+    "lines": [
+      {
+        "addr": "0x1C8DBE",
+        "orig": "HEY, BACK OFF!!",
+        "curr": "هَيْ، تَرَاجَعْ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8DD0",
+    "lines": [
+      {
+        "addr": "0x1C8DD0",
+        "orig": "THAT'S MY RAT!!",
+        "curr": "ذَاكَ فَأرِي!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8DE2",
+    "lines": [
+      {
+        "addr": "0x1C8DE2",
+        "orig": "YOU PEOPLE JUST",
+        "curr": "أَنْتُمُ النَّاسُ فَقَطْ"
+      },
+      {
+        "addr": "0x1C8DF2",
+        "orig": "KEEP COMING!",
+        "curr": "يَسْتَمِرُّونَ بِالْمَجِيءِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E00",
+    "lines": [
+      {
+        "addr": "0x1C8E00",
+        "orig": "THAT'S RIGHT...",
+        "curr": "ذَاكَ صَحِيحٌ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E12",
+    "lines": [
+      {
+        "addr": "0x1C8E12",
+        "orig": "BUT... YOU WON'T",
+        "curr": "لَكِنَّ... لَنْ"
+      },
+      {
+        "addr": "0x1C8E23",
+        "orig": "FIND OUR BASE!",
+        "curr": "تَجِدْ قَاعِدَتَنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E34",
+    "lines": [
+      {
+        "addr": "0x1C8E34",
+        "orig": "YOU'LL DIE FIRST!",
+        "curr": "سَتَمُوتُ أَوَّلاً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E48",
+    "lines": [
+      {
+        "addr": "0x1C8E48",
+        "orig": "WANNA BET?",
+        "curr": "[UNTRANSLATED: WANNA BET?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E54",
+    "lines": [
+      {
+        "addr": "0x1C8E54",
+        "orig": "SORRY,",
+        "curr": "[UNTRANSLATED: SORRY,]"
+      },
+      {
+        "addr": "0x1C8E5B",
+        "orig": "WRONG BET!",
+        "curr": "[UNTRANSLATED: WRONG BET!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E68",
+    "lines": [
+      {
+        "addr": "0x1C8E68",
+        "orig": "ALMOST THERE,",
+        "curr": "كَادَ يَصِلُ،"
+      },
+      {
+        "addr": "0x1C8E76",
+        "orig": "R'KILL!!",
+        "curr": "[UNTRANSLATED: R'KILL!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E80",
+    "lines": [
+      {
+        "addr": "0x1C8E80",
+        "orig": "DON'T WORRY...",
+        "curr": "لَا تَقْلَقْ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8E90",
+    "lines": [
+      {
+        "addr": "0x1C8E90",
+        "orig": "WE'RE GONNA MAKE",
+        "curr": "سَنَجْعَلُ"
+      },
+      {
+        "addr": "0x1C8EA1",
+        "orig": "IT THROUGH!",
+        "curr": "نَجْتَازُهُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8EAE",
+    "lines": [
+      {
+        "addr": "0x1C8EAE",
+        "orig": "DOWN IN THE SEWERS ...",
+        "curr": "أَسْفَلَ فِي الْمَجَارِي..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8EC6",
+    "lines": [
+      {
+        "addr": "0x1C8EC6",
+        "orig": "YUCK, IT'S",
+        "curr": "[UNTRANSLATED: YUCK, IT'S]"
+      },
+      {
+        "addr": "0x1C8ED1",
+        "orig": "WET IN HERE!",
+        "curr": "مُبَلَّلٌ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8EE0",
+    "lines": [
+      {
+        "addr": "0x1C8EE0",
+        "orig": "WATCH OUT --",
+        "curr": "احْتَرِزْ --"
+      },
+      {
+        "addr": "0x1C8EED",
+        "orig": "I'M SCANNING",
+        "curr": "أَنَا أُمَسِّحُ"
+      },
+      {
+        "addr": "0x1C8EFA",
+        "orig": "LIFE FORMS!!",
+        "curr": "أَشْكَالُ الْحَيَاةِ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F08",
+    "lines": [
+      {
+        "addr": "0x1C8F08",
+        "orig": "OH NO --",
+        "curr": "[UNTRANSLATED: OH NO --]"
+      },
+      {
+        "addr": "0x1C8F11",
+        "orig": "STRIGIL!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F1C",
+    "lines": [
+      {
+        "addr": "0x1C8F1C",
+        "orig": "AND NOT",
+        "curr": "[UNTRANSLATED: AND NOT]"
+      },
+      {
+        "addr": "0x1C8F24",
+        "orig": "JUST ONE...",
+        "curr": "وَاحِدٌ فَقَطْ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F32",
+    "lines": [
+      {
+        "addr": "0x1C8F32",
+        "orig": "SAY WHAT?!?",
+        "curr": "قُلْ مَاذَا؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F40",
+    "lines": [
+      {
+        "addr": "0x1C8F40",
+        "orig": "... THAT TWO ARE",
+        "curr": "...أَنَّ الاثْنَيْنِ"
+      },
+      {
+        "addr": "0x1C8F51",
+        "orig": "BETTER THAN ONE",
+        "curr": "أَفْضَلُ مِنْ وَاحِدٍ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F62",
+    "lines": [
+      {
+        "addr": "0x1C8F62",
+        "orig": "C'MON, GIMME",
+        "curr": "تَعَالَ، أَعْطِنِي"
+      },
+      {
+        "addr": "0x1C8F6F",
+        "orig": "A BREAK!!!",
+        "curr": "[UNTRANSLATED: A BREAK!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8F7C",
+    "lines": [
+      {
+        "addr": "0x1C8F7C",
+        "orig": "LET'S SEE WHAT'S",
+        "curr": "لِنَرَ مَا هُوَ"
+      },
+      {
+        "addr": "0x1C8F8D",
+        "orig": "BEHIND THIS DOOR.",
+        "curr": "خَلْفَ هَذَا الْبَابِ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8FA0",
+    "lines": [
+      {
+        "addr": "0x1C8FA0",
+        "orig": "YEAH, I",
+        "curr": "[UNTRANSLATED: YEAH, I]"
+      },
+      {
+        "addr": "0x1C8FA8",
+        "orig": "CAN'T WAIT",
+        "curr": "[UNTRANSLATED: CAN'T WAIT]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8FB4",
+    "lines": [
+      {
+        "addr": "0x1C8FB4",
+        "orig": "INSIDE",
+        "curr": "[UNTRANSLATED: INSIDE]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8FBC",
+    "lines": [
+      {
+        "addr": "0x1C8FBC",
+        "orig": "WHOA, I DON'T",
+        "curr": "وَاوْ، أَنَا لَا"
+      },
+      {
+        "addr": "0x1C8FCA",
+        "orig": "KNOW THIS PAGE...",
+        "curr": "أَعْرِفُ هَذِهِ الصَّفْحَةَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8FDE",
+    "lines": [
+      {
+        "addr": "0x1C8FDE",
+        "orig": "WEIRD STUFF!",
+        "curr": "أَشْيَاءُ غَرِيبَةٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C8FEC",
+    "lines": [
+      {
+        "addr": "0x1C8FEC",
+        "orig": "WATCH IT --",
+        "curr": "احْتَرِزْ --"
+      },
+      {
+        "addr": "0x1C8FF8",
+        "orig": "ABOVE YOU!",
+        "curr": "فوقك!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9004",
+    "lines": [
+      {
+        "addr": "0x1C9004",
+        "orig": "THE PROCESS",
+        "curr": "العملية"
+      },
+      {
+        "addr": "0x1C9010",
+        "orig": "HAS STARTED",
+        "curr": "قد بدأت"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C901E",
+    "lines": [
+      {
+        "addr": "0x1C901E",
+        "orig": "WHAT PROCESS??",
+        "curr": "أي عملية؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C902E",
+    "lines": [
+      {
+        "addr": "0x1C902E",
+        "orig": "AND YOU CAN'T",
+        "curr": "وَأَنْتَ لَا تَسْتَطِيعُ"
+      },
+      {
+        "addr": "0x1C903C",
+        "orig": "STOP IT",
+        "curr": "[UNTRANSLATED: STOP IT]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9046",
+    "lines": [
+      {
+        "addr": "0x1C9046",
+        "orig": "I SURE COULD",
+        "curr": "بالتَّأْكِيدِ أَسْتَطِيعُ"
+      },
+      {
+        "addr": "0x1C9053",
+        "orig": "STOP YOU!",
+        "curr": "[UNTRANSLATED: STOP YOU!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C905E",
+    "lines": [
+      {
+        "addr": "0x1C905E",
+        "orig": "SOMEONE NEEDS",
+        "curr": "شَخْصٌ مَا يَحْتَاجُ"
+      },
+      {
+        "addr": "0x1C906C",
+        "orig": "A LOT OF AIR",
+        "curr": "كَثِيرٌ مِنَ الْهَوَاءِ"
+      },
+      {
+        "addr": "0x1C9079",
+        "orig": "DOWN HERE.",
+        "curr": "[UNTRANSLATED: DOWN HERE.]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9086",
+    "lines": [
+      {
+        "addr": "0x1C9086",
+        "orig": "COME ON --",
+        "curr": "[UNTRANSLATED: COME ON --]"
+      },
+      {
+        "addr": "0x1C9091",
+        "orig": "USE YOUR RAT!",
+        "curr": "اِسْتَخْدِمْ فَأرَكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C90A0",
+    "lines": [
+      {
+        "addr": "0x1C90A0",
+        "orig": "AERIAL ASSAULT!",
+        "curr": "هُجُومٌ جَوِّيٌّ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C90B2",
+    "lines": [
+      {
+        "addr": "0x1C90B2",
+        "orig": "THIS PLACE GIVES",
+        "curr": "هَذَا الْمَكَانُ يُعْطِي"
+      },
+      {
+        "addr": "0x1C90C3",
+        "orig": "ME THE CREEPS",
+        "curr": "إِيَّايَ قَشْعَرِيرَةً"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C90D2",
+    "lines": [
+      {
+        "addr": "0x1C90D2",
+        "orig": "HMMM, A TOUGH",
+        "curr": "هَمِّ، صَعْبٌ"
+      },
+      {
+        "addr": "0x1C90E0",
+        "orig": "CHOICE...",
+        "curr": "[UNTRANSLATED: CHOICE...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C90EC",
+    "lines": [
+      {
+        "addr": "0x1C90EC",
+        "orig": "GEEZ, THESE",
+        "curr": "جِيزْ، هَؤُلَاءِ"
+      },
+      {
+        "addr": "0x1C90F8",
+        "orig": "GUYS ARE",
+        "curr": "[UNTRANSLATED: GUYS ARE]"
+      },
+      {
+        "addr": "0x1C9101",
+        "orig": "EVERYWHERE!",
+        "curr": "في كُلِّ مَكَانٍ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C910E",
+    "lines": [
+      {
+        "addr": "0x1C910E",
+        "orig": "I DON'T LIKE",
+        "curr": ""
+      },
+      {
+        "addr": "0x1C911B",
+        "orig": "THE NOISE BELOW...",
+        "curr": "الضَّجِيجُ أَسْفَلَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9130",
+    "lines": [
+      {
+        "addr": "0x1C9130",
+        "orig": "I WOULDN'T",
+        "curr": "[UNTRANSLATED: I WOULDN'T]"
+      },
+      {
+        "addr": "0x1C913B",
+        "orig": "JUMP DOWN",
+        "curr": "[UNTRANSLATED: JUMP DOWN]"
+      },
+      {
+        "addr": "0x1C9145",
+        "orig": "THERE!",
+        "curr": "[UNTRANSLATED: THERE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C914E",
+    "lines": [
+      {
+        "addr": "0x1C914E",
+        "orig": "FIND THE COMBINATION",
+        "curr": "اِجِدِ التَّرْكِيبَ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9164",
+    "lines": [
+      {
+        "addr": "0x1C9164",
+        "orig": "AND WHAT'S",
+        "curr": "[UNTRANSLATED: AND WHAT'S]"
+      },
+      {
+        "addr": "0x1C916F",
+        "orig": "THIS DEVICE?",
+        "curr": "هَذَا الْجِهَازُ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C917E",
+    "lines": [
+      {
+        "addr": "0x1C917E",
+        "orig": "SOME SORT OF",
+        "curr": "نَوْعٌ مَا مِنْ"
+      },
+      {
+        "addr": "0x1C918B",
+        "orig": "LOCK, I THINK",
+        "curr": "قُفْلٌ، أَظُنُّ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C919A",
+    "lines": [
+      {
+        "addr": "0x1C919A",
+        "orig": "C'MON, TURNER --",
+        "curr": "تَعَالَ، يَا تورنرْ --"
+      },
+      {
+        "addr": "0x1C91AB",
+        "orig": "YOU'RE DISAPPOINTING ME!",
+        "curr": "أَنْتَ تُخَيِّبُ آمَالِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C91C6",
+    "lines": [
+      {
+        "addr": "0x1C91C6",
+        "orig": "WOW, I GET IT...",
+        "curr": "واو، فهمت الأمر..."
+      },
+      {
+        "addr": "0x1C91D7",
+        "orig": "THE MUTANTS NEED",
+        "curr": "يحتاج المتحورون"
+      },
+      {
+        "addr": "0x1C91E8",
+        "orig": "THESE CRAWLERS...",
+        "curr": "هذه الزواحف..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C91FC",
+    "lines": [
+      {
+        "addr": "0x1C91FC",
+        "orig": "FOR FOOD!",
+        "curr": "[UNTRANSLATED: FOR FOOD!]"
+      },
+      {
+        "addr": "0x1C9206",
+        "orig": "BUT...",
+        "curr": "[UNTRANSLATED: BUT...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C920E",
+    "lines": [
+      {
+        "addr": "0x1C920E",
+        "orig": "TO FEED WHAT?",
+        "curr": "لِإِطْعَامِ مَاذَا؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C921E",
+    "lines": [
+      {
+        "addr": "0x1C921E",
+        "orig": "WHAT ARE THESE",
+        "curr": "مَا هَذِهِ"
+      },
+      {
+        "addr": "0x1C922D",
+        "orig": "LIQUID CELLS",
+        "curr": "خَلَايَا سَائِلَةٌ"
+      },
+      {
+        "addr": "0x1C923A",
+        "orig": "ANYWAY?",
+        "curr": "[UNTRANSLATED: ANYWAY?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9244",
+    "lines": [
+      {
+        "addr": "0x1C9244",
+        "orig": "SKETCH, MY SCANNER",
+        "curr": "سْكِيتْشُ، مُمَسِّحِي"
+      },
+      {
+        "addr": "0x1C9257",
+        "orig": "IS GOING NUTS!",
+        "curr": "يَجْنُنُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9268",
+    "lines": [
+      {
+        "addr": "0x1C9268",
+        "orig": "WATCH OUT!!!",
+        "curr": "احْتَرِزْ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9276",
+    "lines": [
+      {
+        "addr": "0x1C9276",
+        "orig": "I SHOULD'VE",
+        "curr": "كُنْتُ أَجِبْ"
+      },
+      {
+        "addr": "0x1C9282",
+        "orig": "KNOWN",
+        "curr": "[UNTRANSLATED: KNOWN]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C928A",
+    "lines": [
+      {
+        "addr": "0x1C928A",
+        "orig": "THIS IS THEIR",
+        "curr": "هَذَا لَهُمْ"
+      },
+      {
+        "addr": "0x1C9298",
+        "orig": "BREEDING GROUND!",
+        "curr": "مَوْضِعُ التَّكَاثُرِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C92AA",
+    "lines": [
+      {
+        "addr": "0x1C92AA",
+        "orig": "HUNGRY",
+        "curr": "[UNTRANSLATED: HUNGRY]"
+      },
+      {
+        "addr": "0x1C92B1",
+        "orig": "NEWBORN",
+        "curr": "[UNTRANSLATED: NEWBORN]"
+      },
+      {
+        "addr": "0x1C92B9",
+        "orig": "MUTANTS!",
+        "curr": "[UNTRANSLATED: MUTANTS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C92C4",
+    "lines": [
+      {
+        "addr": "0x1C92C4",
+        "orig": "I HOPE THIS",
+        "curr": "أَرْجُو أَنْ يَكُونَ هَذَا"
+      },
+      {
+        "addr": "0x1C92D0",
+        "orig": "EPISODE IS",
+        "curr": "[UNTRANSLATED: EPISODE IS]"
+      },
+      {
+        "addr": "0x1C92DB",
+        "orig": "DONE FOR...",
+        "curr": "انْتَهَى الأَمْرُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C92E8",
+    "lines": [
+      {
+        "addr": "0x1C92E8",
+        "orig": "IMMEDIATELY AFTER...",
+        "curr": "فَوْراً بَعْدَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C92FE",
+    "lines": [
+      {
+        "addr": "0x1C92FE",
+        "orig": "HOLY COW!",
+        "curr": "[UNTRANSLATED: HOLY COW!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C930A",
+    "lines": [
+      {
+        "addr": "0x1C930A",
+        "orig": "YOU'VE DESTROYED",
+        "curr": "قَدْ دَمَّرْتَ"
+      },
+      {
+        "addr": "0x1C931B",
+        "orig": "MY CHILDREN!",
+        "curr": "أَطْفَالِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C932A",
+    "lines": [
+      {
+        "addr": "0x1C932A",
+        "orig": "NOW YOU'LL PAY!!!",
+        "curr": "الآنَ سَتَدْفَعُ الثَّمَنَ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C933E",
+    "lines": [
+      {
+        "addr": "0x1C933E",
+        "orig": "SORRY, BIG MAMA!",
+        "curr": "آسِفٌ، يَا أُمّْ كَبِيرَةُ!"
+      },
+      {
+        "addr": "0x1C934F",
+        "orig": "IT'S SURVIVAL",
+        "curr": "هِيَ الْبَقَاءُ"
+      },
+      {
+        "addr": "0x1C935D",
+        "orig": "OF THE FITTEST",
+        "curr": "الْأَقْوَى"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C936E",
+    "lines": [
+      {
+        "addr": "0x1C936E",
+        "orig": "HERE, CAN YOU",
+        "curr": "هُنَا، هَلْ تَسْتَطِيعُ"
+      },
+      {
+        "addr": "0x1C937C",
+        "orig": "TAKE THE HEAT?",
+        "curr": "تَحْمِلُ الْحَرَارَةَ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C938C",
+    "lines": [
+      {
+        "addr": "0x1C938C",
+        "orig": "YOU'RE FIRED",
+        "curr": "أَنْتَ مَطْرُودٌ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C939A",
+    "lines": [
+      {
+        "addr": "0x1C939A",
+        "orig": "MAN, WHAT",
+        "curr": "[UNTRANSLATED: MAN, WHAT]"
+      },
+      {
+        "addr": "0x1C93A4",
+        "orig": "A TRIP!",
+        "curr": "[UNTRANSLATED: A TRIP!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C93AE",
+    "lines": [
+      {
+        "addr": "0x1C93AE",
+        "orig": "!@!#?",
+        "curr": "[UNTRANSLATED: !@!#?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C93B6",
+    "lines": [
+      {
+        "addr": "0x1C93B6",
+        "orig": "WHAT DO THEY DO",
+        "curr": "مَاذَا يَفْعَلُونَ"
+      },
+      {
+        "addr": "0x1C93C6",
+        "orig": "WITH THESE?!?",
+        "curr": "بِهَذِهِ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C93D6",
+    "lines": [
+      {
+        "addr": "0x1C93D6",
+        "orig": "MAN, I'M GLAD",
+        "curr": "يَا رَجُلٌ، أَنَا سَعِيدٌ"
+      },
+      {
+        "addr": "0x1C93E4",
+        "orig": "THIS PANEL IS OVER!",
+        "curr": "هَذِهِ اللَّوْحَةُ انْتَهَتْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C93FA",
+    "lines": [
+      {
+        "addr": "0x1C93FA",
+        "orig": "OH, NOT AGAIN!@!#!",
+        "curr": "أَوْهُ، لَيْسَ مَرَّةً أُخْرَى!@!#!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C940E",
+    "lines": [
+      {
+        "addr": "0x1C940E",
+        "orig": "IT'S FREEZING",
+        "curr": "يَتَجَمَّدُ"
+      },
+      {
+        "addr": "0x1C941C",
+        "orig": "IN HERE!",
+        "curr": "[UNTRANSLATED: IN HERE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9426",
+    "lines": [
+      {
+        "addr": "0x1C9426",
+        "orig": "IS THIS SOME",
+        "curr": "هَلْ هَذَا بَعْضٌ"
+      },
+      {
+        "addr": "0x1C9433",
+        "orig": "STORAGE PLACE?",
+        "curr": "مَكَانُ تَخْزِينٍ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9444",
+    "lines": [
+      {
+        "addr": "0x1C9444",
+        "orig": "OUR STOCKPILES",
+        "curr": "مَخَازِنُنَا"
+      },
+      {
+        "addr": "0x1C9453",
+        "orig": "ARE DESTROYED",
+        "curr": "مُدَمَّرَةٌ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9462",
+    "lines": [
+      {
+        "addr": "0x1C9462",
+        "orig": "STOCKPILES?!?",
+        "curr": "الْمَخَازِنُ?!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9472",
+    "lines": [
+      {
+        "addr": "0x1C9472",
+        "orig": "I'M CONFUSED",
+        "curr": "أَنَا مُحْتَارٌ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9480",
+    "lines": [
+      {
+        "addr": "0x1C9480",
+        "orig": "HIMALAYAS",
+        "curr": "[UNTRANSLATED: HIMALAYAS]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C948C",
+    "lines": [
+      {
+        "addr": "0x1C948C",
+        "orig": "WHAT'S THIS --",
+        "curr": "مَا هَذَا --"
+      },
+      {
+        "addr": "0x1C949B",
+        "orig": "THE ROCKIES???",
+        "curr": "الجِبَالُ الصَّخْرِيَّةُ؟؟؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C94AC",
+    "lines": [
+      {
+        "addr": "0x1C94AC",
+        "orig": "MAN, IT'S COLD!!",
+        "curr": "يَا رَجُلٌ، إِنَّهَا بَارِدَةٌ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C94BE",
+    "lines": [
+      {
+        "addr": "0x1C94BE",
+        "orig": "WE'VE LOST",
+        "curr": "[UNTRANSLATED: WE'VE LOST]"
+      },
+      {
+        "addr": "0x1C94C9",
+        "orig": "THIS VILLAGE",
+        "curr": "هَذِهِ الْقَرْيَةُ"
+      },
+      {
+        "addr": "0x1C94D6",
+        "orig": "TO THE BREED.",
+        "curr": "إِلَى السَّلَالَةِ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C94E6",
+    "lines": [
+      {
+        "addr": "0x1C94E6",
+        "orig": "WE SUSPECT",
+        "curr": "[UNTRANSLATED: WE SUSPECT]"
+      },
+      {
+        "addr": "0x1C94F1",
+        "orig": "MORTUS",
+        "curr": "مورتوس"
+      },
+      {
+        "addr": "0x1C94F8",
+        "orig": "SET UP A..",
+        "curr": "[UNTRANSLATED: SET UP A..]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9504",
+    "lines": [
+      {
+        "addr": "0x1C9504",
+        "orig": "..SECRET",
+        "curr": "[UNTRANSLATED: ..SECRET]"
+      },
+      {
+        "addr": "0x1C950D",
+        "orig": "TRAINING",
+        "curr": "[UNTRANSLATED: TRAINING]"
+      },
+      {
+        "addr": "0x1C9516",
+        "orig": "GROUND IN",
+        "curr": "[UNTRANSLATED: GROUND IN]"
+      },
+      {
+        "addr": "0x1C9520",
+        "orig": "THIS AREA.",
+        "curr": "[UNTRANSLATED: THIS AREA.]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C952C",
+    "lines": [
+      {
+        "addr": "0x1C952C",
+        "orig": "GO IN AND SEE",
+        "curr": "ادْخُلْ وَانْظُرْ"
+      },
+      {
+        "addr": "0x1C953A",
+        "orig": "WHAT'S UP...",
+        "curr": "مَا الْخَبَرُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9548",
+    "lines": [
+      {
+        "addr": "0x1C9548",
+        "orig": "TIBET CITY",
+        "curr": "[UNTRANSLATED: TIBET CITY]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9554",
+    "lines": [
+      {
+        "addr": "0x1C9554",
+        "orig": "DO YOU COME",
+        "curr": "هَلْ تَأْتِي"
+      },
+      {
+        "addr": "0x1C9560",
+        "orig": "FROM THE TEMPLE..",
+        "curr": "مِنَ الْمَعْبَدِ.."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9574",
+    "lines": [
+      {
+        "addr": "0x1C9574",
+        "orig": "..TO FIGHT IN",
+        "curr": "..لِلْقِتَالِ فِي"
+      },
+      {
+        "addr": "0x1C9582",
+        "orig": "THE TOURNAMENT?",
+        "curr": "الْبُطُولَةِ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9594",
+    "lines": [
+      {
+        "addr": "0x1C9594",
+        "orig": "TOURNAMENT?",
+        "curr": "الْبُطُولَةِ؟"
+      },
+      {
+        "addr": "0x1C95A0",
+        "orig": "ERR, YEAH, SURE!",
+        "curr": "أَهْ، نَعَمْ، طَبْعاً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C95B2",
+    "lines": [
+      {
+        "addr": "0x1C95B2",
+        "orig": "THEN LET'S SEE",
+        "curr": "إِذَنْ لِنَرَ"
+      },
+      {
+        "addr": "0x1C95C1",
+        "orig": "HOW GOOD",
+        "curr": "[UNTRANSLATED: HOW GOOD]"
+      },
+      {
+        "addr": "0x1C95CA",
+        "orig": "YOU ARE!",
+        "curr": "[UNTRANSLATED: YOU ARE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C95D4",
+    "lines": [
+      {
+        "addr": "0x1C95D4",
+        "orig": "GOOD ENOUGH?",
+        "curr": "جَيِّدٌ كَفَايَةً؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C95E2",
+    "lines": [
+      {
+        "addr": "0x1C95E2",
+        "orig": "I GUESS NOT!",
+        "curr": "أَظُنُّ لَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C95F0",
+    "lines": [
+      {
+        "addr": "0x1C95F0",
+        "orig": "AHA! I COULD USE",
+        "curr": "آهَا! أَسْتَطِيعُ اِسْتِخْدَامَ"
+      },
+      {
+        "addr": "0x1C9601",
+        "orig": "SOME SUPPLIES!",
+        "curr": "بَعْضَ الْمُؤَنِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9612",
+    "lines": [
+      {
+        "addr": "0x1C9612",
+        "orig": "GOTTA BE CAREFUL",
+        "curr": "يَجِبُ أَنْ أَكُونَ حَذِراً"
+      },
+      {
+        "addr": "0x1C9623",
+        "orig": "WITH THESE THINGS!",
+        "curr": "مَعَ هَذِهِ الْأَشْيَاءِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9638",
+    "lines": [
+      {
+        "addr": "0x1C9638",
+        "orig": "GEEZ, TURNER,",
+        "curr": "جِيزْ، يَا تورنرْ،"
+      },
+      {
+        "addr": "0x1C9646",
+        "orig": "GET A GRIP!",
+        "curr": "تَمَالِكْ نَفْسَكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9654",
+    "lines": [
+      {
+        "addr": "0x1C9654",
+        "orig": "THEY'VE BUILT",
+        "curr": "قَدْ بَنَوْا"
+      },
+      {
+        "addr": "0x1C9662",
+        "orig": "REINFORCEMENTS!",
+        "curr": "تَعْزِيزَاتٍ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9674",
+    "lines": [
+      {
+        "addr": "0x1C9674",
+        "orig": "DEAL WITH IT!",
+        "curr": "تَعَامَلْ مَعَهُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9684",
+    "lines": [
+      {
+        "addr": "0x1C9684",
+        "orig": "THESE CREEPS",
+        "curr": "هَؤُلَاءِ الْمُخِيفُونَ"
+      },
+      {
+        "addr": "0x1C9691",
+        "orig": "WON'T STOP!!",
+        "curr": "لَنْ يَتَوَقَّفُوا!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C96A0",
+    "lines": [
+      {
+        "addr": "0x1C96A0",
+        "orig": "COVER UP THE",
+        "curr": "غَطِّ"
+      },
+      {
+        "addr": "0x1C96AD",
+        "orig": "HOLE FIRST!",
+        "curr": "الْفُجْوَةَ أَوَّلَاً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C96BA",
+    "lines": [
+      {
+        "addr": "0x1C96BA",
+        "orig": "THAT'LL",
+        "curr": "[UNTRANSLATED: THAT'LL]"
+      },
+      {
+        "addr": "0x1C96C2",
+        "orig": "TEACH YA!",
+        "curr": "[UNTRANSLATED: TEACH YA!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C96CE",
+    "lines": [
+      {
+        "addr": "0x1C96CE",
+        "orig": "I THOUGHT THIS'D",
+        "curr": "ظَنَنْتُ أَنَّ هَذَا"
+      },
+      {
+        "addr": "0x1C96DF",
+        "orig": "BE A WALK IN",
+        "curr": "سَيَكُونُ نَزْهَةً فِي"
+      },
+      {
+        "addr": "0x1C96EC",
+        "orig": "THE PARK!",
+        "curr": "[UNTRANSLATED: THE PARK!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C96F8",
+    "lines": [
+      {
+        "addr": "0x1C96F8",
+        "orig": "AHA!!",
+        "curr": "[UNTRANSLATED: AHA!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9700",
+    "lines": [
+      {
+        "addr": "0x1C9700",
+        "orig": "WHOOPS!",
+        "curr": "[UNTRANSLATED: WHOOPS!]"
+      },
+      {
+        "addr": "0x1C9708",
+        "orig": "JUST A CRAWLER?",
+        "curr": "مُجَرَّدَ زَاحِفٍ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C971A",
+    "lines": [
+      {
+        "addr": "0x1C971A",
+        "orig": "WHERE THE @#?",
+        "curr": "أَيْنَ الْ@#؟"
+      },
+      {
+        "addr": "0x1C9728",
+        "orig": "IS EVERYBODY?",
+        "curr": "هَلْ الْجَمِيعُ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9738",
+    "lines": [
+      {
+        "addr": "0x1C9738",
+        "orig": "CALM BEFORE",
+        "curr": "الْهُدُوءُ قَبْلَ"
+      },
+      {
+        "addr": "0x1C9744",
+        "orig": "THE STORM?",
+        "curr": "[UNTRANSLATED: THE STORM?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9750",
+    "lines": [
+      {
+        "addr": "0x1C9750",
+        "orig": "THIS WALL",
+        "curr": "[UNTRANSLATED: THIS WALL]"
+      },
+      {
+        "addr": "0x1C975A",
+        "orig": "SEEMS WEAK...",
+        "curr": "يَبْدُو ضَعِيفاً..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C976A",
+    "lines": [
+      {
+        "addr": "0x1C976A",
+        "orig": "SKETCH, THIS",
+        "curr": "سْكِيتْشُ، هَذَا"
+      },
+      {
+        "addr": "0x1C9777",
+        "orig": "PLACE IS ALIVE!!!",
+        "curr": "هَذَا الْمَكَانُ حَيٌّ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C978A",
+    "lines": [
+      {
+        "addr": "0x1C978A",
+        "orig": "IT'S TOO DARK--",
+        "curr": "إِنَّهَا مُظْلِمَةٌ جِدّاً--"
+      },
+      {
+        "addr": "0x1C979A",
+        "orig": "I CAN'T SEE @#!!",
+        "curr": "لَا أَسْتَطِيعُ الرُّؤْيَةَ @#!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C97AC",
+    "lines": [
+      {
+        "addr": "0x1C97AC",
+        "orig": "MOVE IT!!!",
+        "curr": "[UNTRANSLATED: MOVE IT!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C97B8",
+    "lines": [
+      {
+        "addr": "0x1C97B8",
+        "orig": "HOW DO I GET",
+        "curr": "كَيْفَ أَحْصُلُ"
+      },
+      {
+        "addr": "0x1C97C5",
+        "orig": "OUTTA HERE?",
+        "curr": "أَخْرُجُ مِنْ هُنَا؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C97D2",
+    "lines": [
+      {
+        "addr": "0x1C97D2",
+        "orig": "LOOK AROUND YOU!",
+        "curr": "انْظُرْ حَوْلَكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C97E4",
+    "lines": [
+      {
+        "addr": "0x1C97E4",
+        "orig": "INSIDE!",
+        "curr": "[UNTRANSLATED: INSIDE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C97EE",
+    "lines": [
+      {
+        "addr": "0x1C97EE",
+        "orig": "TOURNAMENT CHAMBER",
+        "curr": "غُرْفَةُ الْبُطُولَةِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9802",
+    "lines": [
+      {
+        "addr": "0x1C9802",
+        "orig": "I KNEW THIS",
+        "curr": "كُنْتُ أَعْلَمُ هَذَا"
+      },
+      {
+        "addr": "0x1C980E",
+        "orig": "DOORWAY WAS",
+        "curr": "الْمَدْخَلُ كَانَ"
+      },
+      {
+        "addr": "0x1C981A",
+        "orig": "BAD NEWS!",
+        "curr": "[UNTRANSLATED: BAD NEWS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9826",
+    "lines": [
+      {
+        "addr": "0x1C9826",
+        "orig": "HUMAN! THIS",
+        "curr": "بَشَرِيٌّ! هَذَا"
+      },
+      {
+        "addr": "0x1C9832",
+        "orig": "TOURNAMENT IS",
+        "curr": "الْبُطُولَةُ هِيَ"
+      },
+      {
+        "addr": "0x1C9840",
+        "orig": "FOR KUNG-FUNG",
+        "curr": "لِكُنغ-فُنغ"
+      },
+      {
+        "addr": "0x1C984E",
+        "orig": "GRADUATES!",
+        "curr": "[UNTRANSLATED: GRADUATES!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C985A",
+    "lines": [
+      {
+        "addr": "0x1C985A",
+        "orig": "KUNG-FUNG?",
+        "curr": "[UNTRANSLATED: KUNG-FUNG?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9866",
+    "lines": [
+      {
+        "addr": "0x1C9866",
+        "orig": "THE TEMPLE MASTER,",
+        "curr": "سَيِّدُ الْمَعْبَدِ،"
+      },
+      {
+        "addr": "0x1C9879",
+        "orig": "OUR TRAINER.",
+        "curr": "مُدَرِّبُنَا."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9888",
+    "lines": [
+      {
+        "addr": "0x1C9888",
+        "orig": "WHERE IS",
+        "curr": "[UNTRANSLATED: WHERE IS]"
+      },
+      {
+        "addr": "0x1C9891",
+        "orig": "THIS TEMPLE?",
+        "curr": "هَذَا الْمَعْبَدُ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C98A0",
+    "lines": [
+      {
+        "addr": "0x1C98A0",
+        "orig": "YOU MUST",
+        "curr": "[UNTRANSLATED: YOU MUST]"
+      },
+      {
+        "addr": "0x1C98A9",
+        "orig": "BE JOKING!",
+        "curr": "[UNTRANSLATED: BE JOKING!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C98B6",
+    "lines": [
+      {
+        "addr": "0x1C98B6",
+        "orig": "STRIGILS!!!",
+        "curr": "الْمِسَاحَاتُ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C98C4",
+    "lines": [
+      {
+        "addr": "0x1C98C4",
+        "orig": "GRAVIS, MAKE",
+        "curr": "غْرَافِيسْ، اصْنَعْ"
+      },
+      {
+        "addr": "0x1C98D1",
+        "orig": "IT QUICK!",
+        "curr": "[UNTRANSLATED: IT QUICK!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C98DC",
+    "lines": [
+      {
+        "addr": "0x1C98DC",
+        "orig": "STYX, YOU'RE",
+        "curr": "سْتِيكْسْ، أَنْتَ"
+      },
+      {
+        "addr": "0x1C98E9",
+        "orig": "NEXT!!",
+        "curr": "[UNTRANSLATED: NEXT!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C98F2",
+    "lines": [
+      {
+        "addr": "0x1C98F2",
+        "orig": "ARRGH... MONGORIA,",
+        "curr": "آرْغْ... مُونغُورِيَا،"
+      },
+      {
+        "addr": "0x1C9905",
+        "orig": "DO IT BABY!",
+        "curr": "افْعَلْهَا يَا حَبِيبِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9912",
+    "lines": [
+      {
+        "addr": "0x1C9912",
+        "orig": "NOT BAD, HUMAN.",
+        "curr": "لَيْسَ سَيِّئاً، يَا بَشَرِيٌّ."
+      },
+      {
+        "addr": "0x1C9922",
+        "orig": "WE'LL LET YOU GO.",
+        "curr": "سَنَدَعُكَ تَذْهَبُ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9936",
+    "lines": [
+      {
+        "addr": "0x1C9936",
+        "orig": "THE TEMPLE IS",
+        "curr": "الْمَعْبَدُ هُوَ"
+      },
+      {
+        "addr": "0x1C9944",
+        "orig": "TO THE NORTH...",
+        "curr": "إِلَى الشِّمَالِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9956",
+    "lines": [
+      {
+        "addr": "0x1C9956",
+        "orig": "BUT HOPE NOT--",
+        "curr": "لَكِنْ لَا أَرْجُو--"
+      },
+      {
+        "addr": "0x1C9965",
+        "orig": "YOU WON'T MAKE IT!",
+        "curr": "لَنْ تَصِلَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C997A",
+    "lines": [
+      {
+        "addr": "0x1C997A",
+        "orig": "YOUR TRICKS ARE",
+        "curr": "حِيَلُكَ"
+      },
+      {
+        "addr": "0x1C998A",
+        "orig": "USELESS IN HERE",
+        "curr": "عَدِيمَةُ الْفَائِدَةِ هُنَا"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C999C",
+    "lines": [
+      {
+        "addr": "0x1C999C",
+        "orig": "LATER, IN THE MOUNTAINS",
+        "curr": "لاَحِقاً، فِي الْجِبَالِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C99B6",
+    "lines": [
+      {
+        "addr": "0x1C99B6",
+        "orig": "AH, FINALLY --",
+        "curr": "آهْ، أَخِيراً --"
+      },
+      {
+        "addr": "0x1C99C5",
+        "orig": "THE TEMPLE!",
+        "curr": "الْمَعْبَدُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C99D2",
+    "lines": [
+      {
+        "addr": "0x1C99D2",
+        "orig": "NO ONE EVER",
+        "curr": "لَمْ يَفْعَلْ أَحَدٌ قَطُّ"
+      },
+      {
+        "addr": "0x1C99DE",
+        "orig": "GETS PAST ME!",
+        "curr": "يَتَجَاوَزُنِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C99EE",
+    "lines": [
+      {
+        "addr": "0x1C99EE",
+        "orig": "REALLY?",
+        "curr": "[UNTRANSLATED: REALLY?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C99F8",
+    "lines": [
+      {
+        "addr": "0x1C99F8",
+        "orig": "REALLY!",
+        "curr": "[UNTRANSLATED: REALLY!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A02",
+    "lines": [
+      {
+        "addr": "0x1C9A02",
+        "orig": "JUST THROW",
+        "curr": "[UNTRANSLATED: JUST THROW]"
+      },
+      {
+        "addr": "0x1C9A0D",
+        "orig": "HIM ONE!",
+        "curr": "[UNTRANSLATED: HIM ONE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A18",
+    "lines": [
+      {
+        "addr": "0x1C9A18",
+        "orig": "WOW, THAT'S",
+        "curr": "وَاوْ، ذَاكَ"
+      },
+      {
+        "addr": "0x1C9A24",
+        "orig": "DEEP, BRO!",
+        "curr": "[UNTRANSLATED: DEEP, BRO!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A30",
+    "lines": [
+      {
+        "addr": "0x1C9A30",
+        "orig": "TEMPLE, AT THE GATES...",
+        "curr": "الْمَعْبَدُ، عِنْدَ الْبَوَّابَاتِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A4A",
+    "lines": [
+      {
+        "addr": "0x1C9A4A",
+        "orig": "THESE CREEPS",
+        "curr": ""
+      },
+      {
+        "addr": "0x1C9A57",
+        "orig": "ARE GETTING ON",
+        "curr": "يَتَقَدَّمُونَ"
+      },
+      {
+        "addr": "0x1C9A66",
+        "orig": "MY NERVES!",
+        "curr": "[UNTRANSLATED: MY NERVES!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A72",
+    "lines": [
+      {
+        "addr": "0x1C9A72",
+        "orig": "???",
+        "curr": "???"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A78",
+    "lines": [
+      {
+        "addr": "0x1C9A78",
+        "orig": "WATCH YOUR TIMING!",
+        "curr": "رَاقِبْ تَوْقِيتَكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9A8C",
+    "lines": [
+      {
+        "addr": "0x1C9A8C",
+        "orig": "TRAINING COURTYARD",
+        "curr": "سَاحَةُ التَّدْرِيبِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9AA0",
+    "lines": [
+      {
+        "addr": "0x1C9AA0",
+        "orig": "HEY, WHERE'S",
+        "curr": "هَيْ، أَيْنَ"
+      },
+      {
+        "addr": "0x1C9AAD",
+        "orig": "THE WELCOMING",
+        "curr": "الِاسْتِقْبَالُ"
+      },
+      {
+        "addr": "0x1C9ABB",
+        "orig": "PARTY?",
+        "curr": "[UNTRANSLATED: PARTY?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9AC4",
+    "lines": [
+      {
+        "addr": "0x1C9AC4",
+        "orig": "RIGHT HERE!",
+        "curr": "هُنَا بِالضَّبْطِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9AD2",
+    "lines": [
+      {
+        "addr": "0x1C9AD2",
+        "orig": "LEMME TEST MY",
+        "curr": "خَلِّنِي أَخْتَبِرْ"
+      },
+      {
+        "addr": "0x1C9AE0",
+        "orig": "SKILLS ON YA!",
+        "curr": "مَهَارَاتِي عَلَيْكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9AF0",
+    "lines": [
+      {
+        "addr": "0x1C9AF0",
+        "orig": "DO I HAVE",
+        "curr": "[UNTRANSLATED: DO I HAVE]"
+      },
+      {
+        "addr": "0x1C9AFA",
+        "orig": "A CHOICE?",
+        "curr": "[UNTRANSLATED: A CHOICE?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B06",
+    "lines": [
+      {
+        "addr": "0x1C9B06",
+        "orig": "WE'RE TRAINING FOR",
+        "curr": "نَتَدَرَّبُ لِأَجْلِ"
+      },
+      {
+        "addr": "0x1C9B19",
+        "orig": "THE FINAL TEST!",
+        "curr": "الِاخْتِبَارِ الْأَخِيرِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B2A",
+    "lines": [
+      {
+        "addr": "0x1C9B2A",
+        "orig": "GEE, DID I COME",
+        "curr": "جِيزْ، هَلْ جِئْتُ"
+      },
+      {
+        "addr": "0x1C9B3A",
+        "orig": "ON TOO STRONG?",
+        "curr": "بِقُوَّةٍ زَائِدَةٍ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B4A",
+    "lines": [
+      {
+        "addr": "0x1C9B4A",
+        "orig": "MAYBE IT'S MY",
+        "curr": "رُبَّما هِيَ"
+      },
+      {
+        "addr": "0x1C9B58",
+        "orig": "DEODORANT",
+        "curr": "[UNTRANSLATED: DEODORANT]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B64",
+    "lines": [
+      {
+        "addr": "0x1C9B64",
+        "orig": "YOUR RAT COULD",
+        "curr": "فَأرُكَ يَسْتَطِيعُ"
+      },
+      {
+        "addr": "0x1C9B73",
+        "orig": "BE USEFUL HERE!",
+        "curr": "أَنْ يَكُونَ مُفِيداً هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B84",
+    "lines": [
+      {
+        "addr": "0x1C9B84",
+        "orig": "SORRY,",
+        "curr": ""
+      },
+      {
+        "addr": "0x1C9B8B",
+        "orig": "NO DATE!",
+        "curr": "[UNTRANSLATED: NO DATE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9B96",
+    "lines": [
+      {
+        "addr": "0x1C9B96",
+        "orig": "WHAT'S UP",
+        "curr": "[UNTRANSLATED: WHAT'S UP]"
+      },
+      {
+        "addr": "0x1C9BA0",
+        "orig": "NOW, MORTUS?",
+        "curr": "الآنَ، يَا مورتوسْ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9BAE",
+    "lines": [
+      {
+        "addr": "0x1C9BAE",
+        "orig": "OH !@#!!",
+        "curr": "[UNTRANSLATED: OH !@#!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9BB8",
+    "lines": [
+      {
+        "addr": "0x1C9BB8",
+        "orig": "I GOTTA GET",
+        "curr": "عَلَيَّ أَنْ أَحْصُلَ"
+      },
+      {
+        "addr": "0x1C9BC4",
+        "orig": "OUTTA HERE!!",
+        "curr": "أَخْرُجُ مِنْ هُنَا!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9BD2",
+    "lines": [
+      {
+        "addr": "0x1C9BD2",
+        "orig": "@#$!?!!",
+        "curr": "[UNTRANSLATED: @#$!?!!]"
+      },
+      {
+        "addr": "0x1C9BDA",
+        "orig": "THAT'S NOT IT!",
+        "curr": "لَيْسَ ذَاكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9BEA",
+    "lines": [
+      {
+        "addr": "0x1C9BEA",
+        "orig": "AHA, HERE",
+        "curr": "[UNTRANSLATED: AHA, HERE]"
+      },
+      {
+        "addr": "0x1C9BF4",
+        "orig": "WE GO",
+        "curr": "[UNTRANSLATED: WE GO]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9BFC",
+    "lines": [
+      {
+        "addr": "0x1C9BFC",
+        "orig": "UNDERGROUND",
+        "curr": "تَحْتَ الْأَرْضِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C0A",
+    "lines": [
+      {
+        "addr": "0x1C9C0A",
+        "orig": "THAT WAS CLOSE",
+        "curr": "كَانَ قَرِيباً"
+      },
+      {
+        "addr": "0x1C9C19",
+        "orig": "WHOA!!",
+        "curr": "[UNTRANSLATED: WHOA!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C22",
+    "lines": [
+      {
+        "addr": "0x1C9C22",
+        "orig": "WHAT'S WITH ALL",
+        "curr": "مَا الْأَمْرُ مَعَ كُلِّ"
+      },
+      {
+        "addr": "0x1C9C32",
+        "orig": "THESE TRAPS?",
+        "curr": "هَذِهِ الْفِخَاخِ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C40",
+    "lines": [
+      {
+        "addr": "0x1C9C40",
+        "orig": "THIS IS THE",
+        "curr": "هَذَا هُوَ"
+      },
+      {
+        "addr": "0x1C9C4C",
+        "orig": "COURSE OF",
+        "curr": "[UNTRANSLATED: COURSE OF]"
+      },
+      {
+        "addr": "0x1C9C56",
+        "orig": "THE FINAL TEST!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C68",
+    "lines": [
+      {
+        "addr": "0x1C9C68",
+        "orig": "WATCH OUT!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C74",
+    "lines": [
+      {
+        "addr": "0x1C9C74",
+        "orig": "LOOKS LIKE",
+        "curr": "[UNTRANSLATED: LOOKS LIKE]"
+      },
+      {
+        "addr": "0x1C9C7F",
+        "orig": "I'M TRAPPED!",
+        "curr": "أَنَا مُحَاصَرٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9C8E",
+    "lines": [
+      {
+        "addr": "0x1C9C8E",
+        "orig": "PUT R'KILL",
+        "curr": "[UNTRANSLATED: PUT R'KILL]"
+      },
+      {
+        "addr": "0x1C9C99",
+        "orig": "TO WORK!",
+        "curr": "[UNTRANSLATED: TO WORK!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9CA4",
+    "lines": [
+      {
+        "addr": "0x1C9CA4",
+        "orig": "KUNG-FUNG'S CHAMBER",
+        "curr": "غُرْفَةُ كُنغ-فُنغ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9CBA",
+    "lines": [
+      {
+        "addr": "0x1C9CBA",
+        "orig": "YOU MUST BE",
+        "curr": "عَلَيْكَ أَنْ تَكُونَ"
+      },
+      {
+        "addr": "0x1C9CC6",
+        "orig": "THE OLD FUNG, EH?",
+        "curr": "الْفُنغُ الْقَدِيمُ، هَاهْ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9CDA",
+    "lines": [
+      {
+        "addr": "0x1C9CDA",
+        "orig": "I'M IN CHARGE",
+        "curr": "أَنَا الْمَسْؤُولُ"
+      },
+      {
+        "addr": "0x1C9CE8",
+        "orig": "OF TRAINING",
+        "curr": "عَنِ التَّدْرِيبِ"
+      },
+      {
+        "addr": "0x1C9CF4",
+        "orig": "MORTUS' PEOPLE.",
+        "curr": "شَعْبُ مورتوسْ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D06",
+    "lines": [
+      {
+        "addr": "0x1C9D06",
+        "orig": "NICE FINGERNAILS,",
+        "curr": "أَظَافِرُ جَمِيلَةٍ،"
+      },
+      {
+        "addr": "0x1C9D18",
+        "orig": "DUDE.",
+        "curr": "[UNTRANSLATED: DUDE.]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D20",
+    "lines": [
+      {
+        "addr": "0x1C9D20",
+        "orig": "DO YOU WISH I",
+        "curr": "هَلْ تَرْغَبُ أَنْ"
+      },
+      {
+        "addr": "0x1C9D2E",
+        "orig": "USE 'EM -- DUDE??",
+        "curr": "أَسْتَخْدِمَهُمْ -- يَا صَدِيقِي؟؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D42",
+    "lines": [
+      {
+        "addr": "0x1C9D42",
+        "orig": "OH DEAR!",
+        "curr": "[UNTRANSLATED: OH DEAR!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D4C",
+    "lines": [
+      {
+        "addr": "0x1C9D4C",
+        "orig": "LET ME GIVE",
+        "curr": "دَعْنِي أُعْطِيَ"
+      },
+      {
+        "addr": "0x1C9D58",
+        "orig": "YOU A LESSON!",
+        "curr": "إِيَّاكَ دَرْساً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D68",
+    "lines": [
+      {
+        "addr": "0x1C9D68",
+        "orig": "OH, GOING DOWN",
+        "curr": "أَوْهُ، نَنْزِلُ"
+      },
+      {
+        "addr": "0x1C9D77",
+        "orig": "MR. FUNG?!?",
+        "curr": "السَّيّدُ فُنغْ؟؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9D84",
+    "lines": [
+      {
+        "addr": "0x1C9D84",
+        "orig": "I ENJOYED THE CLASS",
+        "curr": "اسْتَمْتَعْتُ بِالْحِصَّةِ"
+      },
+      {
+        "addr": "0x1C9D98",
+        "orig": "SORRY TO SEE YOU",
+        "curr": "آسِفٌ لِرُؤْيَتِكَ"
+      },
+      {
+        "addr": "0x1C9DA9",
+        "orig": "DROP OUT...",
+        "curr": "الْإِنْسِحَابُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9DB6",
+    "lines": [
+      {
+        "addr": "0x1C9DB6",
+        "orig": "YOU TAKIN'",
+        "curr": "[UNTRANSLATED: YOU TAKIN']"
+      },
+      {
+        "addr": "0x1C9DC1",
+        "orig": "THE FINAL TEST?",
+        "curr": "الِاخْتِبَارُ الْأَخِيرُ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9DD2",
+    "lines": [
+      {
+        "addr": "0x1C9DD2",
+        "orig": "THAT'S RIGHT,",
+        "curr": "ذَاكَ صَحِيحٌ،"
+      },
+      {
+        "addr": "0x1C9DE0",
+        "orig": "BOZO!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9DE8",
+    "lines": [
+      {
+        "addr": "0x1C9DE8",
+        "orig": "WELL, IT",
+        "curr": "[UNTRANSLATED: WELL, IT]"
+      },
+      {
+        "addr": "0x1C9DF1",
+        "orig": "STARTS HERE!",
+        "curr": "يَبْدَأُ مِنْ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E00",
+    "lines": [
+      {
+        "addr": "0x1C9E00",
+        "orig": "GOOD LUCK,",
+        "curr": "[UNTRANSLATED: GOOD LUCK,]"
+      },
+      {
+        "addr": "0x1C9E0B",
+        "orig": "HEH, HE...",
+        "curr": "[UNTRANSLATED: HEH, HE...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E18",
+    "lines": [
+      {
+        "addr": "0x1C9E18",
+        "orig": "TAKE HIM",
+        "curr": "[UNTRANSLATED: TAKE HIM]"
+      },
+      {
+        "addr": "0x1C9E21",
+        "orig": "FROM ABOVE--",
+        "curr": "مِنْ فَوْقُ--"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E30",
+    "lines": [
+      {
+        "addr": "0x1C9E30",
+        "orig": "LOOK AROUND!",
+        "curr": "انْظُرْ حَوْلَكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E3E",
+    "lines": [
+      {
+        "addr": "0x1C9E3E",
+        "orig": "THE TEST BEGINS...",
+        "curr": "يَبْدَأُ الِاخْتِبَارُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E52",
+    "lines": [
+      {
+        "addr": "0x1C9E52",
+        "orig": "MAN, THIS",
+        "curr": "[UNTRANSLATED: MAN, THIS]"
+      },
+      {
+        "addr": "0x1C9E5C",
+        "orig": "PIT REEKS!",
+        "curr": "[UNTRANSLATED: PIT REEKS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E68",
+    "lines": [
+      {
+        "addr": "0x1C9E68",
+        "orig": "I WONDER WHAT'S",
+        "curr": "أَتَسَاءَلُ مَا هُوَ"
+      },
+      {
+        "addr": "0x1C9E78",
+        "orig": "ON THE BOTTOM?",
+        "curr": "فِي الْأَسْفَلِ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9E88",
+    "lines": [
+      {
+        "addr": "0x1C9E88",
+        "orig": "I'LL KICK YOUR",
+        "curr": "سَأَرْفُسُ"
+      },
+      {
+        "addr": "0x1C9E97",
+        "orig": "HEAD, WORM!!",
+        "curr": "رَأْسَكَ، يَا دُودَةً!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9EA6",
+    "lines": [
+      {
+        "addr": "0x1C9EA6",
+        "orig": "PUNCHING",
+        "curr": "[UNTRANSLATED: PUNCHING]"
+      },
+      {
+        "addr": "0x1C9EAF",
+        "orig": "BAGS -- COOL!",
+        "curr": "أَكْيَاسٌ -- رَائِعٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9EBE",
+    "lines": [
+      {
+        "addr": "0x1C9EBE",
+        "orig": "DRIED UP SEA SURFACE,",
+        "curr": "سَطْحُ الْبَحْرِ الْجَافِّ،"
+      },
+      {
+        "addr": "0x1C9ED4",
+        "orig": "ZEALAND ATOLLS",
+        "curr": "شُعَبُ زِيلَنْدَ الْمُرْجَانِيَّةُ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9EE4",
+    "lines": [
+      {
+        "addr": "0x1C9EE4",
+        "orig": "WOW, THIS METEOR",
+        "curr": "وَاوْ، هَذَا الْنَيِّزَكُ"
+      },
+      {
+        "addr": "0x1C9EF5",
+        "orig": "SURE DID SOME DAMAGE!",
+        "curr": "بالتَّأْكِيدِ أَحْدَثَ ضَرَراً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9F0C",
+    "lines": [
+      {
+        "addr": "0x1C9F0C",
+        "orig": "SATELLITE PHOTOS",
+        "curr": "صُوَرُ الْأَقْمَارِ الصَّنْعِيَّةِ"
+      },
+      {
+        "addr": "0x1C9F1D",
+        "orig": "SHOW SOME",
+        "curr": "[UNTRANSLATED: SHOW SOME]"
+      },
+      {
+        "addr": "0x1C9F27",
+        "orig": "SUSPICIOUS",
+        "curr": "[UNTRANSLATED: SUSPICIOUS]"
+      },
+      {
+        "addr": "0x1C9F32",
+        "orig": "STRUCTURES HERE...",
+        "curr": "هَيْكَلَاتٌ هُنَا..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9F46",
+    "lines": [
+      {
+        "addr": "0x1C9F46",
+        "orig": "CHECK OUT",
+        "curr": "[UNTRANSLATED: CHECK OUT]"
+      },
+      {
+        "addr": "0x1C9F50",
+        "orig": "THESE REEFS!",
+        "curr": "هَذِهِ الشُّعَبُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9F5E",
+    "lines": [
+      {
+        "addr": "0x1C9F5E",
+        "orig": "FURTHER ALONG",
+        "curr": "أَبْعَدَ عَلَى الطُّولِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9F6E",
+    "lines": [
+      {
+        "addr": "0x1C9F6E",
+        "orig": "MAN, I HATE",
+        "curr": "يَا رَجُلٌ، أَنَا أَكْرَهُ"
+      },
+      {
+        "addr": "0x1C9F7A",
+        "orig": "SEAFOOD!",
+        "curr": "[UNTRANSLATED: SEAFOOD!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9F84",
+    "lines": [
+      {
+        "addr": "0x1C9F84",
+        "orig": "HEY, IT'S GETTING",
+        "curr": "هَيْ، إِنَّهَا تَصِيرُ"
+      },
+      {
+        "addr": "0x1C9F96",
+        "orig": "TIGHT IN HERE!",
+        "curr": "ضَيِّقَةٌ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9FA6",
+    "lines": [
+      {
+        "addr": "0x1C9FA6",
+        "orig": "JUST FEED HIM",
+        "curr": "فَقَطْ أَطْعِمْهُ"
+      },
+      {
+        "addr": "0x1C9FB4",
+        "orig": "SOMETHING...",
+        "curr": "شَيْءٌ مَا..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9FC2",
+    "lines": [
+      {
+        "addr": "0x1C9FC2",
+        "orig": "MUNCH THIS!!!",
+        "curr": "الْتَهَمْ هَذَا!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1C9FD2",
+    "lines": [
+      {
+        "addr": "0x1C9FD2",
+        "orig": "HMM, I DON'T",
+        "curr": "هَمِّ، أَنَا لَا"
+      },
+      {
+        "addr": "0x1C9FDF",
+        "orig": "THINK I SHOULD",
+        "curr": "أَظُنُّ أَنِّي أَجِبْ"
+      },
+      {
+        "addr": "0x1C9FEE",
+        "orig": "BE TOUCHING",
+        "curr": "أَلَّا أَلْمَسَ"
+      },
+      {
+        "addr": "0x1C9FFA",
+        "orig": "THESE...",
+        "curr": "[UNTRANSLATED: THESE...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA004",
+    "lines": [
+      {
+        "addr": "0x1CA004",
+        "orig": "NO, GENIUS,",
+        "curr": "لَا، يَا عَبْقَرِيُّ،"
+      },
+      {
+        "addr": "0x1CA010",
+        "orig": "YOU SURE",
+        "curr": "[UNTRANSLATED: YOU SURE]"
+      },
+      {
+        "addr": "0x1CA019",
+        "orig": "SHOULDN'T!",
+        "curr": "[UNTRANSLATED: SHOULDN'T!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA026",
+    "lines": [
+      {
+        "addr": "0x1CA026",
+        "orig": "A CAVE -- COOL!!",
+        "curr": "كَهْفٌ -- رَائِعٌ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA038",
+    "lines": [
+      {
+        "addr": "0x1CA038",
+        "orig": "ARGH! I SCREWED",
+        "curr": "آرْغْ! أَفْسَدْتُ"
+      },
+      {
+        "addr": "0x1CA048",
+        "orig": "UP AGAIN!",
+        "curr": "[UNTRANSLATED: UP AGAIN!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA054",
+    "lines": [
+      {
+        "addr": "0x1CA054",
+        "orig": "NASTY!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA05C",
+    "lines": [
+      {
+        "addr": "0x1CA05C",
+        "orig": "R'KILL, I LOVE",
+        "curr": "رْكِلْ، أَنَا أُحِبُّ"
+      },
+      {
+        "addr": "0x1CA06B",
+        "orig": "YOU MAN!!",
+        "curr": "[UNTRANSLATED: YOU MAN!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA076",
+    "lines": [
+      {
+        "addr": "0x1CA076",
+        "orig": "SURE, JUST THROW",
+        "curr": "طَبْعاً، فَقَطْ أَلْقِ"
+      },
+      {
+        "addr": "0x1CA087",
+        "orig": "IN SOME LAVA!",
+        "curr": "فِي بَعْضِ الْلَّافَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA096",
+    "lines": [
+      {
+        "addr": "0x1CA096",
+        "orig": "C'MON BEASTIE!",
+        "curr": "تَعَالَ، يَا وَحْشٌ صَغِيرٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA0A6",
+    "lines": [
+      {
+        "addr": "0x1CA0A6",
+        "orig": "EASY GOIN'",
+        "curr": "[UNTRANSLATED: EASY GOIN']"
+      },
+      {
+        "addr": "0x1CA0B1",
+        "orig": "DUDE!",
+        "curr": "[UNTRANSLATED: DUDE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA0B8",
+    "lines": [
+      {
+        "addr": "0x1CA0B8",
+        "orig": "I'M NOT JUMPING",
+        "curr": "أَنَا لَا أَقْفِزُ"
+      },
+      {
+        "addr": "0x1CA0C8",
+        "orig": "IN THERE!",
+        "curr": "[UNTRANSLATED: IN THERE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA0D4",
+    "lines": [
+      {
+        "addr": "0x1CA0D4",
+        "orig": "THERE'S A SWITCH",
+        "curr": "هُنَاكَ مُفْتَاحٌ"
+      },
+      {
+        "addr": "0x1CA0E5",
+        "orig": "ON THE OTHER SIDE...",
+        "curr": "عَلَى الْجَانِبِ الْآخَرِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA0FC",
+    "lines": [
+      {
+        "addr": "0x1CA0FC",
+        "orig": "AND WHO ARE",
+        "curr": "وَمَنْ هُمْ"
+      },
+      {
+        "addr": "0x1CA108",
+        "orig": "YOU GUYS?!?",
+        "curr": "أَنْتُمُ الرِّجَالُ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA116",
+    "lines": [
+      {
+        "addr": "0x1CA116",
+        "orig": "MORTUS IS",
+        "curr": "[UNTRANSLATED: MORTUS IS]"
+      },
+      {
+        "addr": "0x1CA120",
+        "orig": "GETTIN' BUSY!",
+        "curr": "نَشْتَغِلُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA130",
+    "lines": [
+      {
+        "addr": "0x1CA130",
+        "orig": "#@!!!",
+        "curr": "[UNTRANSLATED: #@!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA138",
+    "lines": [
+      {
+        "addr": "0x1CA138",
+        "orig": "I CAN SEE LIGHT",
+        "curr": "أَسْتَطِيعُ رُؤْيَةَ النُّورِ"
+      },
+      {
+        "addr": "0x1CA148",
+        "orig": "AT THE END OF",
+        "curr": "عِنْدَ نِهَايَةِ"
+      },
+      {
+        "addr": "0x1CA156",
+        "orig": "THE TUNNEL!",
+        "curr": "النَّافِقَةِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA164",
+    "lines": [
+      {
+        "addr": "0x1CA164",
+        "orig": "ON THE OTHER SIDE...",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA17A",
+    "lines": [
+      {
+        "addr": "0x1CA17A",
+        "orig": "A SHIPWRECK",
+        "curr": "سَفِينَةٌ غَرِيقَةٌ"
+      },
+      {
+        "addr": "0x1CA186",
+        "orig": "GRAVEYARD!!!",
+        "curr": "مَقْبَرَةٌ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA194",
+    "lines": [
+      {
+        "addr": "0x1CA194",
+        "orig": "I HAVE TO GET",
+        "curr": "عَلَيَّ أَنْ أَحْصُلَ"
+      },
+      {
+        "addr": "0x1CA1A2",
+        "orig": "TO THE SHIPS.",
+        "curr": "إِلَى السُّفُنِ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA1B2",
+    "lines": [
+      {
+        "addr": "0x1CA1B2",
+        "orig": "WE'RE ALIEN",
+        "curr": "نَحْنُ أَجَانِبٌ"
+      },
+      {
+        "addr": "0x1CA1BE",
+        "orig": "RENEGADES...",
+        "curr": "مُتَمَرِّدُونَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA1CC",
+    "lines": [
+      {
+        "addr": "0x1CA1CC",
+        "orig": "THIS PLANET",
+        "curr": "هَذَا الْكَوْكَبُ"
+      },
+      {
+        "addr": "0x1CA1D8",
+        "orig": "WILL BE OURS!",
+        "curr": "سَيَكُونُ لَنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA1E8",
+    "lines": [
+      {
+        "addr": "0x1CA1E8",
+        "orig": "WITHOUT YOU",
+        "curr": "دُونَكَ"
+      },
+      {
+        "addr": "0x1CA1F4",
+        "orig": "HUMANS!!",
+        "curr": "[UNTRANSLATED: HUMANS!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA1FE",
+    "lines": [
+      {
+        "addr": "0x1CA1FE",
+        "orig": "HELLO, FREAK!",
+        "curr": "أَهْلاً، يَا غَرِيبٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA20E",
+    "lines": [
+      {
+        "addr": "0x1CA20E",
+        "orig": "HMM... IS THIS",
+        "curr": "هَمِّ... هَلْ هَذَا"
+      },
+      {
+        "addr": "0x1CA21D",
+        "orig": "SUPPOSED TO",
+        "curr": "مُفْتَرَضٌ أَنْ"
+      },
+      {
+        "addr": "0x1CA229",
+        "orig": "STOP ME?",
+        "curr": "[UNTRANSLATED: STOP ME?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA234",
+    "lines": [
+      {
+        "addr": "0x1CA234",
+        "orig": "THE MINE",
+        "curr": "[UNTRANSLATED: THE MINE]"
+      },
+      {
+        "addr": "0x1CA23D",
+        "orig": "MAY SUSTAIN",
+        "curr": "قَدْ يَحْمِلُ"
+      },
+      {
+        "addr": "0x1CA249",
+        "orig": "A LIGHTER",
+        "curr": "[UNTRANSLATED: A LIGHTER]"
+      },
+      {
+        "addr": "0x1CA253",
+        "orig": "CREATURE",
+        "curr": "[UNTRANSLATED: CREATURE]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA25E",
+    "lines": [
+      {
+        "addr": "0x1CA25E",
+        "orig": "SHORTCUT",
+        "curr": "[UNTRANSLATED: SHORTCUT]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA268",
+    "lines": [
+      {
+        "addr": "0x1CA268",
+        "orig": "EXCELLENT, DUDE!!",
+        "curr": "مُمْتَازٌ، يَا صَدِيقِي!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA284",
+    "lines": [
+      {
+        "addr": "0x1CA284",
+        "orig": "GRAVE SHIPYARD",
+        "curr": "مَرْسَى السُّفُنِ الْمَيْتَةِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA294",
+    "lines": [
+      {
+        "addr": "0x1CA294",
+        "orig": "MAN, SPOOKY STUFF!",
+        "curr": "يَا رَجُلٌ، أَشْيَاءُ مُرْعِبَةٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA2A8",
+    "lines": [
+      {
+        "addr": "0x1CA2A8",
+        "orig": "AH, I SEE",
+        "curr": "[UNTRANSLATED: AH, I SEE]"
+      },
+      {
+        "addr": "0x1CA2B2",
+        "orig": "SOME GOODS!",
+        "curr": "بَعْضُ الْبَضَائِعِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA2C0",
+    "lines": [
+      {
+        "addr": "0x1CA2C0",
+        "orig": "WATCH YOUR STEP!!",
+        "curr": "اِنْتَبِهْ لِخُطْوَتِكَ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA2D4",
+    "lines": [
+      {
+        "addr": "0x1CA2D4",
+        "orig": "GEE, THANKS!",
+        "curr": "جِيزْ، شُكْراً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA2E2",
+    "lines": [
+      {
+        "addr": "0x1CA2E2",
+        "orig": "THIS LOOKS",
+        "curr": "[UNTRANSLATED: THIS LOOKS]"
+      },
+      {
+        "addr": "0x1CA2ED",
+        "orig": "VERY SERIOUS!!",
+        "curr": "جِدِّيٌّ جِدّاً!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA2FE",
+    "lines": [
+      {
+        "addr": "0x1CA2FE",
+        "orig": "WE NEEDED",
+        "curr": "[UNTRANSLATED: WE NEEDED]"
+      },
+      {
+        "addr": "0x1CA308",
+        "orig": "A NEW HOME",
+        "curr": "[UNTRANSLATED: A NEW HOME]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA314",
+    "lines": [
+      {
+        "addr": "0x1CA314",
+        "orig": "BUT OUR METEOR",
+        "curr": "لَكِنْ نَيِّزَكُنَا"
+      },
+      {
+        "addr": "0x1CA323",
+        "orig": "ATTACK FAILED!",
+        "curr": "الْهُجُومُ فَشِلَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA334",
+    "lines": [
+      {
+        "addr": "0x1CA334",
+        "orig": "YOU HUMANS",
+        "curr": "[UNTRANSLATED: YOU HUMANS]"
+      },
+      {
+        "addr": "0x1CA33F",
+        "orig": "SURVIVED...",
+        "curr": "نَجَا..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA34C",
+    "lines": [
+      {
+        "addr": "0x1CA34C",
+        "orig": "BUT NOW, YER",
+        "curr": "لَكِنْ الآنَ، يَا"
+      },
+      {
+        "addr": "0x1CA359",
+        "orig": "TIME'S UP!!!",
+        "curr": "انْتَهَى الْوَقْتُ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA368",
+    "lines": [
+      {
+        "addr": "0x1CA368",
+        "orig": "WHAT ARE YOU",
+        "curr": ""
+      },
+      {
+        "addr": "0x1CA375",
+        "orig": "UP TO DWEEBS?",
+        "curr": "إِلَى الْأَغْبِيَاءِ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA384",
+    "lines": [
+      {
+        "addr": "0x1CA384",
+        "orig": "WE'RE PICKING UP",
+        "curr": "نَحْنُ نَلْتَقِطُ"
+      },
+      {
+        "addr": "0x1CA395",
+        "orig": "HIGH LEVELS OF",
+        "curr": "مُسْتَوَيَاتٌ عَالِيَةٌ مِنْ"
+      },
+      {
+        "addr": "0x1CA3A4",
+        "orig": "NU-K RADIATION!!",
+        "curr": "إِشْعَاعُ نُو-كَاي!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA3B6",
+    "lines": [
+      {
+        "addr": "0x1CA3B6",
+        "orig": "INSIDE THE LARGEST FREIGHTER",
+        "curr": "دَاخِلَ أَكْبَرِ نَاقِلَةِ بُضَاعَةٍ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA3D4",
+    "lines": [
+      {
+        "addr": "0x1CA3D4",
+        "orig": "HMM, LOOKS LIKE",
+        "curr": "هَمِّ، يَبْدُو كَأَنَّ"
+      },
+      {
+        "addr": "0x1CA3E4",
+        "orig": "SOME FACTORY?",
+        "curr": "مَصْنَعاً مَا؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA3F4",
+    "lines": [
+      {
+        "addr": "0x1CA3F4",
+        "orig": "GOTTA GO",
+        "curr": "[UNTRANSLATED: GOTTA GO]"
+      },
+      {
+        "addr": "0x1CA3FD",
+        "orig": "FURTHER IN...",
+        "curr": "أَبْعَدَ إِلَى الدَّاخِلِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA40C",
+    "lines": [
+      {
+        "addr": "0x1CA40C",
+        "orig": "ON DECK",
+        "curr": "[UNTRANSLATED: ON DECK]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA416",
+    "lines": [
+      {
+        "addr": "0x1CA416",
+        "orig": "MAN, I DON'T",
+        "curr": "يَا رَجُلٌ، أَنَا لَا"
+      },
+      {
+        "addr": "0x1CA423",
+        "orig": "KNOW!?!",
+        "curr": "[UNTRANSLATED: KNOW!?!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA42C",
+    "lines": [
+      {
+        "addr": "0x1CA42C",
+        "orig": "YOU GOTTA",
+        "curr": "[UNTRANSLATED: YOU GOTTA]"
+      },
+      {
+        "addr": "0x1CA436",
+        "orig": "GET INSIDE",
+        "curr": "[UNTRANSLATED: GET INSIDE]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA442",
+    "lines": [
+      {
+        "addr": "0x1CA442",
+        "orig": "INSIDE...",
+        "curr": "[UNTRANSLATED: INSIDE...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA44E",
+    "lines": [
+      {
+        "addr": "0x1CA44E",
+        "orig": "WHAT'S THAT? A MINE",
+        "curr": "مَا ذَاكَ؟ لُغْمٌ"
+      },
+      {
+        "addr": "0x1CA462",
+        "orig": "WITHOUT FUSES?",
+        "curr": "بِدُونِ صَوَامِيلَ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA472",
+    "lines": [
+      {
+        "addr": "0x1CA472",
+        "orig": "THIS PRESS SEEMS",
+        "curr": "هَذِهِ الْمَكْبَسَةُ تَبْدُو"
+      },
+      {
+        "addr": "0x1CA483",
+        "orig": "TO PACK SOME PUNCH!",
+        "curr": "أَنَّهَا تَحْمِلُ لَكْمَةً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA498",
+    "lines": [
+      {
+        "addr": "0x1CA498",
+        "orig": "NEXT ROOM!",
+        "curr": "[UNTRANSLATED: NEXT ROOM!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA4A4",
+    "lines": [
+      {
+        "addr": "0x1CA4A4",
+        "orig": "#@!!?!",
+        "curr": "[UNTRANSLATED: #@!!?!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA4AC",
+    "lines": [
+      {
+        "addr": "0x1CA4AC",
+        "orig": "DON'T",
+        "curr": "[UNTRANSLATED: DON'T]"
+      },
+      {
+        "addr": "0x1CA4B2",
+        "orig": "'BLOW' IT!",
+        "curr": "[UNTRANSLATED: 'BLOW' IT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA4BE",
+    "lines": [
+      {
+        "addr": "0x1CA4BE",
+        "orig": "ALISSA, IT'S MORTUS'",
+        "curr": "أَلِيسَا، إِنَّهَا مورتوسْ"
+      },
+      {
+        "addr": "0x1CA4D3",
+        "orig": "WEAPONS FACTORY!",
+        "curr": "مَصْنَعُ الأَسْلِحَةِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA4E6",
+    "lines": [
+      {
+        "addr": "0x1CA4E6",
+        "orig": "WE GOTTA BLOW",
+        "curr": "عَلَيْنَا أَنْ نَفْجَرَ"
+      },
+      {
+        "addr": "0x1CA4F4",
+        "orig": "THIS PLACE!",
+        "curr": "هَذَا الْمَكَانَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA502",
+    "lines": [
+      {
+        "addr": "0x1CA502",
+        "orig": "WE'LL NUKE ALL",
+        "curr": "سَنُفَجِّرُ بِالنَّوَوِيِّ الْكُلَّ"
+      },
+      {
+        "addr": "0x1CA511",
+        "orig": "HUMAN LIFE OFF",
+        "curr": "الْحَيَاةَ الْبَشَرِيَّةَ عَنْ"
+      },
+      {
+        "addr": "0x1CA520",
+        "orig": "THIS PLANET!",
+        "curr": "هَذَا الْكَوْكَبَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA52E",
+    "lines": [
+      {
+        "addr": "0x1CA52E",
+        "orig": "SKETCH, THIS IS",
+        "curr": "سْكِيتْشُ، هَذَا هُوَ"
+      },
+      {
+        "addr": "0x1CA53E",
+        "orig": "MAJOR #@!!",
+        "curr": "[UNTRANSLATED: MAJOR #@!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA54A",
+    "lines": [
+      {
+        "addr": "0x1CA54A",
+        "orig": "THERE'S A NUKE IN",
+        "curr": "هُنَاكَ قَنَابِلُ نَوَوِيَّةٌ فِي"
+      },
+      {
+        "addr": "0x1CA55C",
+        "orig": "THERE SOMEWHERE!",
+        "curr": "هُنَاكَ فِي مَكَانٍ مَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA56E",
+    "lines": [
+      {
+        "addr": "0x1CA56E",
+        "orig": "OUR PLAN WILL",
+        "curr": "خُطَّتُنَا سَتَ"
+      },
+      {
+        "addr": "0x1CA57C",
+        "orig": "GO THROUGH!",
+        "curr": "تَنْفُذُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA58A",
+    "lines": [
+      {
+        "addr": "0x1CA58A",
+        "orig": "NOT IF I CAN",
+        "curr": "لَنْ يَكُونَ، إِنْ أَسْتَطَعْتُ"
+      },
+      {
+        "addr": "0x1CA597",
+        "orig": "HELP IT...",
+        "curr": "[UNTRANSLATED: HELP IT...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA5A4",
+    "lines": [
+      {
+        "addr": "0x1CA5A4",
+        "orig": "I'M FLYING IN...",
+        "curr": "أَنَا أَطِيرُ إِلَى الدَّاخِلِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA5B6",
+    "lines": [
+      {
+        "addr": "0x1CA5B6",
+        "orig": "I'LL BE",
+        "curr": "[UNTRANSLATED: I'LL BE]"
+      },
+      {
+        "addr": "0x1CA5BE",
+        "orig": "THERE SHORTLY!",
+        "curr": "هُنَاكَ قَرِيباً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA5CE",
+    "lines": [
+      {
+        "addr": "0x1CA5CE",
+        "orig": "END OF HULL",
+        "curr": "نِهَايَةُ الْهَيْكَلِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA5DC",
+    "lines": [
+      {
+        "addr": "0x1CA5DC",
+        "orig": "WHAT'S THAT",
+        "curr": ""
+      },
+      {
+        "addr": "0x1CA5E8",
+        "orig": "HUMMING SOUND?",
+        "curr": "صَوْتُ هَمْهَمَةٍ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA5F8",
+    "lines": [
+      {
+        "addr": "0x1CA5F8",
+        "orig": "IT COMES FROM",
+        "curr": "يَأْتِي مِنْ"
+      },
+      {
+        "addr": "0x1CA606",
+        "orig": "BEHIND THIS DOOR...",
+        "curr": "خَلْفَ هَذَا الْبَابِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA61C",
+    "lines": [
+      {
+        "addr": "0x1CA61C",
+        "orig": "NUKE, READY TO LAUNCH!",
+        "curr": "النَّوَوِيُّ، جَاهِزٌ لِلإِطْلَاقِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA634",
+    "lines": [
+      {
+        "addr": "0x1CA634",
+        "orig": "@#!?!!",
+        "curr": "[UNTRANSLATED: @#!?!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA63C",
+    "lines": [
+      {
+        "addr": "0x1CA63C",
+        "orig": "LIKE, WHAT'S MY",
+        "curr": "مِثْلُ، مَا هُوَ دَوْرِي"
+      },
+      {
+        "addr": "0x1CA64C",
+        "orig": "PART IN THIS?!?",
+        "curr": "دَوْرِي فِي هَذَا؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA65E",
+    "lines": [
+      {
+        "addr": "0x1CA65E",
+        "orig": "UPHH, JUST MADE",
+        "curr": "أُفْ، فَقَطْ صَنَعْتُ"
+      },
+      {
+        "addr": "0x1CA66E",
+        "orig": "IT IN TIME...",
+        "curr": "إِيَّاهُ فِي الْوَقْتِ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA67E",
+    "lines": [
+      {
+        "addr": "0x1CA67E",
+        "orig": "STAY PUT, I GOTTA",
+        "curr": "ابْقَ مَكَانَكَ، عَلَيَّ"
+      },
+      {
+        "addr": "0x1CA690",
+        "orig": "DEFUSE THIS THING!",
+        "curr": "إِزَالَةُ تَسْلِيحِ هَذَا الشَّيْءِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA6A4",
+    "lines": [
+      {
+        "addr": "0x1CA6A4",
+        "orig": "C'MERE, SWEETHEART!",
+        "curr": "تَعَالَ هُنَا، يَا حَبِيبَتِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA6BA",
+    "lines": [
+      {
+        "addr": "0x1CA6BA",
+        "orig": "THIS NUKE WILL",
+        "curr": "هَذِهِ الْقَنَابِلُ سَتَ"
+      },
+      {
+        "addr": "0x1CA6C9",
+        "orig": "BLOW YOUR EMPIRE",
+        "curr": "تَدْمَرُ إِمْبَرَاطُورِيَّتَكَ"
+      },
+      {
+        "addr": "0x1CA6DA",
+        "orig": "TO SHREDS!",
+        "curr": "[UNTRANSLATED: TO SHREDS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA6E6",
+    "lines": [
+      {
+        "addr": "0x1CA6E6",
+        "orig": "...AND YOU'RE",
+        "curr": "...وَأَنْتَ"
+      },
+      {
+        "addr": "0x1CA6F4",
+        "orig": "GOING WITH IT!",
+        "curr": "تَذْهَبُ مَعَهُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA704",
+    "lines": [
+      {
+        "addr": "0x1CA704",
+        "orig": "HERE, FILL 'ER UP!",
+        "curr": "هُنَا، امْلَأْهَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA718",
+    "lines": [
+      {
+        "addr": "0x1CA718",
+        "orig": "?!??!?",
+        "curr": "[UNTRANSLATED: ?!??!?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA720",
+    "lines": [
+      {
+        "addr": "0x1CA720",
+        "orig": "WHAT'S THE MATTER",
+        "curr": "مَا الْأَمْرُ"
+      },
+      {
+        "addr": "0x1CA732",
+        "orig": "NOW, SKETCH?",
+        "curr": "الآنَ، يَا سْكِيتْشُ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA740",
+    "lines": [
+      {
+        "addr": "0x1CA740",
+        "orig": "GETTIN' CHICKEN?",
+        "curr": "تَحْصُلُ عَلَى دَجَاجَةٍ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA752",
+    "lines": [
+      {
+        "addr": "0x1CA752",
+        "orig": "LEMME SEE HOW",
+        "curr": "خَلِّنِي أَرَى كَيْفَ"
+      },
+      {
+        "addr": "0x1CA760",
+        "orig": "GOOD YOU REALLY ARE!",
+        "curr": "جَيِّدٌ أَنْتَ حَقّاً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA776",
+    "lines": [
+      {
+        "addr": "0x1CA776",
+        "orig": "CHICKEN THIS,",
+        "curr": "دَجَاجَةٌ هَذِهِ،"
+      },
+      {
+        "addr": "0x1CA784",
+        "orig": "FREAK!!!",
+        "curr": "[UNTRANSLATED: FREAK!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA78E",
+    "lines": [
+      {
+        "addr": "0x1CA78E",
+        "orig": "QUICK, HIT",
+        "curr": "[UNTRANSLATED: QUICK, HIT]"
+      },
+      {
+        "addr": "0x1CA799",
+        "orig": "THE SWITCH!",
+        "curr": "الْمُفْتَاحُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA7A6",
+    "lines": [
+      {
+        "addr": "0x1CA7A6",
+        "orig": "A MAGNET",
+        "curr": "[UNTRANSLATED: A MAGNET]"
+      },
+      {
+        "addr": "0x1CA7AF",
+        "orig": "CRANE?!",
+        "curr": "[UNTRANSLATED: CRANE?!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA7B8",
+    "lines": [
+      {
+        "addr": "0x1CA7B8",
+        "orig": "LOOKS LIKE A MINE",
+        "curr": "يَبْدُو كَلُغْمٍ"
+      },
+      {
+        "addr": "0x1CA7CA",
+        "orig": "WITHOUT FUSES?",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA7DA",
+    "lines": [
+      {
+        "addr": "0x1CA7DA",
+        "orig": "WHAT, COULDN'T",
+        "curr": "مَا، أَلَمْ تَسْتَطِعْ"
+      },
+      {
+        "addr": "0x1CA7E9",
+        "orig": "TAKE THE LOAD?",
+        "curr": "أَنْ تَحْمِلَ الْحِمْلاَ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA7FA",
+    "lines": [
+      {
+        "addr": "0x1CA7FA",
+        "orig": "THIS IS ONE",
+        "curr": "هَذَا وَاحِدٌ"
+      },
+      {
+        "addr": "0x1CA806",
+        "orig": "HEAVY-DUTY DOOR",
+        "curr": "بَابٌ ثَقِيلُ الْوَزْنِ"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA818",
+    "lines": [
+      {
+        "addr": "0x1CA818",
+        "orig": "<UNGGH",
+        "curr": "[UNTRANSLATED: <UNGGH]"
+      },
+      {
+        "addr": "0x1CA81F",
+        "orig": "<MY HEAD!!",
+        "curr": "[UNTRANSLATED: <MY HEAD!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA82C",
+    "lines": [
+      {
+        "addr": "0x1CA82C",
+        "orig": "<HA HA!!",
+        "curr": "[UNTRANSLATED: <HA HA!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA836",
+    "lines": [
+      {
+        "addr": "0x1CA836",
+        "orig": "<DON'T TOUCH ME!",
+        "curr": "<لَا تَلْمِسْنِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA848",
+    "lines": [
+      {
+        "addr": "0x1CA848",
+        "orig": "<LOSER!!",
+        "curr": "[UNTRANSLATED: <LOSER!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA852",
+    "lines": [
+      {
+        "addr": "0x1CA852",
+        "orig": "<COMIN' THROUGH!",
+        "curr": "<آتٍ مِنْ خِلَالِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA864",
+    "lines": [
+      {
+        "addr": "0x1CA864",
+        "orig": "<NICE TRY!!",
+        "curr": "<مُحَاولَةٌ جَيِّدَةٌ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA872",
+    "lines": [
+      {
+        "addr": "0x1CA872",
+        "orig": "<TAKE THAT!!",
+        "curr": "<خُذْ ذَاكَ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA880",
+    "lines": [
+      {
+        "addr": "0x1CA880",
+        "orig": "<GOING UP!",
+        "curr": "[UNTRANSLATED: <GOING UP!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA88C",
+    "lines": [
+      {
+        "addr": "0x1CA88C",
+        "orig": "<COME HERE!",
+        "curr": "<تَعَالَ إِلَى هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA89A",
+    "lines": [
+      {
+        "addr": "0x1CA89A",
+        "orig": "<KEEP BACK!",
+        "curr": "<ابْقَ خَلْفِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA8A8",
+    "lines": [
+      {
+        "addr": "0x1CA8A8",
+        "orig": "<LOOK WHERE",
+        "curr": "<انْظُرْ إِلَى أَيْنَ"
+      },
+      {
+        "addr": "0x1CA8B4",
+        "orig": "<YOU'RE GOING!!",
+        "curr": "<أَنْتَ تَذْهَبُ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA8C6",
+    "lines": [
+      {
+        "addr": "0x1CA8C6",
+        "orig": "<WATCH IT!",
+        "curr": "[UNTRANSLATED: <WATCH IT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA8D2",
+    "lines": [
+      {
+        "addr": "0x1CA8D2",
+        "orig": "<OUR FORM IS",
+        "curr": "<شَكْلُنَا هُوَ"
+      },
+      {
+        "addr": "0x1CA8DF",
+        "orig": "<FLEXIBLE...",
+        "curr": "<مُرِنٌ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA8EE",
+    "lines": [
+      {
+        "addr": "0x1CA8EE",
+        "orig": "<COME DOWN,",
+        "curr": "<انْزِلْ،"
+      },
+      {
+        "addr": "0x1CA8FA",
+        "orig": "<YOU CHICKEN!",
+        "curr": "<أَنْتَ جَبَانٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA90A",
+    "lines": [
+      {
+        "addr": "0x1CA90A",
+        "orig": "BACK OFF!!",
+        "curr": "[UNTRANSLATED: BACK OFF!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA916",
+    "lines": [
+      {
+        "addr": "0x1CA916",
+        "orig": "NO RATS",
+        "curr": "[UNTRANSLATED: NO RATS]"
+      },
+      {
+        "addr": "0x1CA91E",
+        "orig": "'ROUND HERE!",
+        "curr": "حَوْلَ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA92C",
+    "lines": [
+      {
+        "addr": "0x1CA92C",
+        "orig": "WATCH IT, PARTNER!",
+        "curr": "احْتَرِزْ، يَا شَرِيكِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA940",
+    "lines": [
+      {
+        "addr": "0x1CA940",
+        "orig": "NOW WHAT?!?",
+        "curr": "الآنَ مَاذَا؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA94E",
+    "lines": [
+      {
+        "addr": "0x1CA94E",
+        "orig": "COME ON!",
+        "curr": "[UNTRANSLATED: COME ON!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA958",
+    "lines": [
+      {
+        "addr": "0x1CA958",
+        "orig": "COME TO PAPA!",
+        "curr": "تَعَالَ إِلَى أَبِيكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA968",
+    "lines": [
+      {
+        "addr": "0x1CA968",
+        "orig": "WHAT'S THE",
+        "curr": ""
+      },
+      {
+        "addr": "0x1CA973",
+        "orig": "MATTER?",
+        "curr": "[UNTRANSLATED: MATTER?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA97C",
+    "lines": [
+      {
+        "addr": "0x1CA97C",
+        "orig": "<LEMME FEEL",
+        "curr": "<خَلِّنِي أَشْعُرُ"
+      },
+      {
+        "addr": "0x1CA988",
+        "orig": "<YER RIBS!",
+        "curr": "[UNTRANSLATED: <YER RIBS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA994",
+    "lines": [
+      {
+        "addr": "0x1CA994",
+        "orig": "STOP THAT!!",
+        "curr": "تَوَقَّفْ عَنْ ذَاكَ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9A2",
+    "lines": [
+      {
+        "addr": "0x1CA9A2",
+        "orig": "YOU TRICKED",
+        "curr": "خَدَعْتَنِي"
+      },
+      {
+        "addr": "0x1CA9AE",
+        "orig": "ME OUT!@#!",
+        "curr": "[UNTRANSLATED: ME OUT!@#!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9BA",
+    "lines": [
+      {
+        "addr": "0x1CA9BA",
+        "orig": "GETTIN' FANCY?!?",
+        "curr": "تَتَصَنَّعُ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9CC",
+    "lines": [
+      {
+        "addr": "0x1CA9CC",
+        "orig": "YOU ARE",
+        "curr": "[UNTRANSLATED: YOU ARE]"
+      },
+      {
+        "addr": "0x1CA9D4",
+        "orig": "BORING ME...",
+        "curr": "تُمَلِّينِي..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9E2",
+    "lines": [
+      {
+        "addr": "0x1CA9E2",
+        "orig": "YOU GOT ME!",
+        "curr": "أَمْسَكْتَنِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9F0",
+    "lines": [
+      {
+        "addr": "0x1CA9F0",
+        "orig": "AIGHH!@#!",
+        "curr": "[UNTRANSLATED: AIGHH!@#!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CA9FC",
+    "lines": [
+      {
+        "addr": "0x1CA9FC",
+        "orig": "OVER HERE!",
+        "curr": "[UNTRANSLATED: OVER HERE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA08",
+    "lines": [
+      {
+        "addr": "0x1CAA08",
+        "orig": "COUGH, COUGH...",
+        "curr": "سُعَالٌ، سُعَالٌ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA2A",
+    "lines": [
+      {
+        "addr": "0x1CAA2A",
+        "orig": "SCREECH!",
+        "curr": "[UNTRANSLATED: SCREECH!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA34",
+    "lines": [
+      {
+        "addr": "0x1CAA34",
+        "orig": "<AAARRGGGHHH!",
+        "curr": "<آآآرْغْغْغْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA44",
+    "lines": [
+      {
+        "addr": "0x1CAA44",
+        "orig": "EH??!?",
+        "curr": "[UNTRANSLATED: EH??!?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA4C",
+    "lines": [
+      {
+        "addr": "0x1CAA4C",
+        "orig": "NOT THIS TIME!",
+        "curr": "لَيْسَ هَذِهِ الْمَرَّةَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA5C",
+    "lines": [
+      {
+        "addr": "0x1CAA5C",
+        "orig": "GET DOWN HERE",
+        "curr": "انْزِلْ إِلَى هُنَا"
+      },
+      {
+        "addr": "0x1CAA6A",
+        "orig": "YOU SHMUCK!",
+        "curr": "يَا أَحْمَقَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA78",
+    "lines": [
+      {
+        "addr": "0x1CAA78",
+        "orig": "COME ON!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAA82",
+    "lines": [
+      {
+        "addr": "0x1CAA82",
+        "orig": "I'M GONNA BREAK",
+        "curr": "سَأَكْسِرُ"
+      },
+      {
+        "addr": "0x1CAA92",
+        "orig": "YER LEGS!!!",
+        "curr": "سَاقَيْكَ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAAA0",
+    "lines": [
+      {
+        "addr": "0x1CAAA0",
+        "orig": "LEMME SEE",
+        "curr": "[UNTRANSLATED: LEMME SEE]"
+      },
+      {
+        "addr": "0x1CAAAA",
+        "orig": "YER LUNGS!",
+        "curr": "[UNTRANSLATED: YER LUNGS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAAB6",
+    "lines": [
+      {
+        "addr": "0x1CAAB6",
+        "orig": "YO SKETCH -- CATCH!",
+        "curr": "يَا سْكِيتْشُ -- الْتَقِطْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAACC",
+    "lines": [
+      {
+        "addr": "0x1CAACC",
+        "orig": "HOP THIS!",
+        "curr": "[UNTRANSLATED: HOP THIS!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAAD8",
+    "lines": [
+      {
+        "addr": "0x1CAAD8",
+        "orig": "JUST DO",
+        "curr": "[UNTRANSLATED: JUST DO]"
+      },
+      {
+        "addr": "0x1CAAE0",
+        "orig": "IT AGAIN!",
+        "curr": "[UNTRANSLATED: IT AGAIN!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAAEC",
+    "lines": [
+      {
+        "addr": "0x1CAAEC",
+        "orig": "THAT HURT,",
+        "curr": "[UNTRANSLATED: THAT HURT,]"
+      },
+      {
+        "addr": "0x1CAAF7",
+        "orig": "HUMAN!",
+        "curr": "[UNTRANSLATED: HUMAN!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB00",
+    "lines": [
+      {
+        "addr": "0x1CAB00",
+        "orig": "UUUNGH!!",
+        "curr": "[UNTRANSLATED: UUUNGH!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB0A",
+    "lines": [
+      {
+        "addr": "0x1CAB0A",
+        "orig": "C'MERE, HUMAN!",
+        "curr": "تَعَالَ هُنَا، يَا بَشَرِيُّ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB1A",
+    "lines": [
+      {
+        "addr": "0x1CAB1A",
+        "orig": "BUZZ OFF!",
+        "curr": "[UNTRANSLATED: BUZZ OFF!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB26",
+    "lines": [
+      {
+        "addr": "0x1CAB26",
+        "orig": "?!?!!",
+        "curr": "[UNTRANSLATED: ?!?!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB2E",
+    "lines": [
+      {
+        "addr": "0x1CAB2E",
+        "orig": "I'LL CRUSH",
+        "curr": "[UNTRANSLATED: I'LL CRUSH]"
+      },
+      {
+        "addr": "0x1CAB39",
+        "orig": "THIS RODENT!",
+        "curr": "هَذَا الْقَارِضُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB48",
+    "lines": [
+      {
+        "addr": "0x1CAB48",
+        "orig": "ARGH--YOU FOUND",
+        "curr": "آرْغْ--وَجَدْتَ"
+      },
+      {
+        "addr": "0x1CAB58",
+        "orig": "MY WEAKNESS!",
+        "curr": "نُقْضَتِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB66",
+    "lines": [
+      {
+        "addr": "0x1CAB66",
+        "orig": "I KNOW THIS TRICK!",
+        "curr": "أَعْرِفُ هَذِهِ الْحِيلَةَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB7A",
+    "lines": [
+      {
+        "addr": "0x1CAB7A",
+        "orig": "YER JUMP-KICKS",
+        "curr": "رَكْلاتُكَ الْقَفْزِيَّةُ"
+      },
+      {
+        "addr": "0x1CAB89",
+        "orig": "ARE LAME!",
+        "curr": "[UNTRANSLATED: ARE LAME!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAB94",
+    "lines": [
+      {
+        "addr": "0x1CAB94",
+        "orig": "THIS IS GETTIN'",
+        "curr": "هَذَا يَصِيرُ"
+      },
+      {
+        "addr": "0x1CABA4",
+        "orig": "REALLY OLD...",
+        "curr": "قَدِيمٌ جِدّاً..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CABB4",
+    "lines": [
+      {
+        "addr": "0x1CABB4",
+        "orig": "I CAN FIGHT",
+        "curr": "أَسْتَطِيعُ الْقِتَالَ"
+      },
+      {
+        "addr": "0x1CABC0",
+        "orig": "YOUR WAY...",
+        "curr": "طَرِيقَكَ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CABCE",
+    "lines": [
+      {
+        "addr": "0x1CABCE",
+        "orig": "I'LL TAKE",
+        "curr": "[UNTRANSLATED: I'LL TAKE]"
+      },
+      {
+        "addr": "0x1CABD8",
+        "orig": "YOU DOWN!",
+        "curr": "[UNTRANSLATED: YOU DOWN!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CABE4",
+    "lines": [
+      {
+        "addr": "0x1CABE4",
+        "orig": "WHAT'CHA",
+        "curr": "[UNTRANSLATED: WHAT'CHA]"
+      },
+      {
+        "addr": "0x1CABED",
+        "orig": "GONNA DO??",
+        "curr": "[UNTRANSLATED: GONNA DO??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CABFA",
+    "lines": [
+      {
+        "addr": "0x1CABFA",
+        "orig": "SORRY, TOO SLOW!",
+        "curr": "آسِفٌ، بَطِيءٌ جِدّاً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC0C",
+    "lines": [
+      {
+        "addr": "0x1CAC0C",
+        "orig": "GOIN' UP!",
+        "curr": "[UNTRANSLATED: GOIN' UP!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC18",
+    "lines": [
+      {
+        "addr": "0x1CAC18",
+        "orig": "LOW-HI!",
+        "curr": "[UNTRANSLATED: LOW-HI!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC22",
+    "lines": [
+      {
+        "addr": "0x1CAC22",
+        "orig": "ARGH, MISSED!",
+        "curr": "آرْغْ، أَخْفَقْتُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC32",
+    "lines": [
+      {
+        "addr": "0x1CAC32",
+        "orig": "HI-LOW!",
+        "curr": "[UNTRANSLATED: HI-LOW!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC3C",
+    "lines": [
+      {
+        "addr": "0x1CAC3C",
+        "orig": "YA WIMP!",
+        "curr": "[UNTRANSLATED: YA WIMP!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC46",
+    "lines": [
+      {
+        "addr": "0x1CAC46",
+        "orig": "COME ON!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC50",
+    "lines": [
+      {
+        "addr": "0x1CAC50",
+        "orig": "COMIN' DOWN!",
+        "curr": "نَازِلٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC5E",
+    "lines": [
+      {
+        "addr": "0x1CAC5E",
+        "orig": "YOU GOT ME",
+        "curr": "[UNTRANSLATED: YOU GOT ME]"
+      },
+      {
+        "addr": "0x1CAC69",
+        "orig": "FIGURED OUT!@#",
+        "curr": "فَهَمْتُهُ!@#"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC7A",
+    "lines": [
+      {
+        "addr": "0x1CAC7A",
+        "orig": "THIS MOVE IS",
+        "curr": "هَذِهِ الْحَرَكَةُ هِيَ"
+      },
+      {
+        "addr": "0x1CAC87",
+        "orig": "USELESS...",
+        "curr": "[UNTRANSLATED: USELESS...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAC94",
+    "lines": [
+      {
+        "addr": "0x1CAC94",
+        "orig": "PAY ATTENTION!",
+        "curr": "انْتَبِهْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACA4",
+    "lines": [
+      {
+        "addr": "0x1CACA4",
+        "orig": "YOUR STRATEGY",
+        "curr": "اِسْتِرَاتِيجِيَّتُكَ"
+      },
+      {
+        "addr": "0x1CACB2",
+        "orig": "NEEDS WORK!",
+        "curr": "تَحْتَاجُ إِلَى عَمَلٍ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACC0",
+    "lines": [
+      {
+        "addr": "0x1CACC0",
+        "orig": "GET LOST!!",
+        "curr": "[UNTRANSLATED: GET LOST!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACCC",
+    "lines": [
+      {
+        "addr": "0x1CACCC",
+        "orig": "FILTHY ANIMAL!",
+        "curr": "حَيَوَانٌ قَذِرٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACDC",
+    "lines": [
+      {
+        "addr": "0x1CACDC",
+        "orig": "HEY?!?",
+        "curr": "[UNTRANSLATED: HEY?!?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACE4",
+    "lines": [
+      {
+        "addr": "0x1CACE4",
+        "orig": "IN YER FACE!",
+        "curr": "فِي وَجْهِكَ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CACF2",
+    "lines": [
+      {
+        "addr": "0x1CACF2",
+        "orig": "CHEW ON THIS!",
+        "curr": "امْضِغْ هَذَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD02",
+    "lines": [
+      {
+        "addr": "0x1CAD02",
+        "orig": "AYA!@#!",
+        "curr": "[UNTRANSLATED: AYA!@#!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD0C",
+    "lines": [
+      {
+        "addr": "0x1CAD0C",
+        "orig": "!@#?@!!",
+        "curr": "[UNTRANSLATED: !@#?@!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD16",
+    "lines": [
+      {
+        "addr": "0x1CAD16",
+        "orig": "OFF YOU GO!",
+        "curr": "انْطَلِقْ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD24",
+    "lines": [
+      {
+        "addr": "0x1CAD24",
+        "orig": "SIC 'EM BOY!",
+        "curr": "هَاجِمْهُ يَا وَلَدُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD32",
+    "lines": [
+      {
+        "addr": "0x1CAD32",
+        "orig": "AH, HERE YOU ARE!",
+        "curr": "آهْ، هَأَنْتَ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD46",
+    "lines": [
+      {
+        "addr": "0x1CAD46",
+        "orig": "NICE JOB!",
+        "curr": "[UNTRANSLATED: NICE JOB!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD52",
+    "lines": [
+      {
+        "addr": "0x1CAD52",
+        "orig": "EEEK!",
+        "curr": "[UNTRANSLATED: EEEK!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD5A",
+    "lines": [
+      {
+        "addr": "0x1CAD5A",
+        "orig": "BRO-THER?!?",
+        "curr": "أَخٌ--أَخِي؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD68",
+    "lines": [
+      {
+        "addr": "0x1CAD68",
+        "orig": "UNGH?@!#?",
+        "curr": "[UNTRANSLATED: UNGH?@!#?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD74",
+    "lines": [
+      {
+        "addr": "0x1CAD74",
+        "orig": "<DUMBH'A",
+        "curr": "[UNTRANSLATED: <DUMBH'A]"
+      },
+      {
+        "addr": "0x1CAD7D",
+        "orig": "<HU-MAN!",
+        "curr": "[UNTRANSLATED: <HU-MAN!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD88",
+    "lines": [
+      {
+        "addr": "0x1CAD88",
+        "orig": "AH KHILL RHAT!!",
+        "curr": "آهْ خِلْ رَاتْ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAD9A",
+    "lines": [
+      {
+        "addr": "0x1CAD9A",
+        "orig": "RHAT-RHAT?!?",
+        "curr": "رَاتْ-رَاتْ؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADA8",
+    "lines": [
+      {
+        "addr": "0x1CADA8",
+        "orig": "GRRRHTT!!!",
+        "curr": "[UNTRANSLATED: GRRRHTT!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADB4",
+    "lines": [
+      {
+        "addr": "0x1CADB4",
+        "orig": "KHILL KHILL!!",
+        "curr": "خِلْ خِلْ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADC4",
+    "lines": [
+      {
+        "addr": "0x1CADC4",
+        "orig": "AUUGHA?!?",
+        "curr": "[UNTRANSLATED: AUUGHA?!?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADD0",
+    "lines": [
+      {
+        "addr": "0x1CADD0",
+        "orig": "LET GO,",
+        "curr": "[UNTRANSLATED: LET GO,]"
+      },
+      {
+        "addr": "0x1CADD8",
+        "orig": "YA BRUTE!!",
+        "curr": "[UNTRANSLATED: YA BRUTE!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADE4",
+    "lines": [
+      {
+        "addr": "0x1CADE4",
+        "orig": "THAT'S NO DATE!",
+        "curr": "ذَاكَ لَيْسَ مَوْعِداً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CADF6",
+    "lines": [
+      {
+        "addr": "0x1CADF6",
+        "orig": "BEHIND MY BACK?!",
+        "curr": "خَلْفَ ظَهْرِي؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE08",
+    "lines": [
+      {
+        "addr": "0x1CAE08",
+        "orig": "COME ON!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE12",
+    "lines": [
+      {
+        "addr": "0x1CAE12",
+        "orig": "A FEMALE TOUCH!",
+        "curr": "لَمْسَةٌ نِسَائِيَّة!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE24",
+    "lines": [
+      {
+        "addr": "0x1CAE24",
+        "orig": "OHH, YES!!",
+        "curr": "[UNTRANSLATED: OHH, YES!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE30",
+    "lines": [
+      {
+        "addr": "0x1CAE30",
+        "orig": "HEY, I'M",
+        "curr": ""
+      },
+      {
+        "addr": "0x1CAE39",
+        "orig": "TENDER!",
+        "curr": "[UNTRANSLATED: TENDER!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE42",
+    "lines": [
+      {
+        "addr": "0x1CAE42",
+        "orig": "DON'T TOUCH ME!",
+        "curr": "لَا تَلْمِسْنِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE54",
+    "lines": [
+      {
+        "addr": "0x1CAE54",
+        "orig": "STOP IT, SISTER!",
+        "curr": "تَوَقَّفِي، يَا أُخْتِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE66",
+    "lines": [
+      {
+        "addr": "0x1CAE66",
+        "orig": "HEY?!?",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE6E",
+    "lines": [
+      {
+        "addr": "0x1CAE6E",
+        "orig": "EEEKS -- A MOUSE!!!",
+        "curr": "إِيكْسْ -- فَأرٌ!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAE84",
+    "lines": [
+      {
+        "addr": "0x1CAE84",
+        "orig": "NOT TOO CLOSE,",
+        "curr": "لَيْسَ قَرِيباً جِدّاً،"
+      },
+      {
+        "addr": "0x1CAE93",
+        "orig": "BUDDY BOY!!",
+        "curr": "يَا صَدِيقِي الْوَلَدُ!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAEA0",
+    "lines": [
+      {
+        "addr": "0x1CAEA0",
+        "orig": "SWEEP ME OFF",
+        "curr": "اكْنِسْنِي"
+      },
+      {
+        "addr": "0x1CAEAD",
+        "orig": "MY FEET!??",
+        "curr": "[UNTRANSLATED: MY FEET!??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAEBA",
+    "lines": [
+      {
+        "addr": "0x1CAEBA",
+        "orig": "AYAAA!?!",
+        "curr": "[UNTRANSLATED: AYAAA!?!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAEC4",
+    "lines": [
+      {
+        "addr": "0x1CAEC4",
+        "orig": "WHO TOLD YOU!@?#!",
+        "curr": "مَنْ أَخْبَرَكَ!@?#!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAED8",
+    "lines": [
+      {
+        "addr": "0x1CAED8",
+        "orig": "AH, HOW",
+        "curr": "[UNTRANSLATED: AH, HOW]"
+      },
+      {
+        "addr": "0x1CAEE0",
+        "orig": "PREDICTABLE...",
+        "curr": "مُتَوَقَّعٌ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAEF0",
+    "lines": [
+      {
+        "addr": "0x1CAEF0",
+        "orig": "OH, YOU'RE",
+        "curr": "[UNTRANSLATED: OH, YOU'RE]"
+      },
+      {
+        "addr": "0x1CAEFB",
+        "orig": "SO BORING...",
+        "curr": "مُمِلٌّ جِدّاً..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF0A",
+    "lines": [
+      {
+        "addr": "0x1CAF0A",
+        "orig": "RAAGHI??",
+        "curr": "[UNTRANSLATED: RAAGHI??]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF14",
+    "lines": [
+      {
+        "addr": "0x1CAF14",
+        "orig": "FALLING THROUGH!",
+        "curr": "السُّقُوطُ مِنْ خِلَالِ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF26",
+    "lines": [
+      {
+        "addr": "0x1CAF26",
+        "orig": "PIECA!!",
+        "curr": "[UNTRANSLATED: PIECA!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF30",
+    "lines": [
+      {
+        "addr": "0x1CAF30",
+        "orig": "PHREAAK@#!",
+        "curr": "[UNTRANSLATED: PHREAAK@#!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF3C",
+    "lines": [
+      {
+        "addr": "0x1CAF3C",
+        "orig": "(",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF44",
+    "lines": [
+      {
+        "addr": "0x1CAF44",
+        "orig": "(",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF4C",
+    "lines": [
+      {
+        "addr": "0x1CAF4C",
+        "orig": "HERE, CAN YOU",
+        "curr": ""
+      },
+      {
+        "addr": "0x1CAF5A",
+        "orig": "TAKE THE HEAT?",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF6A",
+    "lines": [
+      {
+        "addr": "0x1CAF6A",
+        "orig": "YOU'RE FIRED!",
+        "curr": "أَنْتَ مَطْرُودٌ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF7A",
+    "lines": [
+      {
+        "addr": "0x1CAF7A",
+        "orig": "FIRE & WATER,",
+        "curr": "النَّارُ وَالْمَاءُ،"
+      },
+      {
+        "addr": "0x1CAF88",
+        "orig": "UNITE!",
+        "curr": "[UNTRANSLATED: UNITE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAF90",
+    "lines": [
+      {
+        "addr": "0x1CAF90",
+        "orig": "DON'T BE SMART",
+        "curr": "لَا تَكُنْ ذَكِيّاً"
+      },
+      {
+        "addr": "0x1CAF9F",
+        "orig": "WITH ME!!!",
+        "curr": "[UNTRANSLATED: WITH ME!!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAFAC",
+    "lines": [
+      {
+        "addr": "0x1CAFAC",
+        "orig": "COME ON!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAFB6",
+    "lines": [
+      {
+        "addr": "0x1CAFB6",
+        "orig": "HOW ARE YOUR",
+        "curr": "كَيْفَ هِيَ"
+      },
+      {
+        "addr": "0x1CAFC3",
+        "orig": "REFLEXES?",
+        "curr": "[UNTRANSLATED: REFLEXES?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAFCE",
+    "lines": [
+      {
+        "addr": "0x1CAFCE",
+        "orig": "KEEP YOUR",
+        "curr": "[UNTRANSLATED: KEEP YOUR]"
+      },
+      {
+        "addr": "0x1CAFD8",
+        "orig": "DISTANCE!",
+        "curr": "[UNTRANSLATED: DISTANCE!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAFE4",
+    "lines": [
+      {
+        "addr": "0x1CAFE4",
+        "orig": "YOUR KUNG-FU",
+        "curr": "كُنغ-فُوكَ"
+      },
+      {
+        "addr": "0x1CAFF1",
+        "orig": "IS GOOD...",
+        "curr": "[UNTRANSLATED: IS GOOD...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CAFFE",
+    "lines": [
+      {
+        "addr": "0x1CAFFE",
+        "orig": "I'M EVERYWHERE...",
+        "curr": "أَنَا فِي كُلِّ مَكَانٍ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB012",
+    "lines": [
+      {
+        "addr": "0x1CB012",
+        "orig": "THANKS FOR THE",
+        "curr": "شُكْراً عَلَى"
+      },
+      {
+        "addr": "0x1CB021",
+        "orig": "LESSON, PAL!",
+        "curr": "الْدَّرْسُ، يَا صَدِيقِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB030",
+    "lines": [
+      {
+        "addr": "0x1CB030",
+        "orig": "SORRY TO",
+        "curr": "[UNTRANSLATED: SORRY TO]"
+      },
+      {
+        "addr": "0x1CB039",
+        "orig": "SEE YOU",
+        "curr": "[UNTRANSLATED: SEE YOU]"
+      },
+      {
+        "addr": "0x1CB041",
+        "orig": "DROP OUT!",
+        "curr": "[UNTRANSLATED: DROP OUT!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB04C",
+    "lines": [
+      {
+        "addr": "0x1CB04C",
+        "orig": "HEH, SAVE YOUR",
+        "curr": "هَيْهْ، اِدَّخِرْ"
+      },
+      {
+        "addr": "0x1CB05B",
+        "orig": "FANCY MOVES...",
+        "curr": "حَرَكَاتِكَ الْمُتَصَنِّعَةُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB06C",
+    "lines": [
+      {
+        "addr": "0x1CB06C",
+        "orig": "YOU NAILED ME!!",
+        "curr": "أَصَبْتَنِي!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB07E",
+    "lines": [
+      {
+        "addr": "0x1CB07E",
+        "orig": "GET THIS RAT",
+        "curr": "اِحْصُلْ عَلَى هَذَا الْفَأرِ"
+      },
+      {
+        "addr": "0x1CB08B",
+        "orig": "OFF MY BACK!",
+        "curr": "مِنْ عَلَى ظَهْرِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB09A",
+    "lines": [
+      {
+        "addr": "0x1CB09A",
+        "orig": "YOUR TIME IS",
+        "curr": "وَقْتُكَ"
+      },
+      {
+        "addr": "0x1CB0A7",
+        "orig": "RUNNING OUT!",
+        "curr": "يَنْفَدُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB0B6",
+    "lines": [
+      {
+        "addr": "0x1CB0B6",
+        "orig": "COME ON!",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB0C0",
+    "lines": [
+      {
+        "addr": "0x1CB0C0",
+        "orig": "COME AND GET ME!",
+        "curr": "تَعَالَ وَخُذْنِي!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB0D2",
+    "lines": [
+      {
+        "addr": "0x1CB0D2",
+        "orig": "DON'T PLAY GAMES",
+        "curr": "لَا تَلْعَبْ أَلْعَاباً"
+      },
+      {
+        "addr": "0x1CB0E3",
+        "orig": "WITH ME!",
+        "curr": "[UNTRANSLATED: WITH ME!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB0EE",
+    "lines": [
+      {
+        "addr": "0x1CB0EE",
+        "orig": "GONNA LET",
+        "curr": "[UNTRANSLATED: GONNA LET]"
+      },
+      {
+        "addr": "0x1CB0F8",
+        "orig": "HER DROWN?",
+        "curr": "[UNTRANSLATED: HER DROWN?]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB104",
+    "lines": [
+      {
+        "addr": "0x1CB104",
+        "orig": "ARGH...NOOOO!",
+        "curr": "آرْغْ...لَاااا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB114",
+    "lines": [
+      {
+        "addr": "0x1CB114",
+        "orig": "I FEEL SORRY",
+        "curr": "أَشْعُرُ بِالْأَسَفِ"
+      },
+      {
+        "addr": "0x1CB121",
+        "orig": "FOR YOU...",
+        "curr": "[UNTRANSLATED: FOR YOU...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB12E",
+    "lines": [
+      {
+        "addr": "0x1CB12E",
+        "orig": "OUCH!!",
+        "curr": "[UNTRANSLATED: OUCH!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB136",
+    "lines": [
+      {
+        "addr": "0x1CB136",
+        "orig": "OH, HERE YOU ARE!",
+        "curr": "أَوْهُ، هَأَنْتَ هُنَا!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB14A",
+    "lines": [
+      {
+        "addr": "0x1CB14A",
+        "orig": "WHAT THE ?@!#?",
+        "curr": "مَا هَذَا ?@!#؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB15A",
+    "lines": [
+      {
+        "addr": "0x1CB15A",
+        "orig": "YOU MUST BE THE",
+        "curr": "عَلَيْكَ أَنْ تَكُونَ الْ"
+      },
+      {
+        "addr": "0x1CB16A",
+        "orig": "CHOSEN ONE...",
+        "curr": "الْمُخْتَارُ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB17A",
+    "lines": [
+      {
+        "addr": "0x1CB17A",
+        "orig": "WHO?? HEY, DO",
+        "curr": "مَنْ؟؟ هَيْ، هَلْ"
+      },
+      {
+        "addr": "0x1CB188",
+        "orig": "I KNOW YOU?",
+        "curr": "أَعْرِفُكَ؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB196",
+    "lines": [
+      {
+        "addr": "0x1CB196",
+        "orig": "I HAVE BEEN",
+        "curr": "لقد كنت"
+      },
+      {
+        "addr": "0x1CB1A2",
+        "orig": "EXPECTING YOU.",
+        "curr": "في انتظارك."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB1B2",
+    "lines": [
+      {
+        "addr": "0x1CB1B2",
+        "orig": "I'M GENERAL ALISSA",
+        "curr": "أَنَا الْجَنْرَالُ أَلِيسَا"
+      },
+      {
+        "addr": "0x1CB1C5",
+        "orig": "CYAN. YOUR NAME?",
+        "curr": "سيان. اسمك؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB1D8",
+    "lines": [
+      {
+        "addr": "0x1CB1D8",
+        "orig": "SKETCH TURNER...",
+        "curr": "سكيتش تورنر..."
+      },
+      {
+        "addr": "0x1CB1E9",
+        "orig": "WAIT A MINUTE!",
+        "curr": "انتظر دقيقة!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB1FA",
+    "lines": [
+      {
+        "addr": "0x1CB1FA",
+        "orig": "SKETCH?!?",
+        "curr": "سكيتش؟!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB206",
+    "lines": [
+      {
+        "addr": "0x1CB206",
+        "orig": "WELL, SKETCH, THIS",
+        "curr": "جَيِّدٌ، يَا سْكِيتْشُ، هَذَا"
+      },
+      {
+        "addr": "0x1CB219",
+        "orig": "MISSION IS CRITICAL.",
+        "curr": "الْمُهَمَّةُ حَرِيجَةٌ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB230",
+    "lines": [
+      {
+        "addr": "0x1CB230",
+        "orig": "I'M IN MY OWN",
+        "curr": "أَنَا فِي خَاصَّتِي"
+      },
+      {
+        "addr": "0x1CB23E",
+        "orig": "COMIC BOOK",
+        "curr": "[UNTRANSLATED: COMIC BOOK]"
+      },
+      {
+        "addr": "0x1CB249",
+        "orig": "-- NOOOO!!!",
+        "curr": "-- لَاااا!!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB256",
+    "lines": [
+      {
+        "addr": "0x1CB256",
+        "orig": "I BEG YOUR PARDON?",
+        "curr": "أَعْذِرْنِي؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB26A",
+    "lines": [
+      {
+        "addr": "0x1CB26A",
+        "orig": "ALISSA, I'M NOT",
+        "curr": "أَلِيسَا، أَنَا لَسْتُ"
+      },
+      {
+        "addr": "0x1CB27A",
+        "orig": "YOUR SUPER-HERO!",
+        "curr": "بَطَلَكَ الْخَارِقُ!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB28C",
+    "lines": [
+      {
+        "addr": "0x1CB28C",
+        "orig": "JUST RELAX! LET'S NOT",
+        "curr": "فَقَطْ اِسْتَرِخْ! لَا نَ"
+      },
+      {
+        "addr": "0x1CB2A2",
+        "orig": "WASTE ANY TIME...",
+        "curr": "نُضَيِّعْ أَيَّ وَقْتٍ..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB2B6",
+    "lines": [
+      {
+        "addr": "0x1CB2B6",
+        "orig": "YOU HAVE A",
+        "curr": "[UNTRANSLATED: YOU HAVE A]"
+      },
+      {
+        "addr": "0x1CB2C1",
+        "orig": "JOB TO DO.",
+        "curr": "[UNTRANSLATED: JOB TO DO.]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB2CE",
+    "lines": [
+      {
+        "addr": "0x1CB2CE",
+        "orig": "A JOB? WHAT ARE YOU",
+        "curr": "عَمَلٌ؟ مَا الَّذِي"
+      },
+      {
+        "addr": "0x1CB2E2",
+        "orig": "TALKING ABOUT??",
+        "curr": "تَتَحَدَّثُ عَنْهُ؟؟"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB2F4",
+    "lines": [
+      {
+        "addr": "0x1CB2F4",
+        "orig": "THAT'S ALL FOR NOW",
+        "curr": "ذَاكَ كُلُّ شَيْءٍ لِلآنَ"
+      },
+      {
+        "addr": "0x1CB307",
+        "orig": "-- I'LL BE IN TOUCH.",
+        "curr": "-- سَأَكُونُ عَلَى اِتِّصَالٍ."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB31E",
+    "lines": [
+      {
+        "addr": "0x1CB31E",
+        "orig": "THIS IS CRAZY!@#!!",
+        "curr": "هَذَا جُنُونٌ!@#!!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB332",
+    "lines": [
+      {
+        "addr": "0x1CB332",
+        "orig": "YOU MAY NEED SOME",
+        "curr": "قد تحتاج إلى بعض"
+      },
+      {
+        "addr": "0x1CB344",
+        "orig": "OF THESE ITEMS...",
+        "curr": "من هذه العناصر..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB358",
+    "lines": [
+      {
+        "addr": "0x1CB358",
+        "orig": "GOOD LUCK!",
+        "curr": "حظاً سعيداً!"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB364",
+    "lines": [
+      {
+        "addr": "0x1CB364",
+        "orig": "YEAH, RIGHT...",
+        "curr": "بالتأكيد، بالطبع..."
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB374",
+    "lines": [
+      {
+        "addr": "0x1CB374",
+        "orig": "JUST MOVE IT,",
+        "curr": "فَقَطْ حَرِّكْهُ،"
+      },
+      {
+        "addr": "0x1CB382",
+        "orig": "TURNER!!",
+        "curr": "[UNTRANSLATED: TURNER!!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB38C",
+    "lines": [
+      {
+        "addr": "0x1CB38C",
+        "orig": "I'M TOO WEAK,",
+        "curr": "أَنَا ضَعِيفٌ جِدّاً،"
+      },
+      {
+        "addr": "0x1CB39A",
+        "orig": "MAN...",
+        "curr": "[UNTRANSLATED: MAN...]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3A2",
+    "lines": [
+      {
+        "addr": "0x1CB3A2",
+        "orig": "WORK IN",
+        "curr": "[UNTRANSLATED: WORK IN]"
+      },
+      {
+        "addr": "0x1CB3AA",
+        "orig": "PROGRESS",
+        "curr": "التقدم"
+      },
+      {
+        "addr": "0x1CB3B3",
+        "orig": "5 JUN 1995",
+        "curr": "[UNTRANSLATED: 5 JUN 1995]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3C0",
+    "lines": [
+      {
+        "addr": "0x1CB3C0",
+        "orig": "SEGA!",
+        "curr": "[UNTRANSLATED: SEGA!]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3C8",
+    "lines": [
+      {
+        "addr": "0x1CB3C8",
+        "orig": "SUPER",
+        "curr": "سوبر"
+      },
+      {
+        "addr": "0x1CB3CE",
+        "orig": "HERO",
+        "curr": "بطل"
+      },
+      {
+        "addr": "0x1CB3D3",
+        "orig": "METER",
+        "curr": "العداد"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3DA",
+    "lines": [
+      {
+        "addr": "0x1CB3DA",
+        "orig": "PROGRESS",
+        "curr": ""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3E4",
+    "lines": [
+      {
+        "addr": "0x1CB3E4",
+        "orig": "SCORE",
+        "curr": "النتيجة"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3EC",
+    "lines": [
+      {
+        "addr": "0x1CB3EC",
+        "orig": "COMBOS X 100",
+        "curr": "مجموعات × 100"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB3FA",
+    "lines": [
+      {
+        "addr": "0x1CB3FA",
+        "orig": "TOTAL",
+        "curr": "المجموع"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB402",
+    "lines": [
+      {
+        "addr": "0x1CB402",
+        "orig": "FINISHES X 100",
+        "curr": "النهايات × 100"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB412",
+    "lines": [
+      {
+        "addr": "0x1CB412",
+        "orig": "\"NIGHT OF THE",
+        "curr": "\"لَيْلَةُ"
+      },
+      {
+        "addr": "0x1CB420",
+        "orig": "MUTANTS\"",
+        "curr": "[UNTRANSLATED: MUTANTS\"]"
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB42A",
+    "lines": [
+      {
+        "addr": "0x1CB42A",
+        "orig": "\"WELCOME TO",
+        "curr": "\"أَهْلاً بِكُمْ فِي"
+      },
+      {
+        "addr": "0x1CB436",
+        "orig": "THE TEMPLE\"",
+        "curr": "الْمَعْبَدِ\""
+      }
+    ]
+  },
+  {
+    "msg_addr": "0x1CB444",
+    "lines": [
+      {
+        "addr": "0x1CB444",
+        "orig": "\"CURSE OF THE",
+        "curr": "\"لَعْنَةُ"
+      },
+      {
+        "addr": "0x1CB452",
+        "orig": "DEAD SHIPS\"",
+        "curr": "السُّفُنِ الْمَوْتَى\""
+      }
+    ]
+  }
+]
