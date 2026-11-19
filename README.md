@@ -10,11 +10,11 @@ Comprehensive Arabic fan translation, custom Rooyin pixel font pipeline, SRAM au
 
 | فقاعات الحوار (Dialogue Bubble) | المشاهد السينمائية السردية (Story Cutscenes) |
 |:---:|:---:|
-| <img src="previews/preview_dialogue_bubble.png" width="450" alt="فقاعة الحوار داخل اللعبة" /><br><sub>**حوار داخل اللعبة:** سكيتش تيرنر يتحدث مع رودكيل داخل القفص ("رودكيل، يا صاحبي!!!")</sub> | <img src="previews/preview_cutscene_story.png" width="450" alt="المشهد السينمائي" /><br><sub>**المشهد الافتتاحي:** مورتس يرسم في مرسمه ("في هذا الجسد من لحم وعظم...")</sub> |
+| <img src="previews/preview_dialogue_bubble.png" width="450" alt="فقاعة الحوار داخل اللعبة" /><br><sub>**حوار داخل اللعبة:** سكيتش تيرنر يتحدث مع رودكيل داخل القفص ("رودكيل، يا صاحبي!")</sub> | <img src="previews/preview_cutscene_story.png" width="450" alt="المشهد السينمائي" /><br><sub>**المشهد الافتتاحي:** مورتس يرسم في مرسمه ("في هذا الجسد من لحم وعظم...")</sub> |
 
 | الصناديق السردية الصفراء (Narrative Box) | بطاقة بداية الحلقة (Episode Title Card) |
 |:---:|:---:|
-| <img src="previews/preview_narrative_box.png" width="450" alt="الصناديق السردية" /><br><sub>**الصناديق السردية:** أليسا وسكيتش في غرفة القيادة بتنسيق الكوميكس الأصفر</sub> | <img src="previews/preview_episode_title.png" width="450" alt="بطاقة الحلقة الأولى" /><br><sub>**شاشة البداية:** الحلقة الأولى ("ليلة المتحولين") بالخط العربي</sub> |
+| <img src="previews/preview_narrative_box.png" width="450" alt="الصناديق السردية" /><br><sub>**الصناديق السردية:** أليسا وسكيتش في غرفة القيادة ("مركز قيادة N.W.E. / نيويورك الحديثة")</sub> | <img src="previews/preview_episode_title.png" width="450" alt="بطاقة الحلقة الأولى" /><br><sub>**شاشة البداية:** الحلقة الأولى ("ليلة المتحولين") بالخط العربي</sub> |
 
 ---
 
